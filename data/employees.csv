@@ -1,0 +1,2001 @@
+employee_id,age,gender,education_level,department,job_title,location,years_experience,years_at_company,performance_score,num_projects,training_hours,certifications,team_size,salary
+EMP0001,53,Female,Bachelor's,Marketing,Senior,Seattle,10,2,2.3,14,16.0,1.0,19,104569.02
+EMP0002,57,Female,Bachelor's,Product,Lead,New York,3,1,3.9,19,11.0,6.0,47,158272.36
+EMP0003,58,Male,PhD,Operations,Lead,Remote,9,0,3.2,13,115.0,5.0,32,147536.69
+EMP0004,35,Female,Bachelor's,HR,Junior,Seattle,7,4,3.5,14,113.0,6.0,15,65086.93
+EMP0005,48,Female,Bachelor's,Engineering,Junior,New York,6,0,3.4,3,17.0,5.0,11,102382.99
+EMP0006,40,Male,Master's,Engineering,Mid-Level,Remote,4,1,2.7,4,110.0,6.0,23,90600.98
+EMP0007,52,Female,Bachelor's,Engineering,Mid-Level,Austin,8,0,2.6,14,118.0,3.0,5,97280.81
+EMP0008,30,Male,Master's,Data Science,Mid-Level,New York,6,0,2.9,14,91.0,5.0,22,142724.34
+EMP0009,59,Female,High School,HR,Senior,Seattle,9,0,3.5,8,59.0,2.0,42,97768.69
+EMP0010,38,Male,Bachelor's,Operations,Junior,San Francisco,12,6,3.1,10,66.0,4.0,18,84511.61
+EMP0011,40,Female,High School,Engineering,Junior,Boston,9,3,2.0,9,114.0,4.0,7,75324.71
+EMP0012,25,Male,High School,Product,Mid-Level,Boston,7,2,2.5,14,14.0,4.0,33,88070.85
+EMP0013,32,Female,PhD,Data Science,Senior,Remote,5,0,3.0,8,15.0,5.0,3,152936.91
+EMP0014,43,Male,Bachelor's,Engineering,Junior,Austin,13,2,3.2,11,21.0,6.0,28,96892.19
+EMP0015,25,Female,Bachelor's,Engineering,Senior,Chicago,3,2,3.6,10,,4.0,1,101549.56
+EMP0016,38,Female,Bachelor's,Engineering,Mid-Level,Boston,0,1,3.2,18,112.0,1.0,49,80011.36
+EMP0017,29,Male,Bachelor's,Sales,Manager,New York,2,0,2.9,4,94.0,2.0,47,115569.49
+EMP0018,55,Female,Master's,Finance,Manager,Austin,13,10,2.9,4,62.0,4.0,37,195068.78
+EMP0019,32,Male,High School,Marketing,Mid-Level,Austin,10,1,3.3,12,30.0,0.0,22,68312.56
+EMP0020,52,Female,Master's,Sales,Mid-Level,New York,14,7,3.5,18,0.0,5.0,48,134614.58
+EMP0021,32,Male,PhD,HR,Mid-Level,Chicago,1,0,3.0,8,74.0,2.0,44,74481.87
+EMP0022,59,Female,Bachelor's,Engineering,Mid-Level,Remote,19,0,2.4,3,5.0,1.0,19,100989.67
+EMP0023,42,Female,PhD,Sales,Senior,Remote,6,0,3.1,18,86.0,4.0,14,119418.24
+EMP0024,51,Male,High School,Sales,Manager,New York,0,1,2.7,7,8.0,1.0,3,90087.68
+EMP0025,31,Male,Bachelor's,Marketing,Senior,New York,13,1,3.4,1,51.0,,19,127681.6
+EMP0026,47,Male,Bachelor's,Data Science,Manager,San Francisco,1,2,4.2,13,,4.0,33,169248.99
+EMP0027,48,Female,Master's,Engineering,Mid-Level,Remote,6,5,2.3,3,61.0,0.0,21,93617.39
+EMP0028,29,Male,PhD,Finance,Junior,New York,6,3,4.0,3,57.0,2.0,1,129220.18
+EMP0029,60,Female,Bachelor's,HR,Lead,Seattle,10,3,3.5,15,101.0,6.0,26,124877.34
+EMP0030,29,Female,Master's,Engineering,Mid-Level,New York,4,3,4.0,19,107.0,0.0,10,133433.46
+EMP0031,29,Male,Bachelor's,HR,Senior,Seattle,11,3,2.9,4,18.0,4.0,35,111181.92
+EMP0032,55,Female,Bachelor's,Engineering,Mid-Level,San Francisco,11,1,2.2,13,108.0,3.0,13,139357.12
+EMP0033,37,Male,Bachelor's,Engineering,Junior,Boston,8,3,3.3,13,12.0,7.0,6,96455.74
+EMP0034,34,Male,PhD,Product,Director,San Francisco,14,6,4.2,15,31.0,2.0,43,400935.67
+EMP0035,44,Female,Master's,Product,Junior,Seattle,7,1,2.5,19,99.0,1.0,6,100294.44
+EMP0036,33,Male,Bachelor's,Data Science,Director,San Francisco,6,7,2.6,16,8.0,4.0,35,216036.11
+EMP0037,48,Male,Bachelor's,Sales,Director,Seattle,17,0,3.6,7,109.0,0.0,16,218684.73
+EMP0038,43,Female,Bachelor's,Engineering,Lead,Remote,9,1,2.8,3,109.0,5.0,41,134977.33
+EMP0039,53,Male,Bachelor's,Operations,Senior,New York,3,0,4.4,2,48.0,6.0,8,101712.79
+EMP0040,48,Non-binary,Bachelor's,Marketing,Senior,Remote,3,0,3.7,18,36.0,3.0,3,74524.68
+EMP0041,23,Non-binary,Master's,Engineering,Manager,Austin,5,5,2.7,11,30.0,6.0,5,156958.51
+EMP0042,54,Male,Bachelor's,Finance,Mid-Level,New York,0,1,2.8,1,30.0,5.0,21,79046.63
+EMP0043,47,Male,Bachelor's,Engineering,Senior,Chicago,4,4,2.8,16,58.0,4.0,31,97281.41
+EMP0044,49,Female,Bachelor's,Data Science,Senior,New York,7,8,3.2,17,54.0,7.0,14,147379.72
+EMP0045,40,Male,Master's,Sales,Mid-Level,Seattle,7,0,3.4,16,18.0,1.0,37,114868.64
+EMP0046,26,Male,Master's,Operations,Mid-Level,Boston,1,0,3.4,10,62.0,0.0,19,79118.21
+EMP0047,54,Female,High School,Sales,Mid-Level,New York,5,2,2.4,17,1.0,2.0,37,73611.13
+EMP0048,41,Male,Master's,Finance,Senior,Austin,13,5,3.8,3,44.0,3.0,20,168858.56
+EMP0049,51,Female,Bachelor's,Finance,Manager,Boston,12,0,3.0,18,95.0,,2,167853.8
+EMP0050,29,Male,High School,Engineering,Mid-Level,Remote,8,9,2.6,19,42.0,4.0,7,83636.61
+EMP0051,59,Male,Bachelor's,Product,Manager,Austin,7,2,2.9,14,97.0,4.0,33,148048.34
+EMP0052,38,Male,Bachelor's,Data Science,Senior,Remote,7,8,3.9,2,0.0,4.0,42,112992.67
+EMP0053,22,Non-binary,Bachelor's,Product,Manager,Austin,4,1,3.3,12,,0.0,6,125008.19
+EMP0054,24,Female,PhD,Data Science,Senior,Chicago,6,1,3.4,11,60.0,2.0,7,153871.65
+EMP0055,47,Female,Master's,HR,Lead,Remote,9,4,2.4,17,2.0,1.0,44,94223.13
+EMP0056,52,Male,Master's,Product,Junior,Austin,10,4,3.3,6,90.0,3.0,18,97964.87
+EMP0057,29,Male,Bachelor's,Engineering,Lead,Chicago,1,0,3.9,19,43.0,6.0,43,103854.16
+EMP0058,29,Male,Bachelor's,Engineering,Junior,Austin,6,7,1.9,13,6.0,7.0,29,68052.23
+EMP0059,56,Male,Master's,Engineering,Manager,Remote,8,6,2.9,7,32.0,4.0,19,161895.9
+EMP0060,60,Female,Bachelor's,Sales,Director,Remote,3,0,3.6,11,8.0,5.0,25,128499.65
+EMP0061,49,Female,High School,Marketing,Mid-Level,Chicago,4,0,3.3,7,29.0,4.0,4,55887.62
+EMP0062,25,Male,Bachelor's,Sales,Mid-Level,San Francisco,6,2,2.5,13,17.0,2.0,13,89043.12
+EMP0063,37,Female,Master's,Data Science,Lead,Austin,7,1,3.5,13,55.0,2.0,32,177542.87
+EMP0064,34,Male,Bachelor's,Sales,Mid-Level,Austin,9,3,2.4,1,89.0,7.0,27,92204.15
+EMP0065,41,Non-binary,High School,Sales,Manager,San Francisco,3,0,2.6,19,83.0,0.0,34,107612.18
+EMP0066,26,Male,Master's,Finance,Junior,Boston,8,3,2.7,19,,0.0,28,97973.06
+EMP0067,58,Male,Bachelor's,Engineering,Junior,Austin,7,2,4.3,15,104.0,5.0,9,86893.14
+EMP0068,41,Male,Bachelor's,Data Science,Director,San Francisco,8,0,2.0,14,118.0,5.0,8,217379.64
+EMP0069,45,Male,Bachelor's,Engineering,Senior,New York,6,2,2.1,3,30.0,0.0,21,125476.48
+EMP0070,57,Female,Bachelor's,Product,Manager,San Francisco,9,0,3.4,4,71.0,3.0,46,209777.26
+EMP0071,55,Male,Master's,Data Science,Mid-Level,Remote,16,0,3.3,7,62.0,5.0,30,133763.32
+EMP0072,55,Male,Bachelor's,Engineering,Senior,San Francisco,6,2,2.9,1,86.0,0.0,29,148577.31
+EMP0073,40,Female,Bachelor's,Engineering,Senior,New York,5,6,3.2,19,49.0,4.0,9,133643.18
+EMP0074,38,Female,Master's,Data Science,Senior,Chicago,3,0,2.5,3,88.0,0.0,13,118037.31
+EMP0075,26,Female,Master's,Operations,Senior,San Francisco,7,1,3.3,15,110.0,6.0,18,135955.4
+EMP0076,46,Male,Master's,Operations,Senior,New York,7,0,3.3,13,0.0,3.0,38,128058.67
+EMP0077,39,Female,Bachelor's,Data Science,Mid-Level,San Francisco,8,0,4.1,14,109.0,0.0,22,147119.8
+EMP0078,29,Female,Bachelor's,Engineering,Mid-Level,Austin,10,1,4.5,7,81.0,0.0,31,124964.51
+EMP0079,48,Male,PhD,Sales,Lead,Austin,9,3,3.0,1,18.0,4.0,35,152523.18
+EMP0080,36,Male,Master's,Engineering,Mid-Level,San Francisco,7,0,,13,114.0,5.0,42,150577.5
+EMP0081,34,Male,High School,Data Science,Senior,Chicago,16,9,3.5,4,105.0,4.0,42,133748.02
+EMP0082,37,Male,High School,HR,Mid-Level,Remote,11,0,,12,63.0,6.0,10,61956.06
+EMP0083,43,Male,Bachelor's,Sales,Senior,Chicago,2,3,3.1,7,115.0,6.0,9,88455.85
+EMP0084,41,Male,PhD,Engineering,Lead,San Francisco,0,1,2.1,2,52.0,7.0,31,168238.67
+EMP0085,34,Female,Bachelor's,Sales,Mid-Level,San Francisco,4,2,3.3,17,5.0,4.0,44,92057.54
+EMP0086,41,Female,Bachelor's,Sales,Junior,Chicago,8,0,3.5,1,16.0,0.0,40,58868.97
+EMP0087,23,Female,Bachelor's,Operations,Junior,Boston,4,2,3.9,14,45.0,4.0,24,61334.39
+EMP0088,56,Female,Master's,HR,Senior,San Francisco,4,2,2.8,1,108.0,2.0,41,105098.1
+EMP0089,40,Male,Master's,Data Science,Manager,Seattle,8,5,2.6,3,71.0,1.0,49,208340.56
+EMP0090,58,Female,Bachelor's,Finance,Junior,New York,6,2,2.8,11,117.0,1.0,8,82865.43
+EMP0091,27,Female,Master's,Engineering,Lead,Chicago,0,1,3.9,7,105.0,4.0,20,129459.44
+EMP0092,35,Male,PhD,Operations,Mid-Level,Boston,13,5,4.2,9,72.0,5.0,17,129696.43
+EMP0093,25,Female,Bachelor's,Operations,Senior,San Francisco,7,8,4.0,3,100.0,3.0,28,129037.87
+EMP0094,43,Non-binary,Bachelor's,Finance,Manager,Austin,1,2,3.7,1,54.0,6.0,6,115804.7
+EMP0095,60,Female,Bachelor's,Data Science,Mid-Level,San Francisco,8,6,3.2,19,90.0,4.0,42,137727.18
+EMP0096,57,Female,Master's,Finance,Senior,Boston,2,2,3.3,2,99.0,5.0,33,128115.18
+EMP0097,55,Male,Bachelor's,Finance,Junior,New York,4,3,3.4,5,5.0,4.0,28,82205.85
+EMP0098,48,Male,Master's,Marketing,Junior,Remote,10,3,3.0,17,69.0,0.0,1,68058.28
+EMP0099,28,Male,Master's,Engineering,Mid-Level,San Francisco,10,3,3.8,19,108.0,6.0,41,174469.13
+EMP0100,24,Female,Bachelor's,Engineering,Junior,Remote,6,1,2.0,5,67.0,,35,64598.1
+EMP0101,54,Female,PhD,Engineering,Senior,San Francisco,9,2,2.2,14,85.0,5.0,24,211454.18
+EMP0102,23,Non-binary,Bachelor's,HR,Mid-Level,Boston,5,2,2.0,10,39.0,6.0,6,65642.71
+EMP0103,37,Male,Bachelor's,Sales,Senior,San Francisco,4,1,2.6,7,90.0,3.0,7,112321.65
+EMP0104,46,Male,Master's,Finance,Junior,Remote,6,1,4.1,8,100.0,4.0,9,84370.93
+EMP0105,36,Female,Master's,Data Science,Mid-Level,New York,0,1,2.4,8,65.0,2.0,37,98946.48
+EMP0106,45,Female,Bachelor's,Engineering,Senior,New York,7,2,2.4,7,8.0,5.0,16,136428.11
+EMP0107,36,Male,Master's,Marketing,Director,Austin,10,0,2.6,13,,1.0,34,164464.33
+EMP0108,52,Male,PhD,Operations,Junior,New York,9,5,4.0,14,19.0,5.0,35,107044.16
+EMP0109,35,Female,Bachelor's,Engineering,Manager,San Francisco,4,5,4.2,19,115.0,7.0,35,193856.64
+EMP0110,35,Female,PhD,Engineering,Senior,Remote,12,1,3.9,11,42.0,2.0,20,178339.08
+EMP0111,27,Male,Bachelor's,Sales,Senior,Remote,7,0,4.0,2,102.0,6.0,23,104571.35
+EMP0112,35,Male,Bachelor's,Engineering,Senior,Chicago,11,8,4.4,17,57.0,7.0,42,139588.83
+EMP0113,38,Non-binary,Bachelor's,Product,Junior,Remote,10,6,1.9,6,77.0,2.0,35,74727.28
+EMP0114,39,Female,Master's,Data Science,Junior,Austin,15,0,2.3,9,25.0,6.0,47,104745.22
+EMP0115,41,Male,Master's,HR,Senior,San Francisco,9,0,2.7,19,37.0,2.0,46,125854.1
+EMP0116,38,Male,Bachelor's,Data Science,Mid-Level,Seattle,11,1,3.3,5,93.0,3.0,23,139210.64
+EMP0117,37,Female,Bachelor's,Data Science,Manager,Seattle,7,3,3.3,9,35.0,3.0,4,192024.82
+EMP0118,61,Male,Master's,Engineering,Mid-Level,Remote,5,0,3.3,7,101.0,5.0,10,102197.65
+EMP0119,60,Male,High School,Data Science,Junior,San Francisco,10,2,3.8,4,98.0,7.0,43,111489.01
+EMP0120,53,Female,Master's,Finance,Lead,Seattle,15,1,1.9,18,54.0,3.0,11,192735.4
+EMP0121,30,Male,Master's,Data Science,Mid-Level,New York,4,5,,18,5.0,1.0,40,135251.94
+EMP0122,48,Female,Bachelor's,Data Science,Senior,New York,6,1,3.4,17,2.0,,9,142139.91
+EMP0123,54,Male,PhD,Sales,Senior,New York,8,2,3.0,4,64.0,6.0,40,177645.83
+EMP0124,31,Female,Bachelor's,Engineering,Manager,Remote,11,9,3.3,16,63.0,0.0,12,164619.07
+EMP0125,38,Male,PhD,Engineering,Lead,Boston,9,1,3.9,5,57.0,5.0,17,237018.36
+EMP0126,57,Male,Master's,Marketing,Senior,Boston,12,1,3.2,9,116.0,4.0,32,146574.02
+EMP0127,38,Male,Master's,Data Science,Senior,Austin,17,4,4.7,2,57.0,4.0,23,217945.74
+EMP0128,39,Female,Bachelor's,Data Science,Director,San Francisco,4,0,3.9,2,17.0,5.0,15,222668.52
+EMP0129,44,Female,Master's,Engineering,Mid-Level,New York,11,5,3.4,4,22.0,0.0,28,150280.36
+EMP0130,55,Male,Bachelor's,Finance,Junior,San Francisco,9,0,3.6,17,95.0,4.0,38,103684.82
+EMP0131,29,Female,Bachelor's,Marketing,Mid-Level,Chicago,8,0,3.7,19,28.0,5.0,5,75752.28
+EMP0132,34,Female,High School,Engineering,Mid-Level,Boston,11,6,4.4,3,22.0,5.0,40,111796.66
+EMP0133,44,Non-binary,Bachelor's,Engineering,Senior,Austin,6,2,4.0,5,35.0,2.0,18,125842.38
+EMP0134,41,Male,Bachelor's,Sales,Senior,New York,9,3,3.6,10,,1.0,21,129132.01
+EMP0135,43,Female,Master's,Product,Senior,New York,1,0,2.7,6,80.0,7.0,15,135357.78
+EMP0136,44,Male,Master's,Sales,Junior,New York,5,0,3.5,3,81.0,4.0,3,93949.05
+EMP0137,56,Male,High School,Finance,Lead,Chicago,13,5,3.6,17,94.0,1.0,46,122419.79
+EMP0138,24,Non-binary,Master's,Operations,Mid-Level,Remote,6,1,3.7,10,5.0,6.0,26,86319.84
+EMP0139,55,Female,Bachelor's,Sales,Senior,Seattle,9,1,2.7,12,33.0,5.0,15,109475.72
+EMP0140,54,Male,Master's,Product,Senior,Boston,5,0,3.7,1,43.0,0.0,45,150404.52
+EMP0141,38,Male,Master's,Product,Mid-Level,Chicago,12,1,3.8,18,43.0,5.0,20,137789.14
+EMP0142,40,Female,Bachelor's,Sales,Junior,Chicago,14,4,2.4,19,26.0,4.0,21,65894.2
+EMP0143,51,Female,Master's,Finance,Junior,New York,5,5,2.4,4,99.0,1.0,26,88407.98
+EMP0144,44,Male,Bachelor's,Sales,Manager,Remote,0,1,4.0,15,,2.0,41,89371.26
+EMP0145,36,Female,Bachelor's,Sales,Manager,Boston,10,3,,9,51.0,7.0,23,155376.99
+EMP0146,35,Male,Master's,Engineering,Senior,New York,12,2,4.3,6,41.0,2.0,49,227295.68
+EMP0147,23,Male,Bachelor's,HR,Junior,Austin,5,2,3.0,12,24.0,5.0,25,50937.13
+EMP0148,60,Female,Bachelor's,Finance,Mid-Level,Austin,15,4,3.5,18,73.0,0.0,4,112558.92
+EMP0149,39,Male,Bachelor's,Engineering,Lead,Seattle,15,0,3.4,15,38.0,6.0,10,179409.88
+EMP0150,27,Male,Master's,Sales,Lead,Remote,6,0,2.7,19,109.0,7.0,22,116363.77
+EMP0151,53,Female,Bachelor's,Data Science,Junior,Austin,8,8,4.2,9,38.0,3.0,3,98549.1
+EMP0152,42,Female,Bachelor's,Engineering,Junior,Austin,5,0,3.0,13,11.0,4.0,19,68399.54
+EMP0153,61,Male,Master's,Engineering,Lead,New York,2,0,3.2,16,10.0,5.0,31,175119.94
+EMP0154,49,Female,Master's,Finance,Mid-Level,New York,3,2,1.8,13,112.0,2.0,9,108692.23
+EMP0155,48,Female,Bachelor's,Product,Mid-Level,San Francisco,11,4,2.3,1,106.0,2.0,29,138828.77
+EMP0156,23,Male,Bachelor's,Engineering,Junior,New York,5,2,4.0,18,116.0,0.0,37,89841.3
+EMP0157,54,Female,Bachelor's,Operations,Senior,Boston,12,1,3.2,3,2.0,2.0,46,104550.71
+EMP0158,37,Male,Bachelor's,Operations,Manager,Boston,19,11,2.8,17,114.0,4.0,7,140001.89
+EMP0159,60,Male,Bachelor's,Engineering,Director,New York,10,3,,5,21.0,0.0,38,244181.19
+EMP0160,43,Female,Master's,Operations,Senior,Remote,4,5,3.6,6,3.0,1.0,24,88167.98
+EMP0161,34,Non-binary,Master's,Sales,Senior,New York,13,0,4.1,17,7.0,0.0,8,163108.87
+EMP0162,23,Male,Master's,HR,Junior,San Francisco,3,0,2.8,17,13.0,6.0,34,73224.01
+EMP0163,35,Male,Bachelor's,HR,Senior,San Francisco,16,1,4.0,1,,4.0,26,134594.12
+EMP0164,59,Male,Master's,Finance,Mid-Level,Chicago,0,0,3.1,7,87.0,,28,76830.15
+EMP0165,49,Male,Bachelor's,Engineering,Senior,San Francisco,5,0,3.6,16,13.0,4.0,28,146002.44
+EMP0166,28,Male,PhD,Data Science,Mid-Level,Austin,10,0,2.0,5,91.0,1.0,46,131281.15
+EMP0167,39,Male,Master's,Sales,Mid-Level,Chicago,13,2,2.1,16,15.0,5.0,7,93976.21
+EMP0168,57,Female,Bachelor's,Engineering,Junior,Remote,4,3,3.8,4,31.0,0.0,3,63499.13
+EMP0169,57,Male,Master's,Engineering,Mid-Level,New York,3,4,3.4,11,63.0,4.0,22,133884.05
+EMP0170,25,Male,Bachelor's,HR,Junior,New York,7,0,3.5,14,110.0,4.0,38,75553.99
+EMP0171,51,Female,Master's,Operations,Junior,New York,17,1,2.4,13,75.0,1.0,46,93155.25
+EMP0172,45,Female,High School,Engineering,Director,Seattle,0,0,2.9,8,15.0,3.0,44,131766.05
+EMP0173,41,Male,Bachelor's,Finance,Mid-Level,New York,6,1,2.0,15,51.0,0.0,18,98507.48
+EMP0174,52,Male,Master's,Engineering,Senior,Remote,9,1,2.6,18,18.0,7.0,12,132930.34
+EMP0175,45,Female,Bachelor's,HR,Manager,Austin,4,2,3.2,7,68.0,4.0,31,101727.82
+EMP0176,28,Male,Master's,Engineering,Director,Austin,4,5,3.4,19,11.0,2.0,39,197192.53
+EMP0177,47,Male,Bachelor's,Operations,Senior,Austin,6,4,2.7,9,92.0,,5,85373.08
+EMP0178,34,Female,Master's,Marketing,Lead,New York,9,3,3.6,11,4.0,3.0,44,172133.17
+EMP0179,29,Male,Master's,Product,Mid-Level,San Francisco,7,6,3.2,10,41.0,3.0,41,148042.5
+EMP0180,26,Male,Bachelor's,Engineering,Mid-Level,San Francisco,8,3,3.0,14,16.0,1.0,29,125052.46
+EMP0181,34,Male,Bachelor's,Sales,Mid-Level,Austin,10,5,3.3,16,110.0,3.0,43,99039.34
+EMP0182,50,Male,Bachelor's,Engineering,Senior,San Francisco,9,2,4.7,8,71.0,4.0,36,176615.48
+EMP0183,41,Male,High School,Product,Senior,New York,13,2,3.1,1,103.0,3.0,14,150668.09
+EMP0184,35,Non-binary,Bachelor's,Data Science,Mid-Level,Remote,10,3,3.9,12,103.0,0.0,44,107755.02
+EMP0185,53,Male,Master's,Sales,Junior,New York,5,0,3.6,3,93.0,7.0,18,87185.57
+EMP0186,48,Male,PhD,Operations,Senior,Boston,6,3,3.0,2,9.0,2.0,7,124879.49
+EMP0187,46,Male,Master's,Data Science,Junior,Boston,2,3,2.1,16,83.0,7.0,23,81566.2
+EMP0188,25,Female,Master's,Finance,Senior,San Francisco,7,3,2.8,4,108.0,7.0,33,176650.73
+EMP0189,42,Female,Master's,Finance,Senior,New York,12,0,3.3,2,15.0,4.0,45,183968.13
+EMP0190,39,Male,Master's,Engineering,Lead,New York,0,1,3.1,12,104.0,1.0,16,151409.65
+EMP0191,60,Female,Bachelor's,Engineering,Lead,Seattle,14,4,4.1,17,15.0,2.0,37,188144.29
+EMP0192,36,Male,PhD,Data Science,Manager,Seattle,0,1,,10,41.0,5.0,25,168233.58
+EMP0193,59,Male,Master's,Data Science,Senior,Boston,10,1,3.1,8,2.0,4.0,9,174934.91
+EMP0194,45,Male,Bachelor's,HR,Lead,Remote,0,1,3.6,18,22.0,2.0,28,68251.77
+EMP0195,29,Male,Bachelor's,Sales,Senior,Seattle,5,5,3.0,18,85.0,3.0,9,106824.62
+EMP0196,49,Male,Bachelor's,Sales,Junior,New York,14,0,3.9,18,27.0,5.0,12,98461.67
+EMP0197,42,Female,Bachelor's,Operations,Junior,San Francisco,14,5,2.4,2,109.0,1.0,18,87422.78
+EMP0198,37,Male,Master's,Data Science,Mid-Level,Remote,9,1,2.1,12,44.0,1.0,27,111534.2
+EMP0199,37,Female,Bachelor's,Data Science,Mid-Level,San Francisco,11,2,3.0,10,99.0,7.0,26,161183.48
+EMP0200,56,Male,Bachelor's,Data Science,Senior,New York,0,1,3.2,8,67.0,0.0,26,107064.37
+EMP0201,38,Male,PhD,HR,Manager,Seattle,10,3,,19,101.0,3.0,10,173373.18
+EMP0202,30,Male,Bachelor's,Engineering,Junior,Chicago,12,4,3.3,10,23.0,7.0,17,86466.82
+EMP0203,56,Female,Bachelor's,Engineering,Junior,Remote,20,1,2.9,11,18.0,0.0,32,80005.17
+EMP0204,50,Male,High School,Data Science,Director,Seattle,4,5,2.1,14,74.0,0.0,24,147785.95
+EMP0205,60,Female,Master's,HR,Junior,New York,8,4,3.1,15,39.0,3.0,43,81712.05
+EMP0206,39,Male,PhD,Engineering,Senior,Remote,8,4,2.5,10,45.0,4.0,48,149020.7
+EMP0207,33,Male,Bachelor's,Engineering,Senior,San Francisco,11,1,3.2,4,39.0,5.0,8,182089.89
+EMP0208,40,Male,Master's,Operations,Senior,San Francisco,12,0,2.4,7,61.0,6.0,30,156830.01
+EMP0209,43,Male,Bachelor's,Engineering,Junior,Chicago,13,2,3.5,11,109.0,0.0,26,93889.21
+EMP0210,36,Male,PhD,Engineering,Junior,New York,12,6,4.4,3,118.0,2.0,24,151493.82
+EMP0211,22,Male,Master's,Finance,Junior,Austin,0,0,2.7,5,102.0,5.0,27,63893.72
+EMP0212,23,Female,Master's,Operations,Senior,New York,0,1,2.3,2,116.0,4.0,15,89472.78
+EMP0213,29,Male,High School,Operations,Senior,Chicago,5,4,4.0,12,17.0,7.0,28,71463.37
+EMP0214,43,Female,PhD,Engineering,Mid-Level,San Francisco,7,3,4.4,5,11.0,3.0,11,186634.26
+EMP0215,46,Male,Master's,Operations,Senior,Boston,4,3,2.3,7,13.0,1.0,39,94178.31
+EMP0216,23,Male,Bachelor's,Engineering,Manager,Boston,5,2,3.1,4,110.0,4.0,2,150962.44
+EMP0217,30,Female,Master's,Sales,Junior,New York,6,3,3.5,11,81.0,7.0,9,98318.83
+EMP0218,30,Male,Bachelor's,Operations,Senior,Chicago,10,1,3.0,9,60.0,0.0,45,95763.67
+EMP0219,34,Male,Master's,HR,Senior,Chicago,2,3,2.0,4,107.0,2.0,23,67481.79
+EMP0220,27,Female,Bachelor's,Data Science,Mid-Level,New York,7,3,2.2,9,105.0,7.0,33,120696.87
+EMP0221,51,Female,Master's,Operations,Mid-Level,Boston,7,4,2.3,12,11.0,5.0,19,94756.38
+EMP0222,36,Male,Bachelor's,Finance,Senior,Seattle,10,4,2.5,16,103.0,3.0,13,136612.69
+EMP0223,36,Male,High School,Engineering,Manager,San Francisco,13,0,3.3,1,26.0,1.0,14,187187.86
+EMP0224,28,Female,Bachelor's,Sales,Lead,Chicago,10,0,4.0,8,5.0,5.0,32,121937.96
+EMP0225,32,Male,High School,Sales,Senior,New York,4,4,2.2,1,87.0,2.0,49,82550.64
+EMP0226,61,Female,Bachelor's,Engineering,Lead,Seattle,0,0,2.6,19,114.0,6.0,22,108912.15
+EMP0227,59,Male,Bachelor's,Product,Mid-Level,New York,6,2,2.4,4,32.0,1.0,20,110474.7
+EMP0228,61,Male,Bachelor's,Marketing,Senior,Remote,0,1,3.4,14,108.0,3.0,33,63573.81
+EMP0229,23,Female,Bachelor's,Data Science,Senior,Boston,5,0,2.6,14,117.0,5.0,5,121911.37
+EMP0230,60,Female,Bachelor's,HR,Junior,Chicago,3,0,2.5,9,79.0,4.0,20,42411.62
+EMP0231,31,Male,Master's,Data Science,Lead,Austin,10,5,2.1,9,49.0,0.0,14,176781.24
+EMP0232,38,Male,High School,Finance,Senior,Remote,12,2,4.2,17,11.0,,27,99007.5
+EMP0233,28,Female,PhD,HR,Mid-Level,Austin,9,2,4.7,15,94.0,7.0,26,113792.73
+EMP0234,61,Female,Master's,Finance,Manager,New York,18,8,3.3,10,56.0,2.0,32,256457.65
+EMP0235,60,Male,Master's,Engineering,Junior,Chicago,6,0,4.2,17,100.0,4.0,30,93186.4
+EMP0236,25,Female,Bachelor's,Operations,Mid-Level,Remote,3,0,2.8,9,52.0,5.0,27,56726.02
+EMP0237,56,Female,Master's,Sales,Junior,Seattle,3,4,3.2,4,12.0,1.0,26,68280.37
+EMP0238,57,Female,Bachelor's,Engineering,Lead,Seattle,11,4,3.7,14,71.0,4.0,18,193450.01
+EMP0239,52,Female,High School,HR,Lead,Remote,7,1,2.7,3,101.0,4.0,45,81255.27
+EMP0240,46,Male,Bachelor's,Engineering,Mid-Level,Remote,3,4,3.1,12,2.0,2.0,23,74400.51
+EMP0241,34,Female,Master's,Product,Senior,Remote,10,8,3.0,1,63.0,0.0,44,125736.77
+EMP0242,39,Female,High School,Product,Mid-Level,New York,11,0,3.5,1,83.0,6.0,47,110666.24
+EMP0243,42,Male,Bachelor's,Data Science,Lead,Austin,9,0,3.2,13,57.0,7.0,24,164255.59
+EMP0244,22,Male,PhD,Marketing,Senior,Boston,4,5,2.7,14,3.0,7.0,4,121488.83
+EMP0245,57,Male,Master's,Engineering,Mid-Level,Boston,8,1,3.0,16,107.0,4.0,41,140056.64
+EMP0246,29,Female,Bachelor's,Product,Manager,Seattle,5,0,4.0,7,44.0,4.0,3,172217.16
+EMP0247,42,Male,High School,Marketing,Mid-Level,New York,12,4,3.6,10,,0.0,43,99726.97
+EMP0248,42,Female,Master's,Product,Junior,Boston,3,1,3.5,15,114.0,0.0,30,90163.78
+EMP0249,48,Female,Bachelor's,Product,Senior,Boston,2,2,4.8,8,35.0,1.0,47,121403.45
+EMP0250,40,Female,Bachelor's,Data Science,Director,New York,13,0,2.4,11,22.0,5.0,16,249293.21
+EMP0251,44,Female,High School,Sales,Mid-Level,Chicago,6,3,3.7,14,108.0,7.0,7,70294.64
+EMP0252,56,Non-binary,PhD,Marketing,Junior,New York,16,2,3.2,13,18.0,1.0,39,116959.38
+EMP0253,61,Male,Master's,Data Science,Mid-Level,San Francisco,12,0,3.4,13,39.0,0.0,22,176676.95
+EMP0254,26,Female,Master's,Sales,Senior,New York,5,1,3.3,9,71.0,,41,138867.73
+EMP0255,29,Male,Master's,Engineering,Junior,Chicago,10,2,2.7,17,15.0,3.0,31,88932.71
+EMP0256,32,Female,Bachelor's,Finance,Senior,Austin,14,7,2.5,18,57.0,0.0,49,125900.3
+EMP0257,37,Male,Bachelor's,Product,Director,Seattle,11,7,3.2,19,106.0,1.0,13,221411.55
+EMP0258,60,Non-binary,Bachelor's,Operations,Senior,Seattle,10,1,2.7,13,17.0,2.0,41,109352.72
+EMP0259,45,Female,Bachelor's,HR,Mid-Level,Remote,5,3,2.9,12,35.0,2.0,41,55480.03
+EMP0260,42,Female,Bachelor's,Engineering,Mid-Level,San Francisco,17,4,3.8,8,,,29,160194.08
+EMP0261,44,Male,Master's,HR,Junior,New York,14,4,2.3,11,,4.0,28,81562.35
+EMP0262,59,Male,Master's,Product,Manager,Remote,5,2,3.1,7,0.0,6.0,44,156785.99
+EMP0263,29,Female,Master's,Engineering,Mid-Level,New York,11,0,3.9,1,63.0,2.0,19,170194.69
+EMP0264,28,Male,Bachelor's,Finance,Mid-Level,Remote,8,4,2.8,10,61.0,1.0,23,80742.97
+EMP0265,23,Female,Master's,Data Science,Senior,Remote,3,0,4.2,15,109.0,2.0,47,117068.53
+EMP0266,51,Male,Master's,Operations,Mid-Level,Austin,5,0,2.1,4,35.0,6.0,8,78809.99
+EMP0267,34,Female,Bachelor's,Operations,Senior,Remote,12,2,4.5,1,74.0,6.0,25,101306.27
+EMP0268,44,Male,Master's,Operations,Junior,New York,3,4,3.2,11,17.0,3.0,38,76546.16
+EMP0269,50,Female,Bachelor's,Sales,Lead,San Francisco,2,0,2.3,5,15.0,0.0,38,105961.59
+EMP0270,59,Female,Bachelor's,Sales,Director,Seattle,5,3,3.8,19,16.0,0.0,35,153530.57
+EMP0271,58,Male,Bachelor's,Data Science,Senior,San Francisco,6,1,3.5,19,23.0,1.0,26,160022.2
+EMP0272,41,Male,Bachelor's,Data Science,Director,Remote,4,5,4.2,4,97.0,4.0,3,161223.74
+EMP0273,54,Male,Bachelor's,Data Science,Junior,New York,5,2,2.1,2,67.0,6.0,2,92722.71
+EMP0274,50,Female,Master's,Data Science,Senior,Austin,12,0,2.4,7,98.0,0.0,5,153506.23
+EMP0275,36,Female,PhD,Finance,Senior,Austin,9,0,3.7,13,78.0,7.0,20,186536.48
+EMP0276,44,Female,Master's,Finance,Senior,Seattle,5,1,5.0,12,1.0,2.0,12,159542.86
+EMP0277,24,Male,Master's,Data Science,Mid-Level,San Francisco,5,0,3.6,2,119.0,6.0,38,161417.81
+EMP0278,58,Male,Bachelor's,HR,Mid-Level,Chicago,7,0,3.7,9,114.0,3.0,16,67550.25
+EMP0279,50,Male,Master's,Operations,Junior,Remote,7,3,2.7,16,94.0,7.0,37,63701.02
+EMP0280,29,Male,High School,Data Science,Mid-Level,San Francisco,7,1,3.1,8,72.0,4.0,38,117888.74
+EMP0281,43,Male,Bachelor's,Data Science,Junior,Remote,12,3,2.8,18,9.0,4.0,36,84270.94
+EMP0282,50,Non-binary,Bachelor's,Sales,Lead,Austin,8,0,3.6,4,52.0,4.0,46,115332.44
+EMP0283,23,Female,Bachelor's,Marketing,Mid-Level,Boston,5,2,3.9,11,88.0,7.0,29,85815.11
+EMP0284,22,Male,High School,Engineering,Junior,Seattle,4,1,3.3,17,50.0,0.0,35,64315.25
+EMP0285,41,Female,Bachelor's,HR,Senior,San Francisco,17,0,3.8,8,68.0,5.0,49,141580.71
+EMP0286,42,Female,Bachelor's,Engineering,Senior,Austin,1,2,3.2,19,13.0,4.0,37,93499.65
+EMP0287,58,Male,PhD,Marketing,Manager,Remote,0,0,4.1,8,105.0,7.0,21,118124.99
+EMP0288,29,Male,Bachelor's,Finance,Senior,Chicago,6,5,2.6,6,111.0,7.0,21,99948.44
+EMP0289,48,Male,Bachelor's,Sales,Mid-Level,Remote,11,2,4.2,2,101.0,1.0,28,89100.12
+EMP0290,56,Male,Bachelor's,HR,Lead,Chicago,9,2,2.7,15,103.0,2.0,6,91925.82
+EMP0291,27,Non-binary,Master's,Engineering,Senior,New York,9,0,3.2,1,65.0,5.0,20,204627.49
+EMP0292,40,Female,Bachelor's,Engineering,Junior,Chicago,6,1,2.4,6,81.0,3.0,36,66006.64
+EMP0293,39,Male,Bachelor's,Data Science,Senior,Remote,0,1,3.6,19,92.0,2.0,13,95904.04
+EMP0294,22,Male,Bachelor's,Sales,Manager,San Francisco,1,2,3.3,4,52.0,1.0,40,122642.09
+EMP0295,46,Female,High School,Engineering,Mid-Level,Remote,10,0,3.7,13,116.0,,11,89144.12
+EMP0296,48,Female,High School,Finance,Mid-Level,Remote,13,0,2.0,15,116.0,6.0,24,77272.19
+EMP0297,28,Female,Bachelor's,Operations,Junior,San Francisco,0,1,3.3,9,83.0,5.0,19,60203.81
+EMP0298,50,Female,High School,Engineering,Junior,New York,15,1,3.5,3,63.0,2.0,23,101997.94
+EMP0299,52,Male,Bachelor's,HR,Mid-Level,Boston,10,0,2.5,2,71.0,0.0,31,78701.91
+EMP0300,57,Female,Bachelor's,Engineering,Senior,San Francisco,7,2,3.6,16,100.0,6.0,37,151954.98
+EMP0301,40,Female,Master's,Engineering,Junior,Boston,4,1,1.6,18,48.0,1.0,37,82966.86
+EMP0302,27,Male,Bachelor's,Finance,Manager,Chicago,9,1,3.1,18,111.0,4.0,3,159734.33
+EMP0303,46,Female,Bachelor's,Finance,Lead,Austin,12,1,4.2,6,89.0,3.0,34,156495.59
+EMP0304,52,Male,Bachelor's,HR,Senior,Boston,10,2,,18,61.0,7.0,29,108155.84
+EMP0305,30,Male,PhD,Operations,Manager,Chicago,4,0,2.7,11,36.0,3.0,3,123928.47
+EMP0306,41,Male,Bachelor's,Product,Junior,Chicago,16,0,,7,48.0,1.0,15,82976.26
+EMP0307,31,Male,High School,Finance,Senior,Chicago,8,1,3.3,14,67.0,4.0,7,91466.37
+EMP0308,58,Male,Master's,Sales,Senior,Chicago,9,1,3.8,18,32.0,2.0,3,123118.35
+EMP0309,48,Male,Bachelor's,Data Science,Manager,Austin,8,1,3.3,7,21.0,7.0,47,178822.95
+EMP0310,34,Male,Bachelor's,Sales,Lead,Boston,4,4,3.7,10,69.0,3.0,43,105413.22
+EMP0311,23,Male,Bachelor's,Marketing,Mid-Level,Chicago,5,6,3.3,8,32.0,4.0,16,71616.64
+EMP0312,42,Male,Master's,Engineering,Director,Austin,11,0,2.7,14,27.0,4.0,45,245268.25
+EMP0313,54,Male,Bachelor's,Engineering,Junior,Seattle,5,5,2.2,18,87.0,0.0,34,72382.2
+EMP0314,45,Female,Master's,Product,Manager,San Francisco,9,1,3.5,5,3.0,,20,228472.63
+EMP0315,55,Male,PhD,Data Science,Director,San Francisco,8,0,1.5,14,65.0,4.0,44,303069.75
+EMP0316,30,Male,Bachelor's,Operations,Junior,Remote,12,12,2.0,10,76.0,6.0,39,56591.42
+EMP0317,23,Female,Bachelor's,Marketing,Lead,Boston,5,5,2.2,15,109.0,2.0,33,96398.0
+EMP0318,51,Female,Bachelor's,Engineering,Junior,Austin,9,10,3.7,6,48.0,3.0,14,86419.57
+EMP0319,43,Female,Bachelor's,Engineering,Mid-Level,Seattle,10,0,2.2,9,10.0,6.0,42,116004.1
+EMP0320,32,Male,Bachelor's,Sales,Senior,New York,6,0,,10,34.0,0.0,35,123966.96
+EMP0321,38,Male,PhD,Finance,Senior,Seattle,3,2,2.5,17,38.0,2.0,11,140608.91
+EMP0322,57,Female,Master's,Operations,Manager,Austin,4,3,3.1,1,9.0,3.0,20,115751.72
+EMP0323,34,Male,Master's,Operations,Senior,Austin,10,0,3.2,14,106.0,1.0,30,118321.74
+EMP0324,28,Male,Bachelor's,Sales,Senior,San Francisco,6,5,3.1,4,73.0,2.0,28,129070.56
+EMP0325,37,Male,Master's,Product,Lead,New York,6,2,2.7,2,71.0,7.0,15,170199.03
+EMP0326,54,Female,PhD,Operations,Director,San Francisco,11,1,2.1,3,68.0,3.0,38,223322.76
+EMP0327,22,Male,Master's,Finance,Junior,Remote,4,2,3.2,7,22.0,0.0,13,72093.53
+EMP0328,32,Female,High School,HR,Director,Chicago,13,3,3.6,14,33.0,7.0,47,134966.91
+EMP0329,27,Female,Master's,Marketing,Junior,Chicago,4,0,3.7,12,110.0,6.0,35,65006.63
+EMP0330,41,Male,High School,Engineering,Lead,New York,12,13,3.3,19,31.0,3.0,47,155687.06
+EMP0331,56,Female,Bachelor's,Sales,Mid-Level,New York,18,1,3.4,18,,7.0,24,124659.09
+EMP0332,58,Female,High School,Operations,Junior,Seattle,8,0,2.7,15,67.0,4.0,1,54108.67
+EMP0333,47,Female,Master's,Engineering,Mid-Level,Austin,7,5,3.5,1,53.0,0.0,42,121806.84
+EMP0334,33,Male,Master's,Engineering,Senior,Austin,6,7,3.5,3,27.0,2.0,24,130939.24
+EMP0335,51,Female,Bachelor's,Engineering,Mid-Level,San Francisco,2,3,3.0,15,111.0,7.0,27,100389.7
+EMP0336,49,Male,Bachelor's,Engineering,Junior,Boston,12,5,3.2,4,107.0,5.0,18,100942.47
+EMP0337,48,Female,Bachelor's,Data Science,Senior,New York,7,2,3.2,15,59.0,7.0,26,170221.44
+EMP0338,40,Male,Bachelor's,Operations,Manager,San Francisco,7,7,3.5,10,,1.0,29,145173.13
+EMP0339,26,Male,Bachelor's,Finance,Mid-Level,Chicago,8,0,2.1,6,75.0,6.0,8,86058.5
+EMP0340,26,Female,Bachelor's,Engineering,Mid-Level,San Francisco,8,4,2.1,13,59.0,0.0,44,128281.28
+EMP0341,48,Female,Master's,Finance,Mid-Level,San Francisco,4,3,2.1,7,84.0,6.0,26,117192.63
+EMP0342,49,Female,High School,Finance,Junior,Seattle,5,0,2.9,1,111.0,0.0,5,62917.01
+EMP0343,47,Male,High School,Engineering,Manager,Seattle,4,2,3.5,11,,0.0,33,132635.32
+EMP0344,48,Male,Bachelor's,Marketing,Manager,Remote,18,2,1.6,14,117.0,3.0,40,113585.98
+EMP0345,42,Non-binary,PhD,Marketing,Senior,Chicago,15,3,3.3,6,43.0,7.0,5,147685.4
+EMP0346,22,Female,Master's,HR,Mid-Level,New York,4,0,4.0,5,1.0,4.0,49,94273.32
+EMP0347,49,Female,Master's,HR,Lead,San Francisco,6,4,3.4,19,22.0,5.0,47,136594.99
+EMP0348,36,Male,Bachelor's,Engineering,Senior,Remote,6,0,,19,119.0,1.0,36,91541.95
+EMP0349,38,Male,Bachelor's,Marketing,Manager,Austin,9,1,3.6,13,92.0,7.0,13,132930.36
+EMP0350,47,Female,High School,HR,Senior,Seattle,19,6,3.4,7,45.0,6.0,17,106601.33
+EMP0351,41,Female,Master's,Finance,Lead,New York,9,2,3.0,8,106.0,1.0,13,180794.94
+EMP0352,46,Male,PhD,Data Science,Senior,Austin,10,1,3.3,14,72.0,,25,181039.4
+EMP0353,34,Female,Master's,Operations,Mid-Level,New York,0,0,2.2,19,53.0,3.0,2,79414.42
+EMP0354,54,Female,Master's,Engineering,Director,Austin,9,3,3.2,19,70.0,3.0,24,231671.12
+EMP0355,46,Male,Master's,Engineering,Senior,Remote,1,2,3.5,12,92.0,4.0,36,99810.18
+EMP0356,29,Male,Bachelor's,HR,Senior,Remote,5,6,2.7,9,107.0,6.0,25,76738.72
+EMP0357,26,Male,PhD,Engineering,Mid-Level,Austin,8,3,2.9,14,80.0,4.0,34,128616.02
+EMP0358,27,Female,High School,HR,Senior,Chicago,6,0,2.8,6,8.0,2.0,12,66451.06
+EMP0359,44,Male,Bachelor's,Product,Senior,Remote,4,0,2.9,15,69.0,3.0,19,98273.2
+EMP0360,51,Male,Bachelor's,HR,Junior,Seattle,4,0,2.6,13,43.0,6.0,42,57765.18
+EMP0361,35,Female,High School,Marketing,Junior,New York,6,1,2.7,7,83.0,0.0,30,60719.07
+EMP0362,44,Male,Bachelor's,HR,Senior,Chicago,6,0,3.6,11,73.0,7.0,37,80033.2
+EMP0363,32,Male,Bachelor's,Marketing,Lead,San Francisco,8,0,2.0,10,72.0,1.0,43,131535.64
+EMP0364,52,Male,Bachelor's,Finance,Senior,Chicago,7,2,3.3,1,11.0,3.0,1,101825.91
+EMP0365,27,Male,Bachelor's,Product,Mid-Level,Chicago,9,1,3.6,7,96.0,4.0,3,102115.18
+EMP0366,32,Female,High School,Marketing,Senior,Austin,0,1,2.3,18,31.0,0.0,49,58178.4
+EMP0367,34,Male,Bachelor's,Product,Junior,San Francisco,9,8,3.1,3,33.0,7.0,26,105113.64
+EMP0368,33,Female,Bachelor's,Data Science,Mid-Level,New York,8,3,2.6,9,82.0,7.0,15,140063.9
+EMP0369,23,Female,Bachelor's,Engineering,Junior,Austin,5,4,4.0,5,32.0,7.0,46,75564.3
+EMP0370,56,Male,Master's,Engineering,Junior,Remote,4,4,3.1,13,63.0,2.0,47,74658.7
+EMP0371,57,Male,Master's,Engineering,Mid-Level,Seattle,7,1,4.2,16,47.0,5.0,48,135636.44
+EMP0372,38,Male,Master's,Engineering,Mid-Level,San Francisco,0,0,4.1,16,15.0,2.0,28,120163.5
+EMP0373,49,Male,Master's,Engineering,Junior,Remote,9,0,3.4,12,49.0,0.0,4,83789.66
+EMP0374,49,Female,Bachelor's,Operations,Mid-Level,Remote,9,0,4.7,18,113.0,7.0,19,81959.29
+EMP0375,43,Female,Master's,Engineering,Senior,San Francisco,4,3,2.1,11,22.0,6.0,24,144355.97
+EMP0376,59,Male,Bachelor's,Sales,Senior,New York,17,7,4.2,17,25.0,6.0,40,166051.96
+EMP0377,28,Male,Bachelor's,Data Science,Mid-Level,Boston,7,8,3.0,7,108.0,0.0,6,105501.77
+EMP0378,36,Male,Master's,Engineering,Manager,Remote,8,0,3.1,15,53.0,6.0,16,182677.23
+EMP0379,53,Female,Bachelor's,Data Science,Junior,Remote,14,13,,6,43.0,4.0,32,80891.27
+EMP0380,32,Male,Master's,Sales,Senior,Remote,14,1,,6,104.0,6.0,30,109943.81
+EMP0381,45,Male,Master's,Engineering,Junior,Seattle,2,3,3.6,18,36.0,5.0,35,88669.58
+EMP0382,24,Male,Master's,Operations,Junior,Austin,5,0,2.3,19,8.0,4.0,8,64020.93
+EMP0383,51,Female,PhD,HR,Senior,New York,7,0,2.8,19,93.0,1.0,5,126971.52
+EMP0384,27,Female,Bachelor's,Data Science,Senior,San Francisco,4,1,2.8,2,12.0,6.0,37,131245.69
+EMP0385,23,Male,Bachelor's,Operations,Manager,Chicago,5,5,3.9,3,111.0,5.0,12,114682.71
+EMP0386,35,Male,Bachelor's,Data Science,Senior,Seattle,3,0,3.1,14,59.0,5.0,25,120386.84
+EMP0387,39,Non-binary,Bachelor's,Sales,Director,Austin,14,0,1.5,4,105.0,1.0,33,154890.37
+EMP0388,52,Male,Master's,Engineering,Junior,Boston,11,7,2.6,17,79.0,2.0,39,103050.81
+EMP0389,34,Female,Master's,Operations,Junior,San Francisco,13,8,2.1,6,109.0,0.0,24,90161.88
+EMP0390,47,Male,Master's,Data Science,Junior,Austin,3,0,3.6,19,1.0,2.0,11,79822.48
+EMP0391,33,Female,Bachelor's,Product,Junior,New York,6,3,2.4,9,94.0,6.0,42,87342.65
+EMP0392,39,Male,Bachelor's,Marketing,Senior,Chicago,12,1,2.8,4,59.0,6.0,35,107260.78
+EMP0393,30,Female,Bachelor's,Marketing,Senior,Boston,11,1,4.4,7,56.0,4.0,40,132940.26
+EMP0394,42,Female,Bachelor's,Data Science,Junior,Seattle,6,1,3.6,4,114.0,3.0,1,94571.48
+EMP0395,61,Female,Master's,Sales,Director,Remote,7,1,2.4,11,42.0,6.0,8,160886.71
+EMP0396,45,Female,Bachelor's,Product,Manager,San Francisco,5,2,3.8,2,18.0,6.0,23,177582.23
+EMP0397,55,Female,Bachelor's,Data Science,Mid-Level,Austin,7,2,2.7,10,10.0,4.0,20,96183.78
+EMP0398,29,Male,High School,Marketing,Junior,San Francisco,3,1,3.8,6,77.0,3.0,32,61875.78
+EMP0399,54,Female,Master's,Operations,Junior,Chicago,2,3,2.9,8,46.0,7.0,11,57524.44
+EMP0400,44,Female,Master's,Operations,Junior,Remote,13,3,2.5,15,88.0,7.0,7,67586.89
+EMP0401,34,Male,Bachelor's,Engineering,Junior,Seattle,6,1,2.5,13,62.0,7.0,30,87013.05
+EMP0402,35,Female,High School,Data Science,Senior,Remote,13,0,3.4,2,6.0,0.0,48,109697.65
+EMP0403,35,Female,Bachelor's,Finance,Mid-Level,San Francisco,10,3,3.8,1,78.0,0.0,39,140410.63
+EMP0404,37,Female,Bachelor's,Data Science,Mid-Level,Remote,9,4,,15,93.0,,13,114543.45
+EMP0405,59,Male,Master's,Sales,Director,New York,4,3,2.9,7,30.0,5.0,42,187143.09
+EMP0406,60,Male,Master's,Data Science,Senior,Remote,1,2,1.9,18,87.0,0.0,49,87334.01
+EMP0407,47,Male,Bachelor's,Marketing,Director,San Francisco,5,0,2.8,10,54.0,1.0,3,162153.92
+EMP0408,47,Male,Bachelor's,Engineering,Junior,San Francisco,15,3,2.3,15,24.0,1.0,7,111628.66
+EMP0409,22,Male,PhD,Data Science,Mid-Level,Austin,4,1,4.2,5,71.0,7.0,43,132691.79
+EMP0410,53,Male,Bachelor's,Engineering,Senior,Remote,5,6,2.9,11,29.0,3.0,13,100225.83
+EMP0411,36,Male,Master's,Sales,Junior,New York,5,3,3.4,8,35.0,2.0,37,92109.86
+EMP0412,42,Non-binary,Bachelor's,Product,Junior,San Francisco,3,0,3.0,8,49.0,5.0,25,80271.8
+EMP0413,39,Male,Bachelor's,Product,Senior,Remote,0,1,3.5,6,13.0,2.0,23,77068.01
+EMP0414,51,Male,High School,HR,Senior,Chicago,8,5,3.7,15,28.0,3.0,47,71611.56
+EMP0415,34,Male,Bachelor's,HR,Mid-Level,San Francisco,16,1,4.8,15,26.0,1.0,33,118271.42
+EMP0416,45,Male,PhD,Marketing,Senior,Chicago,16,2,2.9,5,116.0,4.0,5,154896.66
+EMP0417,51,Female,Bachelor's,Sales,Mid-Level,Chicago,11,3,3.9,13,49.0,6.0,32,96850.13
+EMP0418,23,Female,High School,Sales,Junior,Remote,4,4,3.4,14,35.0,7.0,30,47654.64
+EMP0419,40,Female,High School,Operations,Mid-Level,Boston,0,0,2.8,11,33.0,5.0,31,53345.12
+EMP0420,46,Male,Bachelor's,Operations,Junior,Austin,13,2,2.8,12,20.0,3.0,13,66052.03
+EMP0421,35,Female,Bachelor's,Data Science,Junior,Remote,10,7,3.5,1,37.0,2.0,42,85090.43
+EMP0422,27,Male,High School,Data Science,Director,Chicago,6,7,3.0,3,74.0,3.0,5,138767.63
+EMP0423,33,Male,Master's,Engineering,Senior,New York,5,3,3.3,8,96.0,3.0,23,169217.07
+EMP0424,41,Male,Bachelor's,Finance,Lead,San Francisco,11,12,3.7,12,,0.0,1,185633.71
+EMP0425,44,Male,Bachelor's,Engineering,Mid-Level,Chicago,3,2,4.9,15,75.0,7.0,10,89863.98
+EMP0426,51,Male,PhD,Finance,Mid-Level,New York,9,1,3.2,3,87.0,1.0,27,163929.86
+EMP0427,51,Male,Bachelor's,Marketing,Mid-Level,Remote,1,2,2.4,8,49.0,5.0,8,59251.85
+EMP0428,59,Non-binary,PhD,Data Science,Junior,Boston,19,0,3.5,19,36.0,0.0,3,144630.55
+EMP0429,51,Male,Bachelor's,Sales,Junior,San Francisco,4,1,2.9,6,74.0,1.0,19,75634.05
+EMP0430,51,Male,Master's,Engineering,Lead,Austin,11,1,4.5,18,119.0,7.0,2,193311.38
+EMP0431,57,Male,Master's,Engineering,Senior,Boston,2,3,2.9,11,116.0,3.0,49,132143.65
+EMP0432,55,Female,Master's,Operations,Senior,Remote,7,4,3.2,12,18.0,1.0,31,88539.75
+EMP0433,37,Male,PhD,HR,Senior,Remote,12,2,3.6,2,117.0,2.0,48,119262.11
+EMP0434,45,Female,Bachelor's,Engineering,Manager,Austin,13,1,3.5,5,0.0,7.0,10,186330.77
+EMP0435,35,Non-binary,PhD,Engineering,Junior,Boston,11,0,4.2,4,80.0,5.0,16,143574.61
+EMP0436,47,Male,Bachelor's,Operations,Mid-Level,Austin,7,1,3.7,9,39.0,7.0,37,84058.01
+EMP0437,29,Male,Bachelor's,Engineering,Mid-Level,Austin,4,3,4.8,13,54.0,7.0,20,106319.69
+EMP0438,35,Male,Bachelor's,Data Science,Lead,New York,2,0,3.5,13,,0.0,3,147892.12
+EMP0439,52,Female,Bachelor's,Operations,Director,New York,15,1,4.1,15,25.0,5.0,35,221036.91
+EMP0440,23,Male,Bachelor's,Engineering,Mid-Level,Austin,5,1,2.9,2,42.0,3.0,34,90733.54
+EMP0441,25,Male,Bachelor's,Engineering,Manager,San Francisco,7,4,4.6,13,58.0,2.0,21,207217.62
+EMP0442,22,Male,Bachelor's,Product,Manager,New York,4,5,3.0,7,50.0,1.0,36,149662.84
+EMP0443,41,Female,Master's,Marketing,Mid-Level,Boston,10,3,4.2,17,119.0,6.0,32,121623.52
+EMP0444,35,Male,Master's,Marketing,Mid-Level,New York,7,1,3.8,8,106.0,1.0,18,121236.24
+EMP0445,61,Male,Bachelor's,Data Science,Mid-Level,Austin,11,1,3.2,18,14.0,2.0,34,107082.44
+EMP0446,46,Female,Bachelor's,Product,Director,Austin,4,0,4.2,15,,6.0,38,159084.64
+EMP0447,46,Female,Bachelor's,Product,Junior,Remote,0,0,3.2,15,93.0,1.0,3,49177.3
+EMP0448,24,Female,Bachelor's,Operations,Lead,Austin,6,0,4.2,5,13.0,0.0,3,104154.53
+EMP0449,26,Male,High School,Marketing,Mid-Level,New York,5,0,3.5,2,96.0,4.0,27,76633.52
+EMP0450,59,Female,Bachelor's,Engineering,Lead,Austin,6,0,2.9,16,105.0,1.0,2,123752.81
+EMP0451,47,Female,Bachelor's,Data Science,Mid-Level,Remote,6,0,3.4,5,6.0,3.0,3,93601.45
+EMP0452,61,Male,PhD,Finance,Senior,Remote,4,0,3.2,6,17.0,1.0,17,125854.55
+EMP0453,59,Female,Bachelor's,Marketing,Manager,Chicago,13,3,2.9,12,11.0,5.0,46,125970.67
+EMP0454,59,Male,Bachelor's,Data Science,Lead,San Francisco,9,10,3.4,5,1.0,3.0,39,199331.84
+EMP0455,25,Female,Bachelor's,Engineering,Manager,Remote,6,6,3.5,8,49.0,1.0,38,128757.17
+EMP0456,28,Male,Bachelor's,Finance,Junior,San Francisco,1,0,1.5,11,92.0,1.0,40,67733.63
+EMP0457,51,Female,Bachelor's,Engineering,Senior,Seattle,9,1,3.6,14,20.0,7.0,19,151535.16
+EMP0458,51,Male,Master's,Marketing,Junior,Chicago,0,1,3.7,17,6.0,,19,57167.87
+EMP0459,40,Female,Bachelor's,Engineering,Mid-Level,New York,9,0,4.2,10,115.0,0.0,44,152343.6
+EMP0460,60,Male,Bachelor's,Engineering,Senior,San Francisco,14,5,2.3,2,90.0,6.0,5,179392.5
+EMP0461,56,Non-binary,PhD,Engineering,Mid-Level,San Francisco,8,2,2.5,3,11.0,6.0,5,155643.45
+EMP0462,61,Female,Master's,HR,Senior,Seattle,14,8,3.3,13,83.0,4.0,14,136574.67
+EMP0463,54,Male,Master's,Operations,Director,Remote,1,2,2.7,17,56.0,4.0,27,101919.26
+EMP0464,54,Female,Bachelor's,HR,Junior,San Francisco,18,3,2.4,3,77.0,6.0,49,89067.52
+EMP0465,35,Non-binary,Master's,Product,Senior,Boston,13,3,2.9,10,73.0,0.0,48,175687.25
+EMP0466,59,Male,Bachelor's,Marketing,Mid-Level,New York,10,0,2.9,8,104.0,1.0,36,111166.64
+EMP0467,31,Male,Bachelor's,Sales,Junior,Austin,5,0,2.5,4,22.0,4.0,40,58213.28
+EMP0468,49,Female,High School,Data Science,Junior,New York,4,1,2.5,13,29.0,0.0,35,69823.63
+EMP0469,35,Male,Bachelor's,Engineering,Director,Remote,7,0,3.1,7,110.0,0.0,21,164337.77
+EMP0470,57,Male,Bachelor's,Product,Manager,Boston,14,0,2.2,7,57.0,4.0,5,172528.1
+EMP0471,59,Male,Bachelor's,Engineering,Manager,Seattle,1,1,2.2,16,94.0,6.0,24,129938.63
+EMP0472,37,Male,PhD,Product,Director,Remote,8,5,3.3,5,51.0,3.0,39,228314.16
+EMP0473,42,Male,PhD,Engineering,Mid-Level,Seattle,11,0,4.3,17,55.0,2.0,24,198321.82
+EMP0474,49,Male,Master's,Data Science,Mid-Level,Remote,12,1,3.7,10,9.0,6.0,40,135349.81
+EMP0475,54,Female,Bachelor's,Finance,Senior,Seattle,11,1,4.1,4,18.0,3.0,43,161761.99
+EMP0476,27,Female,Master's,Product,Senior,Remote,0,1,1.9,14,18.0,6.0,46,91758.51
+EMP0477,36,Male,Bachelor's,Engineering,Mid-Level,Austin,13,0,2.2,5,,1.0,13,107690.95
+EMP0478,24,Female,Master's,Finance,Mid-Level,New York,6,7,3.2,2,86.0,3.0,38,126788.0
+EMP0479,56,Female,Bachelor's,Product,Senior,Austin,2,2,3.8,14,58.0,5.0,45,105405.12
+EMP0480,35,Female,Master's,Finance,Senior,New York,7,2,3.6,18,43.0,2.0,1,165072.22
+EMP0481,23,Male,Bachelor's,HR,Junior,Austin,0,0,2.3,11,104.0,6.0,43,40960.56
+EMP0482,50,Male,Master's,Operations,Senior,Austin,10,1,4.0,16,58.0,7.0,39,125689.83
+EMP0483,25,Female,PhD,Marketing,Senior,Seattle,7,5,3.1,18,95.0,2.0,10,154713.52
+EMP0484,47,Female,Bachelor's,HR,Senior,New York,1,0,3.7,16,83.0,0.0,2,77927.47
+EMP0485,33,Female,Bachelor's,HR,Mid-Level,San Francisco,6,1,2.8,4,3.0,5.0,16,86512.93
+EMP0486,23,Female,PhD,Data Science,Lead,Austin,4,0,2.1,1,96.0,1.0,37,165743.25
+EMP0487,38,Male,Bachelor's,Engineering,Junior,Remote,4,5,3.8,14,111.0,0.0,16,68833.75
+EMP0488,56,Male,Master's,Sales,Mid-Level,Chicago,0,0,3.5,12,64.0,3.0,23,72088.51
+EMP0489,31,Male,Bachelor's,Product,Lead,Chicago,0,1,2.3,10,12.0,3.0,26,90861.67
+EMP0490,43,Male,Bachelor's,Data Science,Senior,Seattle,6,1,2.7,19,66.0,4.0,16,133193.56
+EMP0491,42,Female,Bachelor's,Marketing,Mid-Level,Seattle,5,2,3.7,4,11.0,0.0,27,76643.34
+EMP0492,36,Male,Bachelor's,HR,Senior,San Francisco,12,3,3.3,3,92.0,5.0,47,136364.96
+EMP0493,56,Male,Master's,Sales,Senior,Chicago,4,0,3.6,4,54.0,0.0,41,99512.81
+EMP0494,42,Female,Bachelor's,Engineering,Lead,San Francisco,5,1,2.8,15,60.0,0.0,30,159824.03
+EMP0495,42,Male,Bachelor's,Marketing,Lead,Remote,5,1,4.2,11,94.0,0.0,33,97493.48
+EMP0496,42,Non-binary,Bachelor's,Sales,Senior,New York,7,0,3.1,16,40.0,2.0,32,110985.82
+EMP0497,53,Non-binary,Bachelor's,HR,Senior,Chicago,8,5,1.5,4,35.0,4.0,9,80096.77
+EMP0498,26,Female,Master's,Engineering,Junior,New York,5,0,3.3,6,1.0,6.0,11,111886.76
+EMP0499,60,Male,PhD,Product,Mid-Level,San Francisco,10,3,3.6,8,21.0,1.0,37,174863.96
+EMP0500,30,Male,Bachelor's,Product,Mid-Level,Boston,12,1,3.4,13,,1.0,6,128638.08
+EMP0501,39,Male,Master's,Operations,Senior,San Francisco,3,0,2.9,4,40.0,7.0,30,119480.92
+EMP0502,42,Male,Master's,Finance,Senior,New York,9,3,1.8,5,94.0,1.0,40,154529.0
+EMP0503,29,Male,Bachelor's,Sales,Mid-Level,Chicago,8,2,2.7,10,115.0,7.0,15,85109.61
+EMP0504,55,Non-binary,PhD,Data Science,Junior,New York,13,1,2.8,5,119.0,2.0,48,141101.25
+EMP0505,31,Male,Bachelor's,Operations,Senior,New York,9,2,2.7,12,,4.0,30,117370.76
+EMP0506,45,Female,Bachelor's,Engineering,Mid-Level,Boston,4,0,3.6,1,13.0,5.0,18,94578.0
+EMP0507,61,Male,Master's,Data Science,Lead,Boston,2,3,3.0,10,92.0,4.0,12,151605.04
+EMP0508,45,Female,Bachelor's,Data Science,Junior,Remote,11,1,4.2,5,34.0,7.0,4,93992.04
+EMP0509,53,Female,Master's,Product,Senior,Remote,2,0,3.0,19,49.0,2.0,16,107296.04
+EMP0510,54,Male,Master's,Operations,Director,Seattle,13,4,4.1,19,8.0,5.0,23,227996.57
+EMP0511,59,Male,High School,HR,Junior,New York,10,0,,12,110.0,0.0,11,62251.2
+EMP0512,55,Female,Master's,Marketing,Senior,Boston,8,0,3.4,16,117.0,3.0,24,137742.7
+EMP0513,32,Female,Bachelor's,Product,Junior,Remote,1,1,2.7,5,95.0,0.0,22,52779.85
+EMP0514,52,Female,Bachelor's,Data Science,Senior,Boston,11,6,2.3,17,58.0,1.0,39,145609.49
+EMP0515,39,Male,Master's,Engineering,Senior,Austin,16,9,3.1,14,55.0,0.0,15,159438.54
+EMP0516,44,Male,PhD,Engineering,Mid-Level,San Francisco,5,3,4.4,12,90.0,2.0,49,183277.32
+EMP0517,43,Female,High School,Marketing,Senior,Remote,4,2,2.9,13,9.0,1.0,15,66581.24
+EMP0518,39,Female,Bachelor's,Data Science,Manager,Boston,7,3,2.8,14,24.0,3.0,10,176252.65
+EMP0519,61,Male,Master's,Product,Junior,Remote,10,1,3.1,5,112.0,5.0,28,99796.8
+EMP0520,60,Female,Master's,Engineering,Junior,New York,5,1,4.4,5,44.0,7.0,36,114019.73
+EMP0521,41,Male,Master's,HR,Manager,San Francisco,12,9,3.8,18,96.0,7.0,17,207396.89
+EMP0522,34,Male,Bachelor's,Marketing,Senior,San Francisco,16,0,4.0,14,10.0,5.0,36,152220.13
+EMP0523,22,Male,Bachelor's,Product,Manager,Boston,4,1,1.8,18,100.0,7.0,22,126694.46
+EMP0524,25,Male,Bachelor's,Data Science,Senior,San Francisco,6,6,2.6,1,8.0,1.0,23,148846.08
+EMP0525,45,Female,Master's,Data Science,Lead,New York,10,3,2.6,7,6.0,6.0,29,226129.63
+EMP0526,57,Male,Bachelor's,Marketing,Mid-Level,Remote,13,0,4.0,17,70.0,6.0,22,87219.17
+EMP0527,57,Male,Bachelor's,Marketing,Lead,New York,8,0,3.7,3,33.0,0.0,11,127755.63
+EMP0528,23,Female,PhD,Sales,Manager,Remote,5,2,3.9,10,82.0,6.0,36,146145.05
+EMP0529,49,Female,High School,Engineering,Senior,Chicago,11,1,1.9,7,19.0,7.0,44,101817.97
+EMP0530,47,Female,PhD,Data Science,Junior,Remote,3,1,4.0,12,113.0,4.0,29,88750.65
+EMP0531,44,Female,Master's,Data Science,Mid-Level,Austin,10,1,3.7,15,105.0,4.0,42,136707.3
+EMP0532,36,Male,Master's,Product,Junior,Remote,1,2,2.6,16,88.0,5.0,32,63240.42
+EMP0533,57,Female,Bachelor's,Product,Mid-Level,Remote,4,0,3.1,8,4.0,4.0,14,83939.21
+EMP0534,48,Female,High School,Finance,Mid-Level,New York,13,2,,6,111.0,1.0,18,111585.67
+EMP0535,27,Female,Master's,Operations,Senior,New York,9,1,3.1,4,92.0,4.0,38,135749.39
+EMP0536,56,Male,Master's,Product,Senior,San Francisco,6,0,3.5,11,54.0,,37,184566.19
+EMP0537,60,Male,Master's,Data Science,Mid-Level,Seattle,16,0,4.2,17,90.0,5.0,34,185941.88
+EMP0538,59,Female,Bachelor's,Engineering,Senior,Remote,1,2,2.5,2,88.0,3.0,45,83718.17
+EMP0539,56,Male,Master's,Marketing,Junior,Chicago,6,5,2.9,6,100.0,4.0,23,67372.4
+EMP0540,57,Female,Master's,Engineering,Junior,Seattle,9,0,2.4,4,14.0,2.0,32,102442.14
+EMP0541,31,Female,Master's,Product,Junior,San Francisco,0,1,3.7,3,117.0,2.0,46,85259.69
+EMP0542,51,Female,Master's,HR,Senior,Boston,7,0,2.1,7,47.0,1.0,3,97010.22
+EMP0543,59,Female,Master's,Engineering,Mid-Level,Remote,2,2,3.3,7,3.0,5.0,43,90020.95
+EMP0544,50,Female,Master's,Operations,Mid-Level,San Francisco,2,0,2.3,16,77.0,1.0,22,84154.11
+EMP0545,60,Male,High School,HR,Mid-Level,Austin,6,6,3.2,2,119.0,3.0,23,63540.94
+EMP0546,25,Male,Bachelor's,Sales,Lead,New York,0,0,,8,112.0,3.0,4,108501.41
+EMP0547,26,Female,High School,Engineering,Junior,Austin,3,2,2.8,15,80.0,7.0,13,63069.6
+EMP0548,25,Male,Bachelor's,Operations,Senior,Austin,0,1,3.4,16,20.0,0.0,32,66668.34
+EMP0549,57,Male,Bachelor's,Finance,Senior,New York,8,0,2.6,1,79.0,3.0,29,147760.63
+EMP0550,37,Male,High School,Data Science,Lead,Chicago,8,1,3.1,10,89.0,5.0,40,121298.97
+EMP0551,46,Female,Bachelor's,Finance,Manager,San Francisco,6,0,2.1,7,8.0,6.0,40,171441.65
+EMP0552,35,Male,Bachelor's,Data Science,Junior,Austin,12,3,3.7,16,65.0,6.0,45,104842.44
+EMP0553,32,Female,Master's,Finance,Junior,Austin,6,1,2.9,10,106.0,5.0,10,86375.75
+EMP0554,50,Male,PhD,Finance,Manager,New York,7,2,3.1,12,78.0,7.0,13,242958.95
+EMP0555,55,Male,High School,Data Science,Senior,Boston,3,4,3.2,17,34.0,7.0,45,97049.04
+EMP0556,43,Female,PhD,Marketing,Senior,Seattle,0,1,1.8,13,87.0,1.0,17,102596.79
+EMP0557,35,Male,Bachelor's,Engineering,Senior,Chicago,7,0,2.7,12,111.0,2.0,38,106587.52
+EMP0558,45,Female,Bachelor's,Engineering,Senior,New York,6,3,3.3,15,116.0,0.0,2,146288.71
+EMP0559,60,Female,High School,Operations,Manager,Boston,16,4,3.1,14,50.0,6.0,17,124656.09
+EMP0560,47,Female,Bachelor's,HR,Director,Remote,11,9,4.7,19,117.0,7.0,44,148454.73
+EMP0561,57,Male,Master's,Operations,Lead,San Francisco,5,0,4.1,19,101.0,6.0,26,157293.84
+EMP0562,60,Female,Master's,Engineering,Mid-Level,San Francisco,8,1,3.3,14,77.0,3.0,38,167388.15
+EMP0563,37,Female,High School,Engineering,Manager,San Francisco,12,5,2.5,18,100.0,2.0,37,179478.67
+EMP0564,59,Female,High School,Engineering,Junior,Austin,10,4,2.9,5,36.0,1.0,5,77094.25
+EMP0565,53,Male,Bachelor's,Sales,Mid-Level,New York,16,2,3.7,6,5.0,7.0,25,127652.7
+EMP0566,27,Female,Bachelor's,HR,Manager,San Francisco,4,0,3.3,18,81.0,4.0,9,118067.5
+EMP0567,55,Female,Bachelor's,Marketing,Mid-Level,Seattle,12,1,4.1,14,85.0,0.0,28,100954.31
+EMP0568,29,Female,Bachelor's,Marketing,Mid-Level,Austin,5,0,3.2,4,81.0,5.0,22,78194.94
+EMP0569,51,Male,Master's,Data Science,Junior,Chicago,8,7,3.3,1,50.0,2.0,29,88555.44
+EMP0570,48,Male,PhD,Sales,Manager,Chicago,5,0,4.3,13,65.0,1.0,35,160398.63
+EMP0571,28,Male,Bachelor's,Finance,Senior,Austin,7,2,2.4,11,95.0,1.0,20,100303.77
+EMP0572,48,Male,PhD,Data Science,Senior,New York,9,2,4.4,3,16.0,0.0,5,237920.43
+EMP0573,46,Male,Bachelor's,Marketing,Mid-Level,New York,10,1,3.7,17,64.0,0.0,39,112080.21
+EMP0574,36,Male,Bachelor's,HR,Lead,Remote,8,1,5.0,18,8.0,7.0,44,105624.33
+EMP0575,46,Female,Bachelor's,Data Science,Lead,New York,0,1,2.7,10,12.0,3.0,32,118316.09
+EMP0576,43,Male,Master's,Product,Mid-Level,Seattle,7,1,4.3,16,99.0,3.0,39,135780.15
+EMP0577,39,Female,PhD,Engineering,Mid-Level,Remote,15,0,3.3,13,100.0,5.0,10,146167.01
+EMP0578,33,Male,Master's,Product,Mid-Level,San Francisco,7,1,3.1,12,57.0,5.0,40,134834.65
+EMP0579,44,Male,Bachelor's,Finance,Director,Chicago,15,4,3.4,4,29.0,7.0,17,197911.53
+EMP0580,60,Male,Master's,Sales,Senior,Austin,7,8,3.3,8,30.0,0.0,37,116863.08
+EMP0581,46,Male,Bachelor's,Marketing,Manager,Remote,0,1,2.7,12,22.0,0.0,15,70500.94
+EMP0582,31,Female,Master's,Product,Mid-Level,Remote,5,4,3.1,19,62.0,2.0,9,93963.76
+EMP0583,51,Female,Bachelor's,Finance,Lead,Boston,5,2,3.4,15,113.0,3.0,32,131663.05
+EMP0584,31,Male,Bachelor's,Sales,Lead,New York,6,2,2.9,16,27.0,1.0,23,123901.17
+EMP0585,55,Male,Bachelor's,HR,Senior,Seattle,2,3,3.6,12,58.0,6.0,11,85787.73
+EMP0586,34,Male,Master's,Engineering,Director,Chicago,7,1,3.0,18,9.0,6.0,13,197412.35
+EMP0587,50,Female,High School,Engineering,Mid-Level,Chicago,6,0,3.5,12,88.0,6.0,18,83950.55
+EMP0588,59,Female,Master's,Engineering,Junior,New York,14,9,3.4,16,99.0,7.0,49,145170.62
+EMP0589,30,Male,Bachelor's,Engineering,Senior,San Francisco,1,2,3.5,11,89.0,3.0,9,118535.54
+EMP0590,34,Female,Master's,Engineering,Lead,Boston,9,1,2.3,14,25.0,3.0,42,179739.97
+EMP0591,58,Female,Master's,Engineering,Senior,Chicago,10,11,4.0,2,108.0,0.0,5,161248.91
+EMP0592,35,Male,Master's,HR,Mid-Level,San Francisco,11,1,2.6,13,76.0,6.0,43,111768.96
+EMP0593,58,Male,Bachelor's,Engineering,Senior,Chicago,6,1,3.1,14,16.0,0.0,22,112653.25
+EMP0594,30,Female,Bachelor's,Sales,Mid-Level,Remote,9,2,2.7,6,39.0,3.0,32,77756.68
+EMP0595,29,Female,Bachelor's,Data Science,Mid-Level,Boston,9,0,3.2,12,67.0,4.0,47,122899.13
+EMP0596,60,Female,Master's,Finance,Senior,San Francisco,0,1,3.1,7,22.0,4.0,2,128101.49
+EMP0597,61,Female,Bachelor's,Operations,Lead,New York,6,0,3.7,4,34.0,5.0,21,132159.54
+EMP0598,24,Male,Bachelor's,Engineering,Mid-Level,San Francisco,6,0,3.2,7,74.0,3.0,28,132959.19
+EMP0599,61,Female,Bachelor's,Engineering,Mid-Level,Remote,8,2,2.9,13,75.0,6.0,24,98414.78
+EMP0600,54,Female,Bachelor's,Engineering,Mid-Level,Austin,8,2,,11,8.0,7.0,24,101982.76
+EMP0601,53,Male,Master's,Engineering,Junior,Austin,10,0,3.8,8,78.0,4.0,14,100505.14
+EMP0602,28,Female,High School,Sales,Lead,Austin,10,9,3.6,19,44.0,7.0,37,113569.4
+EMP0603,40,Female,Master's,Engineering,Manager,Chicago,5,2,3.8,2,36.0,7.0,27,163795.7
+EMP0604,55,Male,Bachelor's,Engineering,Mid-Level,Boston,9,0,3.1,18,68.0,5.0,24,111184.36
+EMP0605,35,Male,High School,Engineering,Lead,Austin,14,1,3.4,10,,5.0,6,141519.0
+EMP0606,40,Male,Bachelor's,Marketing,Manager,New York,0,1,2.7,6,74.0,3.0,26,110264.35
+EMP0607,47,Female,High School,Engineering,Manager,New York,9,2,2.7,4,72.0,5.0,15,166348.42
+EMP0608,38,Male,Bachelor's,Sales,Junior,Austin,0,0,3.0,19,,0.0,29,48697.8
+EMP0609,49,Female,Master's,Finance,Director,Remote,18,0,3.8,14,113.0,0.0,36,229976.46
+EMP0610,40,Female,High School,Operations,Mid-Level,San Francisco,10,1,3.0,14,26.0,0.0,10,83866.82
+EMP0611,48,Male,Master's,Engineering,Mid-Level,Remote,9,1,3.2,18,12.0,1.0,28,109231.51
+EMP0612,40,Female,High School,Data Science,Junior,Boston,0,1,3.4,17,56.0,7.0,9,60826.46
+EMP0613,54,Non-binary,Bachelor's,HR,Senior,San Francisco,5,6,3.2,18,59.0,0.0,21,96212.91
+EMP0614,28,Male,Master's,Engineering,Junior,New York,5,0,3.9,18,11.0,6.0,10,114586.65
+EMP0615,50,Male,Bachelor's,Data Science,Mid-Level,New York,16,5,2.7,5,8.0,0.0,4,134100.72
+EMP0616,26,Female,Bachelor's,Product,Mid-Level,Boston,8,7,3.3,9,105.0,3.0,4,104695.18
+EMP0617,51,Female,Bachelor's,Engineering,Lead,San Francisco,0,1,3.5,1,91.0,4.0,6,139543.42
+EMP0618,29,Male,Bachelor's,Sales,Manager,Chicago,10,9,2.1,4,76.0,6.0,26,126178.18
+EMP0619,33,Male,Master's,Data Science,Mid-Level,Austin,0,1,3.4,7,83.0,4.0,40,94141.25
+EMP0620,34,Male,Bachelor's,Operations,Manager,Boston,0,1,4.1,11,115.0,0.0,16,93451.86
+EMP0621,47,Non-binary,Master's,Engineering,Manager,New York,10,1,3.0,14,76.0,,8,243551.76
+EMP0622,39,Male,Master's,Engineering,Lead,Chicago,11,2,2.4,10,26.0,0.0,28,168483.24
+EMP0623,41,Male,Bachelor's,Marketing,Junior,Austin,10,6,3.5,19,89.0,0.0,16,73020.96
+EMP0624,37,Female,PhD,Finance,Senior,Austin,17,1,3.3,8,62.0,5.0,38,192971.77
+EMP0625,58,Male,Bachelor's,HR,Director,Boston,9,0,4.3,3,92.0,3.0,49,150643.5
+EMP0626,24,Female,PhD,Sales,Senior,New York,6,0,3.5,8,28.0,3.0,1,164123.0
+EMP0627,48,Male,High School,Marketing,Mid-Level,Boston,1,2,2.5,18,21.0,7.0,19,54756.57
+EMP0628,36,Female,Master's,Operations,Senior,Seattle,12,4,2.5,5,72.0,3.0,17,126052.69
+EMP0629,55,Male,Bachelor's,Engineering,Senior,Austin,0,1,3.8,11,87.0,4.0,49,93099.97
+EMP0630,43,Female,Bachelor's,Sales,Senior,Seattle,18,0,3.4,9,105.0,6.0,28,150335.07
+EMP0631,61,Female,Master's,Operations,Junior,Chicago,12,3,3.2,19,18.0,6.0,44,78056.69
+EMP0632,44,Male,Master's,Data Science,Mid-Level,New York,21,0,3.3,12,37.0,1.0,12,192791.26
+EMP0633,25,Male,High School,Finance,Lead,Seattle,7,2,3.5,5,94.0,4.0,6,132558.73
+EMP0634,44,Male,Bachelor's,Finance,Manager,Austin,12,1,3.5,16,38.0,3.0,7,159321.54
+EMP0635,30,Male,Master's,Engineering,Junior,Seattle,6,7,2.1,13,14.0,7.0,8,94238.85
+EMP0636,45,Female,Master's,Marketing,Director,San Francisco,7,2,4.1,6,53.0,2.0,3,228153.86
+EMP0637,42,Female,PhD,Finance,Mid-Level,Remote,2,2,4.1,16,31.0,1.0,49,99836.66
+EMP0638,37,Male,Master's,Engineering,Senior,Austin,0,1,4.5,18,,0.0,21,123257.1
+EMP0639,46,Female,PhD,Sales,Lead,New York,8,1,4.3,17,109.0,5.0,8,203437.65
+EMP0640,47,Female,Master's,Marketing,Lead,Chicago,7,0,4.2,12,111.0,4.0,28,138298.08
+EMP0641,30,Female,Bachelor's,Engineering,Director,Boston,2,2,3.0,1,45.0,5.0,30,159535.42
+EMP0642,36,Male,Bachelor's,Sales,Mid-Level,Boston,3,4,3.4,7,60.0,1.0,32,78706.92
+EMP0643,60,Male,Master's,Engineering,Manager,Austin,8,1,4.0,14,92.0,7.0,11,203362.77
+EMP0644,54,Male,Master's,Sales,Junior,Remote,2,3,1.9,18,51.0,6.0,20,58073.35
+EMP0645,22,Female,High School,Engineering,Lead,San Francisco,4,5,3.0,1,33.0,7.0,16,127330.58
+EMP0646,26,Male,Bachelor's,Data Science,Lead,Chicago,2,3,2.0,10,,2.0,25,105249.36
+EMP0647,30,Male,PhD,HR,Senior,Remote,9,3,3.4,15,34.0,1.0,45,113185.88
+EMP0648,27,Male,Bachelor's,Operations,Mid-Level,Remote,2,3,4.1,11,69.0,4.0,9,58326.6
+EMP0649,49,Female,Bachelor's,Data Science,Manager,Seattle,2,3,3.2,4,36.0,3.0,39,138372.7
+EMP0650,47,Male,Bachelor's,Finance,Junior,Remote,0,1,2.8,15,77.0,0.0,49,50057.26
+EMP0651,49,Male,Bachelor's,Engineering,Junior,New York,7,8,3.4,16,60.0,3.0,40,92945.52
+EMP0652,61,Male,Bachelor's,Finance,Lead,Remote,15,2,3.5,15,110.0,3.0,40,135808.28
+EMP0653,36,Male,Bachelor's,HR,Senior,San Francisco,14,1,3.5,17,113.0,7.0,3,144527.99
+EMP0654,27,Female,High School,Operations,Manager,New York,9,0,2.3,11,48.0,4.0,16,123691.86
+EMP0655,48,Male,Master's,Marketing,Mid-Level,San Francisco,0,1,3.4,18,8.0,3.0,12,83556.32
+EMP0656,59,Male,Bachelor's,Engineering,Junior,Chicago,12,8,3.3,16,18.0,7.0,15,90308.5
+EMP0657,25,Female,Master's,Sales,Manager,San Francisco,7,6,3.9,15,86.0,3.0,4,199356.27
+EMP0658,32,Male,Master's,Sales,Senior,San Francisco,5,2,3.1,11,104.0,4.0,23,146184.76
+EMP0659,42,Male,Bachelor's,HR,Junior,New York,14,2,4.6,13,27.0,7.0,27,93072.83
+EMP0660,51,Female,Master's,HR,Lead,San Francisco,11,1,3.3,18,79.0,,39,173409.39
+EMP0661,39,Male,Bachelor's,Sales,Senior,Austin,17,1,2.9,8,25.0,2.0,43,110676.38
+EMP0662,56,Male,Master's,Product,Senior,Chicago,0,1,2.5,9,,3.0,37,95558.21
+EMP0663,24,Male,Bachelor's,HR,Senior,San Francisco,1,1,2.8,11,39.0,1.0,13,74792.16
+EMP0664,33,Male,Master's,Engineering,Manager,Boston,2,0,2.6,17,24.0,6.0,43,145656.42
+EMP0665,48,Female,Master's,Engineering,Manager,Remote,6,2,3.1,1,98.0,0.0,37,163110.29
+EMP0666,51,Female,Bachelor's,Engineering,Lead,Boston,15,0,4.4,11,117.0,5.0,40,183237.78
+EMP0667,42,Female,Bachelor's,Engineering,Junior,San Francisco,4,5,2.2,7,68.0,0.0,21,81773.09
+EMP0668,59,Male,Master's,Engineering,Manager,Boston,4,1,2.2,8,70.0,4.0,29,173463.85
+EMP0669,42,Male,Master's,Engineering,Senior,New York,10,7,3.0,19,22.0,7.0,29,190463.84
+EMP0670,59,Female,Bachelor's,Sales,Senior,New York,12,0,2.2,4,88.0,5.0,49,120770.12
+EMP0671,61,Female,Master's,Engineering,Mid-Level,San Francisco,0,0,2.5,4,64.0,4.0,11,110840.97
+EMP0672,36,Male,Bachelor's,Data Science,Manager,Boston,13,2,3.4,19,21.0,6.0,28,220431.17
+EMP0673,39,Male,Master's,Engineering,Lead,San Francisco,4,4,3.2,9,63.0,7.0,10,194017.04
+EMP0674,50,Male,Bachelor's,Finance,Junior,New York,7,2,3.5,17,116.0,6.0,5,97050.52
+EMP0675,59,Male,Master's,Marketing,Mid-Level,New York,15,0,3.6,18,67.0,2.0,25,129964.25
+EMP0676,42,Male,Bachelor's,Product,Manager,Remote,6,0,4.1,1,57.0,3.0,33,129371.34
+EMP0677,38,Male,Bachelor's,Engineering,Junior,Seattle,0,1,3.5,14,27.0,4.0,17,71226.52
+EMP0678,39,Female,High School,Marketing,Director,San Francisco,0,0,4.0,4,111.0,6.0,49,119392.67
+EMP0679,58,Female,Bachelor's,Product,Senior,Austin,7,1,3.3,10,77.0,4.0,33,127414.26
+EMP0680,59,Male,Bachelor's,Data Science,Senior,Austin,6,3,3.5,14,96.0,0.0,25,123677.86
+EMP0681,33,Male,Bachelor's,Data Science,Mid-Level,Seattle,8,0,3.5,7,67.0,3.0,33,126649.27
+EMP0682,32,Female,Master's,Sales,Mid-Level,San Francisco,5,0,3.4,12,105.0,2.0,9,120206.15
+EMP0683,41,Male,High School,Engineering,Director,Remote,14,0,3.3,16,74.0,6.0,27,176830.56
+EMP0684,30,Female,Bachelor's,Operations,Mid-Level,San Francisco,8,9,4.5,5,102.0,7.0,25,114443.06
+EMP0685,22,Male,Bachelor's,Product,Lead,Seattle,0,1,3.7,11,95.0,4.0,4,127869.44
+EMP0686,24,Female,High School,Finance,Mid-Level,New York,6,7,2.9,4,3.0,4.0,9,98228.08
+EMP0687,42,Male,Bachelor's,HR,Junior,Chicago,17,1,4.8,13,0.0,7.0,46,79140.46
+EMP0688,44,Male,Bachelor's,Sales,Junior,San Francisco,8,4,2.9,8,25.0,4.0,15,86830.85
+EMP0689,30,Male,Bachelor's,Operations,Senior,Austin,9,0,3.2,7,,0.0,16,97195.26
+EMP0690,40,Male,Bachelor's,Engineering,Director,New York,4,2,2.6,11,80.0,6.0,16,197226.37
+EMP0691,40,Male,Bachelor's,Sales,Mid-Level,Boston,6,5,3.7,11,26.0,4.0,13,83920.8
+EMP0692,44,Female,Bachelor's,Marketing,Mid-Level,San Francisco,10,5,4.4,17,41.0,4.0,14,115634.08
+EMP0693,48,Male,High School,Finance,Mid-Level,Seattle,13,4,2.2,14,68.0,0.0,22,86744.53
+EMP0694,48,Male,Bachelor's,Engineering,Senior,Boston,10,5,3.0,2,70.0,4.0,21,138349.42
+EMP0695,60,Male,PhD,Engineering,Mid-Level,Austin,17,0,4.0,8,63.0,7.0,9,175026.88
+EMP0696,57,Female,Bachelor's,HR,Manager,Boston,8,1,2.5,2,24.0,3.0,41,108389.7
+EMP0697,33,Non-binary,Master's,Sales,Senior,Seattle,2,1,3.6,15,71.0,3.0,4,119779.58
+EMP0698,48,Female,Bachelor's,HR,Senior,San Francisco,2,3,2.3,5,97.0,0.0,10,86081.29
+EMP0699,55,Male,Master's,Engineering,Junior,Boston,14,1,3.5,6,104.0,3.0,35,113614.48
+EMP0700,54,Female,Master's,Finance,Director,San Francisco,13,8,3.3,17,3.0,,9,279764.31
+EMP0701,49,Female,Bachelor's,Finance,Mid-Level,Austin,0,1,5.0,8,11.0,5.0,48,84214.87
+EMP0702,52,Female,PhD,Engineering,Junior,Boston,6,3,3.7,19,57.0,5.0,16,122691.89
+EMP0703,53,Male,Bachelor's,Sales,Senior,Chicago,7,0,1.7,5,94.0,2.0,49,91167.22
+EMP0704,41,Male,High School,Engineering,Senior,San Francisco,4,1,3.1,19,10.0,4.0,18,126001.76
+EMP0705,61,Male,Master's,Engineering,Mid-Level,Chicago,0,1,3.8,14,100.0,2.0,10,96247.38
+EMP0706,56,Male,Master's,Product,Mid-Level,Boston,4,2,2.9,10,107.0,3.0,21,108326.66
+EMP0707,52,Female,Bachelor's,Sales,Lead,Remote,3,4,2.9,13,58.0,0.0,15,80732.26
+EMP0708,52,Male,Bachelor's,Data Science,Junior,Austin,1,2,2.9,5,116.0,5.0,15,69802.31
+EMP0709,59,Male,High School,Sales,Manager,Seattle,12,2,,7,35.0,0.0,11,135204.42
+EMP0710,43,Female,Bachelor's,Operations,Senior,Remote,9,6,2.3,10,108.0,2.0,40,87605.87
+EMP0711,30,Female,Master's,Operations,Mid-Level,New York,5,3,2.8,11,21.0,7.0,48,98904.74
+EMP0712,30,Male,Bachelor's,HR,Senior,San Francisco,0,1,3.9,3,64.0,3.0,42,90084.81
+EMP0713,36,Female,Bachelor's,Finance,Mid-Level,Seattle,6,0,2.9,13,49.0,6.0,41,98364.34
+EMP0714,34,Male,Bachelor's,Marketing,Lead,Remote,10,1,2.8,2,3.0,4.0,47,104899.56
+EMP0715,43,Female,High School,Sales,Senior,Remote,4,3,2.2,4,99.0,6.0,37,69119.45
+EMP0716,37,Female,Bachelor's,Product,Mid-Level,Chicago,2,3,3.7,3,71.0,3.0,20,85669.32
+EMP0717,53,Female,Master's,Data Science,Senior,New York,7,1,3.5,15,88.0,5.0,34,182242.28
+EMP0718,23,Female,PhD,Product,Director,Chicago,5,0,3.9,4,91.0,7.0,22,239435.71
+EMP0719,47,Female,Master's,Engineering,Mid-Level,San Francisco,0,1,3.1,4,51.0,3.0,48,116505.17
+EMP0720,35,Male,High School,Operations,Manager,San Francisco,14,0,3.4,15,101.0,0.0,18,150323.35
+EMP0721,59,Male,Master's,Product,Mid-Level,Boston,1,2,3.4,6,99.0,1.0,16,103240.31
+EMP0722,55,Female,Master's,Engineering,Junior,New York,5,3,2.2,5,99.0,7.0,5,103571.76
+EMP0723,29,Male,Master's,Engineering,Mid-Level,Remote,11,1,4.8,12,42.0,5.0,1,131676.39
+EMP0724,57,Male,Bachelor's,Operations,Mid-Level,Chicago,8,6,3.9,7,104.0,6.0,19,77948.86
+EMP0725,42,Female,Bachelor's,HR,Mid-Level,Austin,13,2,3.3,3,45.0,4.0,10,87687.75
+EMP0726,49,Female,Bachelor's,Data Science,Junior,New York,15,3,3.0,7,3.0,5.0,21,120547.41
+EMP0727,27,Male,High School,Engineering,Manager,San Francisco,0,0,4.1,12,12.0,5.0,13,127814.34
+EMP0728,41,Male,Bachelor's,Data Science,Manager,New York,12,1,3.3,15,37.0,4.0,24,229763.31
+EMP0729,52,Male,Bachelor's,Engineering,Lead,Remote,14,5,3.8,19,44.0,6.0,23,155057.75
+EMP0730,54,Male,Bachelor's,Engineering,Junior,Boston,6,0,2.8,6,24.0,5.0,23,77094.95
+EMP0731,28,Male,Master's,Engineering,Junior,Chicago,6,1,,8,66.0,,11,80423.69
+EMP0732,29,Female,Bachelor's,Data Science,Junior,San Francisco,0,1,3.1,6,54.0,3.0,47,74662.6
+EMP0733,30,Male,High School,Operations,Lead,Remote,11,0,3.2,3,95.0,0.0,2,82861.29
+EMP0734,23,Male,PhD,Finance,Manager,San Francisco,0,1,3.5,5,38.0,3.0,6,184182.55
+EMP0735,38,Male,PhD,Sales,Mid-Level,New York,12,0,4.2,9,64.0,1.0,11,164943.95
+EMP0736,58,Non-binary,Master's,Data Science,Junior,Austin,0,1,4.0,16,74.0,5.0,15,73347.69
+EMP0737,38,Male,PhD,Marketing,Senior,Remote,14,4,4.1,16,1.0,1.0,9,139020.16
+EMP0738,59,Male,Bachelor's,Data Science,Mid-Level,New York,9,1,2.7,9,68.0,2.0,12,126219.05
+EMP0739,56,Male,PhD,Marketing,Mid-Level,San Francisco,13,4,3.0,18,119.0,6.0,36,142727.32
+EMP0740,60,Female,High School,Marketing,Senior,Remote,3,0,3.9,13,85.0,,28,64253.18
+EMP0741,51,Female,Bachelor's,Marketing,Lead,New York,1,2,4.1,11,61.0,0.0,23,101629.65
+EMP0742,27,Male,Bachelor's,Sales,Junior,New York,0,0,3.7,10,45.0,7.0,27,61303.09
+EMP0743,25,Male,Bachelor's,Operations,Junior,Austin,7,0,2.8,10,76.0,0.0,24,58429.76
+EMP0744,58,Male,Bachelor's,Finance,Director,Remote,11,6,2.5,6,111.0,5.0,14,164627.49
+EMP0745,56,Male,Master's,Engineering,Mid-Level,Chicago,11,0,3.4,16,86.0,0.0,35,120439.37
+EMP0746,30,Male,Master's,Data Science,Junior,Remote,9,5,2.6,12,110.0,2.0,27,85164.87
+EMP0747,27,Male,Bachelor's,Marketing,Junior,Seattle,9,1,3.5,4,30.0,4.0,21,74193.71
+EMP0748,34,Male,Bachelor's,Finance,Junior,New York,6,0,4.1,5,98.0,0.0,49,95502.68
+EMP0749,43,Male,Master's,Data Science,Mid-Level,Remote,9,3,3.3,2,101.0,5.0,13,121420.14
+EMP0750,49,Male,Master's,HR,Lead,Chicago,3,2,2.3,19,104.0,1.0,8,82403.34
+EMP0751,51,Female,Bachelor's,Engineering,Mid-Level,San Francisco,6,1,2.8,1,34.0,6.0,44,119205.85
+EMP0752,57,Male,Master's,Product,Mid-Level,Austin,23,0,3.8,4,44.0,0.0,44,153061.43
+EMP0753,23,Male,Bachelor's,HR,Senior,San Francisco,5,0,3.5,12,76.0,0.0,44,93748.55
+EMP0754,57,Male,Bachelor's,Sales,Senior,New York,0,1,3.6,2,53.0,0.0,34,93333.13
+EMP0755,29,Female,PhD,Engineering,Manager,New York,5,2,4.4,12,70.0,5.0,42,255322.38
+EMP0756,30,Female,Bachelor's,Data Science,Manager,Chicago,2,0,3.4,16,68.0,6.0,23,120488.16
+EMP0757,22,Male,Bachelor's,HR,Junior,Remote,4,5,3.4,2,28.0,4.0,9,48256.83
+EMP0758,34,Male,Master's,Finance,Lead,Austin,3,0,3.8,17,71.0,0.0,1,137684.23
+EMP0759,36,Male,Master's,Data Science,Senior,Remote,6,0,,2,7.0,4.0,36,125214.64
+EMP0760,53,Male,High School,Data Science,Director,San Francisco,4,0,2.9,4,53.0,4.0,46,173827.88
+EMP0761,55,Male,Bachelor's,Engineering,Senior,San Francisco,8,2,2.7,6,,6.0,16,156170.56
+EMP0762,52,Female,High School,Sales,Director,New York,4,0,3.7,7,82.0,6.0,25,143185.97
+EMP0763,35,Female,Master's,Engineering,Lead,New York,9,1,2.6,15,102.0,2.0,18,211060.91
+EMP0764,35,Female,Bachelor's,Operations,Mid-Level,San Francisco,17,6,3.6,12,22.0,1.0,34,116144.62
+EMP0765,50,Male,Bachelor's,Engineering,Senior,Boston,2,0,3.0,5,99.0,0.0,38,99642.59
+EMP0766,40,Female,PhD,Finance,Director,Remote,11,1,3.0,14,105.0,0.0,3,231801.09
+EMP0767,48,Female,Bachelor's,Operations,Manager,Remote,0,1,3.8,16,31.0,0.0,20,81121.15
+EMP0768,30,Male,Bachelor's,Data Science,Junior,San Francisco,6,2,2.3,11,61.0,4.0,19,92375.8
+EMP0769,58,Male,Bachelor's,Sales,Lead,Remote,9,7,2.9,12,44.0,7.0,13,117413.69
+EMP0770,58,Male,Master's,Data Science,Mid-Level,San Francisco,4,1,5.0,19,67.0,6.0,17,169287.2
+EMP0771,49,Male,High School,Engineering,Junior,New York,0,0,4.5,17,29.0,3.0,14,64081.16
+EMP0772,45,Male,Bachelor's,Data Science,Mid-Level,Remote,7,1,1.9,7,114.0,7.0,30,97200.13
+EMP0773,49,Female,Master's,Engineering,Mid-Level,Seattle,15,0,2.8,9,105.0,1.0,22,151935.05
+EMP0774,57,Male,Bachelor's,Marketing,Lead,New York,7,3,3.2,14,38.0,5.0,43,137183.03
+EMP0775,39,Female,Bachelor's,Data Science,Mid-Level,Chicago,10,0,2.2,12,4.0,0.0,48,103590.29
+EMP0776,46,Male,Bachelor's,Engineering,Manager,San Francisco,13,1,4.6,15,66.0,3.0,43,251186.85
+EMP0777,56,Non-binary,High School,Engineering,Junior,Boston,20,2,3.2,12,21.0,3.0,29,89732.9
+EMP0778,25,Male,Bachelor's,Operations,Mid-Level,Chicago,2,0,3.1,13,27.0,6.0,2,64370.54
+EMP0779,35,Female,Bachelor's,Operations,Mid-Level,Remote,3,2,3.5,9,21.0,3.0,8,56719.45
+EMP0780,60,Male,Bachelor's,HR,Mid-Level,New York,6,0,3.5,7,85.0,1.0,14,81370.57
+EMP0781,47,Male,High School,Operations,Junior,San Francisco,11,8,2.6,1,97.0,3.0,34,67814.38
+EMP0782,29,Female,Master's,Finance,Junior,Austin,0,1,4.1,10,28.0,5.0,13,74115.64
+EMP0783,45,Male,PhD,Sales,Senior,Austin,11,7,3.3,6,42.0,0.0,10,158486.78
+EMP0784,37,Female,Master's,Sales,Mid-Level,San Francisco,8,1,4.1,15,41.0,5.0,8,129924.02
+EMP0785,41,Female,Master's,Engineering,Mid-Level,Boston,5,4,2.8,15,59.0,0.0,7,120475.2
+EMP0786,36,Male,Bachelor's,Data Science,Mid-Level,Remote,10,0,1.9,9,118.0,,13,92821.06
+EMP0787,28,Male,PhD,HR,Manager,Remote,10,3,4.2,13,76.0,4.0,26,171278.95
+EMP0788,38,Female,Bachelor's,Marketing,Manager,Boston,13,1,3.7,1,70.0,3.0,32,159158.53
+EMP0789,43,Male,PhD,Marketing,Senior,Remote,8,2,4.0,9,73.0,5.0,19,119455.03
+EMP0790,43,Female,PhD,Product,Mid-Level,Austin,9,3,4.1,3,91.0,4.0,15,139639.81
+EMP0791,33,Female,Master's,Engineering,Junior,Remote,9,2,3.2,9,67.0,4.0,2,87014.52
+EMP0792,39,Male,PhD,HR,Director,San Francisco,14,2,2.9,15,58.0,4.0,37,234545.26
+EMP0793,36,Male,Bachelor's,Finance,Junior,Chicago,9,0,3.1,7,95.0,4.0,19,80247.24
+EMP0794,58,Female,Bachelor's,HR,Mid-Level,San Francisco,11,0,3.6,4,85.0,4.0,33,100440.82
+EMP0795,37,Male,Bachelor's,Engineering,Mid-Level,Chicago,12,2,3.4,17,83.0,0.0,39,118121.09
+EMP0796,26,Male,Bachelor's,Data Science,Mid-Level,San Francisco,8,0,1.9,4,111.0,1.0,33,126272.36
+EMP0797,23,Male,High School,Product,Junior,Remote,5,0,3.1,19,83.0,3.0,1,58170.13
+EMP0798,49,Male,Master's,Finance,Lead,San Francisco,16,0,4.2,5,5.0,3.0,39,233494.99
+EMP0799,48,Male,PhD,Operations,Junior,New York,20,0,3.2,16,72.0,0.0,28,124661.37
+EMP0800,52,Male,Bachelor's,Product,Senior,Austin,5,2,4.8,3,27.0,,17,127091.34
+EMP0801,57,Female,Master's,Operations,Junior,New York,6,2,2.5,11,76.0,0.0,6,79365.93
+EMP0802,22,Male,PhD,Engineering,Junior,New York,4,5,3.4,15,30.0,6.0,44,127328.77
+EMP0803,50,Male,PhD,HR,Manager,San Francisco,11,1,2.5,19,38.0,7.0,20,186010.23
+EMP0804,22,Non-binary,PhD,HR,Junior,Chicago,0,1,2.6,14,49.0,4.0,47,48844.4
+EMP0805,29,Female,Bachelor's,Marketing,Manager,Chicago,5,3,2.6,16,77.0,1.0,13,105838.58
+EMP0806,37,Female,PhD,Operations,Senior,Boston,6,7,4.7,6,85.0,3.0,12,150799.1
+EMP0807,49,Male,Master's,Product,Junior,Boston,6,5,3.0,5,36.0,5.0,30,94923.83
+EMP0808,43,Female,Bachelor's,Product,Director,Chicago,6,3,,17,117.0,2.0,21,152886.29
+EMP0809,39,Male,Bachelor's,Marketing,Mid-Level,San Francisco,5,1,3.2,16,108.0,0.0,2,93479.42
+EMP0810,43,Male,Master's,Engineering,Manager,San Francisco,11,0,3.0,2,87.0,2.0,18,247618.63
+EMP0811,33,Male,Bachelor's,Product,Junior,Boston,10,0,3.8,11,71.0,3.0,28,92651.35
+EMP0812,40,Male,Master's,Data Science,Manager,New York,16,9,1.8,4,14.0,0.0,4,242465.91
+EMP0813,46,Female,Master's,Engineering,Junior,New York,11,9,2.5,6,50.0,3.0,42,114780.69
+EMP0814,26,Male,Bachelor's,Product,Senior,Boston,2,3,3.8,7,104.0,0.0,43,109048.72
+EMP0815,55,Female,Bachelor's,Data Science,Lead,Chicago,7,6,2.9,17,69.0,5.0,6,146557.3
+EMP0816,60,Female,Master's,Finance,Manager,New York,6,7,2.7,8,22.0,3.0,38,200138.31
+EMP0817,31,Female,Bachelor's,HR,Manager,San Francisco,9,2,2.6,1,24.0,,9,151709.74
+EMP0818,28,Male,High School,Marketing,Lead,Remote,10,2,,15,94.0,2.0,20,101738.49
+EMP0819,58,Female,High School,Engineering,Manager,Remote,8,1,3.7,12,45.0,1.0,45,124966.37
+EMP0820,36,Male,Bachelor's,Sales,Junior,Seattle,8,1,3.9,15,92.0,5.0,30,86721.16
+EMP0821,45,Male,PhD,Data Science,Mid-Level,Austin,8,0,,15,22.0,6.0,37,147039.65
+EMP0822,47,Non-binary,Bachelor's,Engineering,Mid-Level,Austin,12,1,2.3,9,9.0,5.0,38,114840.13
+EMP0823,47,Male,Master's,Sales,Mid-Level,Remote,5,3,4.0,16,72.0,0.0,4,87446.38
+EMP0824,47,Male,Bachelor's,Marketing,Mid-Level,Remote,0,1,3.3,2,112.0,2.0,38,53078.1
+EMP0825,31,Female,Bachelor's,Finance,Senior,San Francisco,11,6,2.8,15,76.0,3.0,13,145160.94
+EMP0826,38,Male,Master's,Data Science,Junior,Boston,9,1,3.1,15,31.0,2.0,35,103883.94
+EMP0827,35,Female,Master's,Sales,Senior,San Francisco,14,0,2.3,7,112.0,5.0,30,176092.42
+EMP0828,23,Male,High School,Sales,Junior,San Francisco,0,1,2.8,13,50.0,0.0,42,48539.89
+EMP0829,34,Male,Bachelor's,Operations,Mid-Level,Seattle,7,3,3.3,17,108.0,7.0,4,95216.63
+EMP0830,48,Male,High School,Marketing,Senior,Chicago,8,0,3.4,11,40.0,2.0,25,80361.8
+EMP0831,30,Male,Bachelor's,Engineering,Lead,Remote,0,1,3.1,10,64.0,6.0,31,99301.0
+EMP0832,28,Male,Master's,Marketing,Lead,New York,7,1,3.1,1,64.0,3.0,47,141677.2
+EMP0833,31,Female,Bachelor's,Engineering,Senior,Austin,13,8,3.7,14,100.0,,12,142769.28
+EMP0834,30,Male,Bachelor's,Engineering,Junior,Remote,12,2,3.1,5,39.0,5.0,15,82018.66
+EMP0835,43,Female,Bachelor's,Finance,Senior,Remote,12,0,2.9,8,17.0,1.0,26,114565.07
+EMP0836,44,Male,PhD,Marketing,Junior,New York,6,2,2.7,1,35.0,1.0,10,86100.75
+EMP0837,28,Male,PhD,Data Science,Mid-Level,Chicago,10,5,2.0,7,30.0,5.0,12,141360.27
+EMP0838,30,Female,High School,Sales,Mid-Level,Seattle,12,3,3.7,2,53.0,7.0,22,94892.2
+EMP0839,48,Female,Master's,HR,Junior,New York,5,5,4.2,7,62.0,4.0,40,84778.24
+EMP0840,45,Male,Bachelor's,HR,Mid-Level,Remote,5,0,2.6,7,0.0,0.0,21,50438.03
+EMP0841,50,Female,Bachelor's,Engineering,Director,Remote,7,6,2.3,9,110.0,2.0,35,159712.42
+EMP0842,38,Female,Master's,Operations,Director,New York,2,3,2.8,4,51.0,2.0,7,146763.96
+EMP0843,41,Male,PhD,Engineering,Mid-Level,New York,6,3,3.4,7,99.0,4.0,18,171237.69
+EMP0844,28,Female,PhD,Product,Junior,New York,10,1,2.8,18,56.0,6.0,27,133808.95
+EMP0845,61,Male,Bachelor's,Engineering,Junior,Remote,13,6,2.8,13,8.0,4.0,35,82392.34
+EMP0846,28,Female,Bachelor's,Marketing,Mid-Level,San Francisco,6,3,3.1,11,85.0,3.0,47,102415.02
+EMP0847,49,Female,Master's,Engineering,Director,Chicago,14,5,3.3,9,119.0,3.0,2,223866.17
+EMP0848,40,Female,Bachelor's,Product,Junior,Chicago,11,1,3.5,14,91.0,1.0,32,76885.38
+EMP0849,41,Male,Bachelor's,Finance,Lead,Austin,11,0,3.0,8,89.0,0.0,15,146690.63
+EMP0850,60,Male,Bachelor's,HR,Junior,New York,3,1,,14,115.0,7.0,45,64316.12
+EMP0851,61,Female,Master's,Engineering,Director,San Francisco,17,1,1.9,17,73.0,0.0,24,283962.14
+EMP0852,28,Male,Bachelor's,Operations,Mid-Level,Remote,10,2,3.9,14,55.0,,20,81992.63
+EMP0853,27,Male,Bachelor's,Engineering,Lead,Remote,6,2,3.4,5,46.0,4.0,10,115361.92
+EMP0854,46,Female,PhD,Data Science,Mid-Level,Boston,5,2,4.3,10,2.0,1.0,24,142860.17
+EMP0855,34,Male,Bachelor's,Engineering,Senior,New York,6,5,3.6,6,1.0,1.0,24,143728.67
+EMP0856,60,Male,Bachelor's,Engineering,Junior,San Francisco,2,0,,10,53.0,3.0,24,86049.37
+EMP0857,61,Male,Bachelor's,Engineering,Junior,Seattle,12,1,2.2,11,36.0,2.0,40,92557.99
+EMP0858,43,Male,High School,Finance,Manager,San Francisco,3,4,2.1,6,55.0,6.0,48,125505.64
+EMP0859,38,Female,High School,Finance,Manager,Remote,9,2,3.9,10,30.0,0.0,48,130337.01
+EMP0860,43,Female,Bachelor's,Engineering,Manager,Seattle,5,2,3.6,14,96.0,6.0,34,166344.87
+EMP0861,55,Male,Master's,Data Science,Senior,New York,11,1,4.2,3,95.0,1.0,41,227477.44
+EMP0862,29,Female,Bachelor's,Marketing,Lead,Remote,11,2,3.9,7,106.0,3.0,40,124409.36
+EMP0863,39,Female,PhD,Finance,Junior,Remote,4,0,2.9,2,11.0,3.0,11,73312.65
+EMP0864,45,Female,Bachelor's,Marketing,Mid-Level,New York,7,2,1.6,7,57.0,3.0,26,82285.83
+EMP0865,23,Male,Bachelor's,Marketing,Mid-Level,Austin,0,1,3.6,17,66.0,6.0,1,68744.85
+EMP0866,23,Female,Bachelor's,Finance,Senior,San Francisco,5,2,2.5,13,118.0,2.0,30,136935.35
+EMP0867,48,Male,Bachelor's,Engineering,Mid-Level,Chicago,13,0,3.1,9,111.0,1.0,43,105490.63
+EMP0868,35,Female,Master's,Engineering,Junior,New York,1,2,3.5,13,25.0,4.0,18,84701.2
+EMP0869,60,Female,Bachelor's,Data Science,Senior,Austin,3,1,2.8,15,77.0,4.0,26,103247.51
+EMP0870,33,Male,Bachelor's,Product,Lead,Remote,7,0,2.6,13,11.0,3.0,47,113150.85
+EMP0871,53,Female,Master's,Marketing,Mid-Level,Austin,8,5,3.0,17,115.0,3.0,9,94897.12
+EMP0872,49,Male,PhD,Sales,Junior,New York,4,0,1.8,8,89.0,2.0,9,85792.58
+EMP0873,49,Female,Master's,HR,Junior,Seattle,2,3,2.5,9,15.0,3.0,1,60452.85
+EMP0874,46,Male,Bachelor's,Marketing,Mid-Level,San Francisco,9,1,2.5,9,52.0,5.0,7,99256.18
+EMP0875,25,Female,Master's,Engineering,Mid-Level,Remote,7,4,3.0,8,71.0,,44,111343.9
+EMP0876,47,Male,Bachelor's,Engineering,Senior,Chicago,8,2,2.5,16,48.0,7.0,42,110353.75
+EMP0877,57,Male,Bachelor's,Operations,Senior,San Francisco,6,0,2.8,7,48.0,7.0,16,101909.96
+EMP0878,24,Male,Bachelor's,Operations,Senior,San Francisco,6,3,2.9,17,91.0,3.0,38,108968.15
+EMP0879,22,Male,Bachelor's,Engineering,Mid-Level,Boston,2,3,4.7,7,6.0,7.0,11,95068.49
+EMP0880,38,Male,Bachelor's,Engineering,Manager,San Francisco,4,4,3.7,6,14.0,3.0,25,177302.14
+EMP0881,28,Female,Bachelor's,Engineering,Mid-Level,Boston,10,2,3.1,5,104.0,1.0,29,128337.74
+EMP0882,26,Male,Master's,Operations,Senior,San Francisco,0,1,3.5,17,35.0,0.0,19,95668.79
+EMP0883,40,Male,Bachelor's,Engineering,Lead,San Francisco,8,0,3.8,8,71.0,5.0,18,198860.79
+EMP0884,60,Male,High School,Engineering,Junior,Chicago,8,0,3.4,1,73.0,5.0,47,68492.12
+EMP0885,55,Female,High School,Data Science,Junior,Remote,8,0,2.5,16,14.0,7.0,29,60634.56
+EMP0886,56,Female,PhD,Engineering,Manager,Remote,11,3,3.1,17,118.0,4.0,16,215727.61
+EMP0887,37,Female,Bachelor's,Operations,Mid-Level,San Francisco,8,5,2.5,3,61.0,3.0,46,97679.44
+EMP0888,61,Female,Bachelor's,Engineering,Senior,San Francisco,5,3,3.0,13,17.0,1.0,40,136934.84
+EMP0889,60,Male,Master's,Engineering,Junior,New York,4,5,3.1,8,45.0,4.0,8,102886.28
+EMP0890,48,Male,Master's,Engineering,Senior,Austin,14,3,3.9,16,100.0,6.0,34,192278.32
+EMP0891,59,Male,Bachelor's,Operations,Mid-Level,Chicago,13,1,2.6,7,104.0,7.0,6,87142.31
+EMP0892,46,Female,Master's,Data Science,Junior,Remote,22,0,,15,108.0,6.0,45,105886.77
+EMP0893,47,Non-binary,Master's,Data Science,Senior,Remote,6,7,2.7,2,60.0,2.0,45,130375.67
+EMP0894,35,Male,Master's,Marketing,Mid-Level,Chicago,4,0,2.8,2,114.0,6.0,30,80663.48
+EMP0895,35,Male,Bachelor's,Operations,Mid-Level,Austin,10,2,3.0,10,42.0,6.0,44,86943.32
+EMP0896,35,Male,Master's,Engineering,Junior,Remote,10,1,3.4,5,43.0,0.0,34,92631.97
+EMP0897,46,Male,Bachelor's,Sales,Junior,Boston,11,0,2.7,4,98.0,3.0,21,72703.81
+EMP0898,57,Female,Bachelor's,Data Science,Mid-Level,New York,12,3,3.3,15,65.0,0.0,12,145826.58
+EMP0899,25,Male,Bachelor's,Engineering,Junior,San Francisco,7,0,3.3,13,54.0,3.0,49,100757.8
+EMP0900,36,Female,High School,Engineering,Manager,Chicago,13,7,3.6,17,85.0,3.0,6,151441.97
+EMP0901,53,Male,Bachelor's,Engineering,Junior,San Francisco,14,1,3.1,1,78.0,3.0,39,123389.1
+EMP0902,39,Female,Master's,Engineering,Senior,San Francisco,14,3,3.8,18,100.0,0.0,6,235416.04
+EMP0903,35,Female,High School,Engineering,Junior,New York,0,1,3.5,15,38.0,5.0,4,64387.42
+EMP0904,22,Female,Bachelor's,HR,Mid-Level,Seattle,4,3,3.4,14,99.0,2.0,9,73012.57
+EMP0905,41,Female,Bachelor's,Marketing,Manager,San Francisco,3,4,2.8,9,4.0,5.0,5,126412.91
+EMP0906,31,Female,High School,Data Science,Junior,New York,13,0,3.4,12,56.0,1.0,10,98806.46
+EMP0907,31,Female,PhD,Data Science,Director,San Francisco,0,0,3.4,5,111.0,1.0,47,260605.59
+EMP0908,45,Female,Bachelor's,Sales,Mid-Level,Boston,15,0,2.8,2,14.0,6.0,8,105887.38
+EMP0909,55,Female,Bachelor's,Sales,Lead,Remote,3,4,4.0,7,90.0,5.0,23,92925.91
+EMP0910,49,Non-binary,Bachelor's,Marketing,Senior,Austin,2,3,5.0,9,15.0,2.0,4,87406.63
+EMP0911,48,Female,Bachelor's,HR,Manager,Chicago,9,1,2.7,18,56.0,6.0,37,111685.11
+EMP0912,61,Female,High School,Sales,Senior,Remote,6,3,2.9,4,99.0,2.0,7,75863.01
+EMP0913,22,Female,Master's,HR,Senior,San Francisco,4,0,2.9,2,101.0,3.0,6,114042.83
+EMP0914,54,Male,PhD,Marketing,Junior,San Francisco,14,0,2.3,1,81.0,3.0,45,107515.34
+EMP0915,25,Male,Bachelor's,Finance,Junior,San Francisco,5,3,2.6,12,98.0,1.0,42,75883.33
+EMP0916,28,Male,Master's,Marketing,Manager,New York,10,0,3.8,13,24.0,,15,193726.81
+EMP0917,30,Male,Master's,Sales,Mid-Level,Chicago,5,1,3.1,14,21.0,6.0,35,85566.34
+EMP0918,37,Female,Master's,Product,Mid-Level,Remote,5,3,4.5,5,119.0,3.0,32,100602.33
+EMP0919,26,Male,Bachelor's,Operations,Lead,Seattle,8,4,3.0,3,30.0,2.0,14,122682.83
+EMP0920,55,Female,Bachelor's,Engineering,Mid-Level,Chicago,15,1,3.5,4,100.0,0.0,35,112552.56
+EMP0921,44,Female,Bachelor's,Data Science,Director,Remote,5,2,2.6,17,33.0,7.0,11,165076.97
+EMP0922,46,Male,Master's,Finance,Lead,New York,6,2,3.1,19,86.0,5.0,10,168909.63
+EMP0923,34,Female,Master's,Data Science,Senior,San Francisco,9,0,3.3,11,15.0,4.0,17,189528.84
+EMP0924,45,Female,Bachelor's,Data Science,Manager,Austin,3,4,1.7,8,69.0,4.0,13,122742.81
+EMP0925,32,Male,Bachelor's,Marketing,Junior,Seattle,14,0,2.6,12,58.0,3.0,34,73877.35
+EMP0926,38,Female,PhD,Engineering,Mid-Level,New York,3,0,,18,14.0,3.0,45,154252.4
+EMP0927,58,Female,Master's,Sales,Senior,Chicago,4,1,,18,81.0,5.0,5,97153.3
+EMP0928,34,Male,PhD,Finance,Mid-Level,Seattle,16,6,2.3,9,101.0,4.0,48,157290.96
+EMP0929,48,Male,Master's,HR,Lead,Seattle,9,0,2.9,5,12.0,2.0,10,142333.81
+EMP0930,41,Non-binary,Bachelor's,Sales,Manager,Seattle,17,0,1.5,17,23.0,7.0,32,149329.8
+EMP0931,54,Male,Bachelor's,Engineering,Mid-Level,San Francisco,6,0,3.2,13,12.0,4.0,12,114572.5
+EMP0932,53,Male,Master's,Data Science,Mid-Level,New York,20,1,4.1,6,64.0,4.0,13,195643.16
+EMP0933,29,Male,High School,Product,Director,Chicago,11,2,4.1,14,111.0,6.0,21,175505.68
+EMP0934,50,Female,Bachelor's,Finance,Mid-Level,New York,4,0,4.1,15,35.0,4.0,48,103457.83
+EMP0935,61,Female,Master's,Engineering,Senior,Remote,4,4,,14,48.0,3.0,33,119909.1
+EMP0936,40,Female,Bachelor's,Sales,Mid-Level,Chicago,0,1,4.0,4,81.0,6.0,41,69730.56
+EMP0937,27,Male,Master's,Engineering,Manager,San Francisco,1,2,3.1,18,47.0,3.0,48,189494.32
+EMP0938,60,Female,Bachelor's,Data Science,Senior,Boston,4,2,2.8,1,96.0,5.0,47,113767.77
+EMP0939,42,Male,PhD,Engineering,Lead,Austin,3,1,4.0,12,101.0,,32,161789.06
+EMP0940,43,Male,High School,HR,Lead,San Francisco,0,1,3.4,9,42.0,7.0,12,79868.79
+EMP0941,31,Male,Bachelor's,Sales,Mid-Level,Boston,12,2,1.9,10,5.0,3.0,46,91515.72
+EMP0942,31,Male,Master's,Finance,Mid-Level,Remote,11,0,4.1,18,80.0,5.0,35,119594.95
+EMP0943,50,Female,Bachelor's,Operations,Manager,Seattle,9,3,3.0,17,67.0,4.0,36,145379.48
+EMP0944,37,Female,Master's,Data Science,Mid-Level,New York,2,1,2.7,19,13.0,7.0,38,124446.82
+EMP0945,22,Male,Master's,Engineering,Lead,Austin,4,0,3.9,4,29.0,2.0,48,142005.69
+EMP0946,38,Female,Bachelor's,Engineering,Director,Boston,7,0,3.8,16,109.0,3.0,28,213186.77
+EMP0947,51,Female,Bachelor's,Engineering,Senior,New York,3,0,2.5,7,83.0,7.0,13,117551.02
+EMP0948,47,Female,Bachelor's,Data Science,Lead,San Francisco,9,6,3.1,9,7.0,7.0,12,188055.28
+EMP0949,40,Male,Bachelor's,Data Science,Lead,Remote,8,0,2.6,8,53.0,7.0,22,126116.16
+EMP0950,42,Female,PhD,HR,Manager,New York,0,1,2.6,7,65.0,0.0,44,117710.36
+EMP0951,38,Male,Master's,HR,Mid-Level,Boston,7,2,1.1,10,100.0,7.0,2,82322.27
+EMP0952,61,Female,Master's,Operations,Junior,Chicago,8,6,2.5,8,3.0,5.0,29,65656.72
+EMP0953,42,Male,Master's,Engineering,Mid-Level,Chicago,6,1,3.1,17,73.0,3.0,13,103414.15
+EMP0954,61,Female,Bachelor's,Data Science,Senior,New York,1,2,1.2,12,83.0,2.0,35,111285.98
+EMP0955,40,Male,PhD,Marketing,Senior,Boston,1,0,2.2,14,59.0,2.0,13,98447.44
+EMP0956,28,Male,Master's,Marketing,Lead,San Francisco,10,2,3.6,12,119.0,3.0,34,172614.75
+EMP0957,38,Female,Master's,Finance,Mid-Level,Austin,11,0,2.2,2,52.0,7.0,19,109759.37
+EMP0958,22,Female,Master's,Engineering,Senior,Seattle,4,1,3.1,12,98.0,1.0,9,145997.96
+EMP0959,58,Female,Bachelor's,Engineering,Junior,Seattle,9,2,2.0,14,111.0,5.0,31,97747.4
+EMP0960,27,Female,Master's,Operations,Lead,Remote,5,2,3.5,7,73.0,4.0,33,106794.82
+EMP0961,47,Male,Bachelor's,Engineering,Senior,Austin,3,1,3.0,13,91.0,4.0,27,112996.48
+EMP0962,23,Male,Bachelor's,HR,Mid-Level,Chicago,5,0,2.6,4,14.0,2.0,45,58096.78
+EMP0963,53,Male,Bachelor's,Engineering,Mid-Level,Remote,2,3,1.3,1,99.0,7.0,2,69012.45
+EMP0964,26,Male,PhD,Marketing,Lead,Seattle,8,2,2.6,17,0.0,3.0,15,159624.56
+EMP0965,58,Female,Master's,Sales,Senior,San Francisco,0,0,3.7,3,21.0,1.0,19,115795.89
+EMP0966,52,Female,Master's,Sales,Mid-Level,New York,9,8,4.3,17,90.0,5.0,31,136290.81
+EMP0967,33,Female,Master's,Operations,Director,Remote,8,9,3.0,8,92.0,0.0,16,153635.86
+EMP0968,56,Female,Bachelor's,Sales,Lead,Chicago,8,5,,3,14.0,4.0,43,102255.88
+EMP0969,51,Female,PhD,Finance,Director,Seattle,15,5,2.7,10,73.0,6.0,15,291130.14
+EMP0970,27,Male,Bachelor's,Finance,Mid-Level,Chicago,0,0,4.1,2,83.0,,6,74479.32
+EMP0971,36,Male,Bachelor's,Operations,Senior,San Francisco,10,11,3.0,4,21.0,7.0,14,129101.15
+EMP0972,36,Female,Bachelor's,Product,Manager,Seattle,6,1,3.8,14,49.0,5.0,27,165727.82
+EMP0973,37,Male,Master's,Operations,Senior,New York,10,0,3.4,11,47.0,1.0,38,142271.1
+EMP0974,41,Male,Master's,Engineering,Lead,Chicago,8,5,3.3,14,116.0,5.0,19,165819.34
+EMP0975,34,Male,Bachelor's,Engineering,Mid-Level,Austin,7,0,2.5,13,72.0,4.0,37,100001.11
+EMP0976,52,Female,High School,Sales,Mid-Level,Chicago,1,2,4.4,4,119.0,3.0,43,62764.08
+EMP0977,55,Male,Master's,HR,Junior,Boston,4,0,4.2,2,50.0,7.0,4,74355.17
+EMP0978,50,Female,High School,Engineering,Mid-Level,Remote,23,1,4.8,2,95.0,4.0,26,113235.35
+EMP0979,24,Female,Master's,Finance,Junior,Boston,6,2,2.4,11,16.0,0.0,9,87951.07
+EMP0980,30,Male,PhD,HR,Junior,New York,12,1,3.4,5,105.0,3.0,41,111820.91
+EMP0981,32,Female,Bachelor's,Sales,Director,San Francisco,6,0,2.6,9,82.0,2.0,49,165332.09
+EMP0982,32,Female,Bachelor's,Data Science,Mid-Level,Austin,3,1,3.5,17,103.0,1.0,40,87326.44
+EMP0983,46,Female,Master's,Engineering,Senior,Remote,11,1,3.4,12,90.0,7.0,15,149301.8
+EMP0984,43,Female,Master's,Engineering,Manager,Remote,0,0,2.9,18,50.0,4.0,41,120943.8
+EMP0985,30,Male,Bachelor's,Operations,Senior,Remote,4,5,3.0,3,36.0,3.0,37,76516.47
+EMP0986,41,Female,PhD,Finance,Junior,San Francisco,6,1,4.7,5,97.0,,4,141912.2
+EMP0987,42,Male,High School,Operations,Lead,Chicago,12,5,3.1,14,110.0,3.0,26,101592.56
+EMP0988,31,Female,Bachelor's,Marketing,Senior,Chicago,10,0,1.7,16,48.0,4.0,18,86733.14
+EMP0989,43,Female,Master's,Engineering,Lead,New York,5,1,2.8,19,58.0,2.0,41,181129.14
+EMP0990,50,Female,Master's,Data Science,Lead,New York,9,0,2.4,9,9.0,4.0,35,200364.27
+EMP0991,30,Male,Bachelor's,Data Science,Director,Remote,6,1,2.6,17,29.0,2.0,41,146840.93
+EMP0992,26,Male,Master's,Operations,Senior,San Francisco,8,0,3.7,7,84.0,5.0,41,151221.31
+EMP0993,61,Male,Bachelor's,Sales,Mid-Level,San Francisco,9,1,3.8,10,20.0,4.0,29,109432.34
+EMP0994,32,Male,Bachelor's,HR,Senior,New York,14,1,2.6,4,117.0,3.0,24,121510.44
+EMP0995,22,Male,Bachelor's,Sales,Junior,Remote,4,0,,10,33.0,0.0,4,49877.34
+EMP0996,22,Male,Master's,Engineering,Manager,Austin,4,3,2.7,3,72.0,0.0,21,161994.87
+EMP0997,60,Male,Bachelor's,Data Science,Junior,Seattle,8,9,4.3,9,97.0,5.0,39,101136.09
+EMP0998,26,Non-binary,Bachelor's,Engineering,Mid-Level,Remote,4,0,3.8,13,49.0,6.0,7,92443.08
+EMP0999,43,Male,Bachelor's,Product,Lead,San Francisco,21,3,3.7,1,,6.0,23,243595.97
+EMP1000,47,Female,Master's,Marketing,Senior,Seattle,14,4,2.5,15,46.0,3.0,40,146950.23
+EMP1001,27,Female,Master's,Engineering,Mid-Level,New York,9,2,2.0,15,84.0,0.0,21,144878.83
+EMP1002,53,Female,Master's,Finance,Senior,San Francisco,11,6,,11,83.0,5.0,1,210148.75
+EMP1003,32,Female,Bachelor's,Data Science,Manager,Remote,2,3,4.5,10,5.0,2.0,41,128191.75
+EMP1004,31,Male,Master's,Operations,Mid-Level,Boston,2,1,2.0,7,49.0,3.0,25,73884.39
+EMP1005,60,Female,Bachelor's,Data Science,Manager,San Francisco,13,3,4.8,1,108.0,6.0,31,277362.76
+EMP1006,55,Male,Master's,Operations,Junior,Chicago,8,3,3.1,7,99.0,7.0,44,74046.35
+EMP1007,52,Male,PhD,Operations,Lead,Austin,7,1,3.3,5,62.0,2.0,38,144057.59
+EMP1008,33,Female,High School,Data Science,Manager,New York,6,1,2.3,16,11.0,3.0,45,147891.24
+EMP1009,37,Male,Master's,Engineering,Junior,San Francisco,8,8,2.0,8,40.0,2.0,5,102671.95
+EMP1010,59,Female,High School,Finance,Mid-Level,San Francisco,6,4,1.6,2,30.0,2.0,31,84894.73
+EMP1011,24,Male,Bachelor's,Engineering,Junior,San Francisco,0,0,3.9,8,1.0,0.0,1,72320.11
+EMP1012,23,Male,Bachelor's,Product,Lead,Boston,5,0,3.1,14,15.0,7.0,30,133473.0
+EMP1013,26,Male,Bachelor's,Product,Senior,San Francisco,7,7,3.5,4,0.0,3.0,18,139385.5
+EMP1014,32,Male,Bachelor's,Engineering,Senior,San Francisco,14,0,4.0,15,3.0,4.0,8,187596.38
+EMP1015,46,Male,Master's,Operations,Junior,Austin,0,1,3.1,7,46.0,0.0,26,51666.71
+EMP1016,56,Male,Bachelor's,Product,Mid-Level,Remote,0,0,4.4,8,115.0,2.0,40,74359.84
+EMP1017,56,Male,Master's,Engineering,Junior,San Francisco,6,0,2.6,11,64.0,2.0,15,99131.04
+EMP1018,43,Female,Bachelor's,Finance,Mid-Level,New York,12,0,2.9,2,51.0,6.0,19,128213.03
+EMP1019,58,Male,High School,Data Science,Senior,San Francisco,1,1,2.6,9,46.0,4.0,10,99918.09
+EMP1020,43,Female,Master's,Engineering,Manager,Boston,1,0,3.8,6,98.0,6.0,24,165497.12
+EMP1021,32,Male,Bachelor's,Operations,Senior,Austin,9,2,4.0,1,76.0,4.0,16,102893.1
+EMP1022,53,Female,Bachelor's,Sales,Mid-Level,Boston,6,3,2.9,3,49.0,2.0,43,89273.76
+EMP1023,56,Male,Master's,Product,Director,Remote,10,1,2.2,10,44.0,4.0,31,178325.8
+EMP1024,52,Male,Bachelor's,Product,Lead,Boston,6,4,4.1,5,41.0,7.0,44,157175.13
+EMP1025,29,Male,High School,Product,Manager,Seattle,9,2,2.6,12,94.0,1.0,16,155425.16
+EMP1026,41,Male,Bachelor's,Finance,Senior,Austin,14,1,2.9,1,83.0,,16,142192.24
+EMP1027,55,Female,PhD,Data Science,Mid-Level,New York,1,1,2.4,9,55.0,6.0,28,121578.05
+EMP1028,25,Male,Master's,Data Science,Junior,Remote,7,1,3.4,13,70.0,0.0,20,87984.15
+EMP1029,39,Non-binary,Master's,Sales,Lead,Chicago,0,1,2.7,19,,7.0,35,87667.43
+EMP1030,25,Male,Master's,Data Science,Junior,New York,7,3,3.7,7,103.0,3.0,9,123508.09
+EMP1031,41,Male,Bachelor's,Engineering,Mid-Level,Seattle,15,1,2.8,16,32.0,6.0,40,124466.46
+EMP1032,30,Female,Bachelor's,HR,Senior,San Francisco,5,3,3.6,8,27.0,4.0,10,109486.94
+EMP1033,37,Male,Master's,Engineering,Senior,Austin,11,1,2.6,19,113.0,4.0,45,147110.67
+EMP1034,47,Female,Bachelor's,Engineering,Senior,Austin,5,0,4.1,7,43.0,1.0,18,120005.01
+EMP1035,59,Male,Bachelor's,Engineering,Junior,Chicago,10,1,2.9,4,113.0,3.0,45,84271.61
+EMP1036,46,Female,Bachelor's,Operations,Mid-Level,Remote,0,1,3.3,10,55.0,1.0,45,54422.35
+EMP1037,25,Male,Bachelor's,Sales,Senior,San Francisco,7,1,2.4,1,43.0,3.0,15,120915.03
+EMP1038,59,Female,PhD,Operations,Director,Chicago,9,6,3.2,17,83.0,6.0,45,180965.38
+EMP1039,40,Female,High School,Engineering,Lead,Austin,14,1,,13,95.0,6.0,30,127815.93
+EMP1040,35,Male,Bachelor's,Sales,Manager,Seattle,12,1,3.2,19,72.0,0.0,48,150752.55
+EMP1041,42,Male,Bachelor's,Finance,Lead,Boston,7,8,2.5,13,33.0,4.0,32,137931.87
+EMP1042,36,Male,PhD,Data Science,Senior,Chicago,9,1,3.1,9,13.0,0.0,40,174782.28
+EMP1043,24,Non-binary,Bachelor's,Sales,Junior,Seattle,0,1,3.5,5,67.0,3.0,27,57963.92
+EMP1044,58,Male,Bachelor's,HR,Senior,New York,16,4,2.2,1,28.0,4.0,27,107015.56
+EMP1045,37,Male,Master's,Data Science,Senior,Remote,11,7,3.2,2,78.0,6.0,19,162535.36
+EMP1046,35,Male,Master's,HR,Senior,Chicago,0,0,3.5,11,16.0,1.0,10,73063.97
+EMP1047,30,Male,Bachelor's,Engineering,Senior,Boston,9,0,3.5,4,82.0,6.0,44,160687.57
+EMP1048,28,Female,Bachelor's,Engineering,Senior,New York,9,4,4.5,9,101.0,6.0,46,182777.34
+EMP1049,35,Female,Bachelor's,Data Science,Mid-Level,San Francisco,4,2,2.7,5,8.0,2.0,6,107916.89
+EMP1050,27,Male,Bachelor's,Engineering,Senior,Austin,8,2,3.2,5,26.0,1.0,24,122276.19
+EMP1051,42,Female,Bachelor's,Data Science,Junior,Remote,3,0,4.4,8,48.0,2.0,9,65900.69
+EMP1052,36,Female,Bachelor's,Finance,Lead,Austin,0,0,2.2,2,78.0,7.0,27,96194.75
+EMP1053,29,Male,Bachelor's,Product,Junior,Remote,4,2,1.6,7,36.0,7.0,7,59888.39
+EMP1054,55,Male,Bachelor's,Data Science,Junior,Austin,8,0,3.6,17,27.0,1.0,6,81398.7
+EMP1055,61,Female,Master's,Product,Mid-Level,Austin,12,0,3.9,11,49.0,3.0,33,129002.05
+EMP1056,22,Female,PhD,Sales,Senior,New York,4,0,1.7,15,54.0,0.0,21,117566.16
+EMP1057,53,Female,Master's,Operations,Mid-Level,Boston,12,0,3.0,3,3.0,7.0,46,115369.0
+EMP1058,26,Male,High School,Marketing,Mid-Level,San Francisco,8,4,2.5,13,84.0,2.0,38,79731.17
+EMP1059,51,Male,High School,Finance,Senior,Remote,2,3,3.4,18,119.0,,44,74127.64
+EMP1060,43,Male,PhD,HR,Mid-Level,Remote,11,0,3.2,3,97.0,0.0,17,92425.22
+EMP1061,41,Female,Bachelor's,Data Science,Manager,Remote,11,0,4.1,2,18.0,0.0,31,170065.1
+EMP1062,37,Female,High School,Product,Manager,Austin,16,2,2.3,5,36.0,4.0,37,146765.6
+EMP1063,28,Female,Bachelor's,Operations,Senior,Seattle,10,1,3.5,5,3.0,6.0,11,123901.8
+EMP1064,28,Male,Master's,Marketing,Mid-Level,Boston,1,2,3.6,13,36.0,4.0,28,77274.93
+EMP1065,23,Male,Master's,Marketing,Lead,New York,5,4,3.2,8,50.0,6.0,5,149725.18
+EMP1066,35,Male,Bachelor's,Operations,Junior,Seattle,0,1,1.8,16,31.0,4.0,12,44387.35
+EMP1067,52,Male,High School,Engineering,Senior,New York,10,2,3.5,18,44.0,2.0,3,154760.52
+EMP1068,35,Male,PhD,Engineering,Mid-Level,Austin,16,1,2.7,16,111.0,2.0,41,151001.76
+EMP1069,26,Male,Bachelor's,Sales,Manager,New York,0,1,2.0,1,11.0,6.0,38,97223.51
+EMP1070,32,Male,Master's,Sales,Junior,San Francisco,14,0,3.5,8,40.0,7.0,2,116827.97
+EMP1071,61,Female,Master's,Sales,Senior,Chicago,10,0,3.7,2,55.0,0.0,26,119263.35
+EMP1072,26,Female,Master's,Engineering,Lead,Chicago,2,0,2.8,5,79.0,2.0,2,114805.38
+EMP1073,50,Male,Bachelor's,Engineering,Senior,Seattle,9,1,3.8,15,13.0,0.0,12,156890.54
+EMP1074,32,Male,Bachelor's,Engineering,Junior,New York,2,0,3.8,14,53.0,3.0,40,86158.04
+EMP1075,26,Male,Bachelor's,Product,Director,Austin,8,0,3.2,3,62.0,1.0,2,179016.05
+EMP1076,53,Female,Master's,Marketing,Senior,San Francisco,8,2,3.6,7,64.0,0.0,41,152765.29
+EMP1077,57,Female,PhD,Marketing,Senior,Austin,9,10,3.9,4,115.0,0.0,16,143976.72
+EMP1078,36,Female,Bachelor's,Operations,Mid-Level,Seattle,3,0,3.6,11,118.0,3.0,30,78377.81
+EMP1079,40,Female,Bachelor's,Engineering,Senior,Austin,4,2,1.6,12,57.0,6.0,47,100227.54
+EMP1080,43,Male,PhD,Product,Mid-Level,Boston,10,0,1.4,15,95.0,4.0,46,140799.75
+EMP1081,55,Male,Master's,Data Science,Junior,San Francisco,5,6,3.9,6,20.0,5.0,36,113905.46
+EMP1082,38,Male,Master's,Engineering,Junior,Boston,8,1,2.7,1,3.0,7.0,4,98733.62
+EMP1083,33,Male,Bachelor's,Marketing,Manager,Chicago,10,6,2.9,18,72.0,6.0,11,126042.31
+EMP1084,46,Female,Bachelor's,Data Science,Mid-Level,Austin,6,0,4.5,14,119.0,4.0,24,112816.05
+EMP1085,38,Male,Master's,Product,Junior,Seattle,13,4,2.7,7,114.0,4.0,18,119733.88
+EMP1086,31,Male,Master's,Marketing,Senior,New York,7,0,3.1,10,45.0,7.0,27,135169.09
+EMP1087,49,Male,Bachelor's,HR,Lead,Seattle,6,1,3.2,9,85.0,6.0,37,103592.41
+EMP1088,39,Non-binary,High School,Engineering,Junior,Seattle,4,0,3.1,2,11.0,6.0,2,66692.38
+EMP1089,39,Male,Bachelor's,Product,Senior,San Francisco,13,0,4.1,8,29.0,7.0,15,177672.25
+EMP1090,53,Female,Bachelor's,Engineering,Junior,New York,4,5,2.9,1,93.0,0.0,11,86307.04
+EMP1091,35,Male,Bachelor's,Product,Junior,New York,14,3,3.7,2,95.0,0.0,27,110721.11
+EMP1092,37,Male,PhD,HR,Junior,Remote,8,1,3.2,7,59.0,2.0,49,72239.85
+EMP1093,39,Male,Bachelor's,HR,Manager,Seattle,21,10,3.9,16,99.0,2.0,48,162090.32
+EMP1094,37,Female,Master's,Finance,Junior,New York,4,1,2.2,4,70.0,1.0,47,90899.26
+EMP1095,38,Male,Bachelor's,Engineering,Junior,San Francisco,14,10,1.6,17,80.0,1.0,23,109364.23
+EMP1096,28,Female,Master's,Engineering,Mid-Level,Austin,10,0,3.2,4,64.0,5.0,35,136834.15
+EMP1097,33,Male,PhD,Engineering,Manager,Remote,5,6,2.6,3,13.0,6.0,30,178523.57
+EMP1098,55,Male,Bachelor's,Engineering,Mid-Level,New York,10,0,4.2,9,110.0,2.0,47,147905.89
+EMP1099,31,Female,High School,Data Science,Mid-Level,San Francisco,10,2,3.1,15,43.0,,24,135111.57
+EMP1100,26,Male,Bachelor's,Sales,Junior,Remote,6,1,3.4,3,107.0,0.0,19,60491.81
+EMP1101,42,Female,High School,Engineering,Mid-Level,New York,10,2,3.0,12,101.0,3.0,29,125334.99
+EMP1102,24,Female,Master's,Product,Senior,San Francisco,6,2,2.7,15,25.0,2.0,13,164032.58
+EMP1103,40,Male,PhD,Data Science,Senior,Remote,10,1,3.2,8,90.0,0.0,48,178365.54
+EMP1104,56,Female,Bachelor's,Product,Mid-Level,Seattle,5,6,3.9,12,108.0,6.0,23,112446.63
+EMP1105,27,Male,Bachelor's,Product,Mid-Level,San Francisco,5,6,3.0,13,15.0,,12,109924.83
+EMP1106,35,Male,Bachelor's,Engineering,Junior,New York,7,8,2.9,15,109.0,2.0,49,93140.39
+EMP1107,25,Male,Master's,Marketing,Mid-Level,New York,7,8,3.8,11,6.0,4.0,48,123998.58
+EMP1108,39,Female,High School,Operations,Junior,San Francisco,4,4,2.0,17,31.0,2.0,41,46987.09
+EMP1109,50,Male,Bachelor's,Operations,Lead,Remote,9,10,4.0,12,88.0,6.0,29,111325.31
+EMP1110,56,Female,Master's,Engineering,Director,Chicago,0,1,2.6,18,,6.0,6,146071.25
+EMP1111,59,Female,Master's,Data Science,Director,Boston,10,1,3.9,16,15.0,5.0,23,278264.29
+EMP1112,37,Female,Bachelor's,Engineering,Manager,Remote,11,4,3.4,3,118.0,6.0,31,175535.75
+EMP1113,41,Female,Master's,Engineering,Senior,Chicago,18,7,,9,104.0,4.0,45,159822.32
+EMP1114,45,Male,High School,Finance,Lead,San Francisco,12,3,3.2,7,77.0,0.0,21,158384.35
+EMP1115,56,Male,Bachelor's,HR,Mid-Level,Austin,5,1,4.1,19,88.0,4.0,24,69853.14
+EMP1116,40,Male,Master's,HR,Senior,Remote,0,0,3.0,5,61.0,2.0,8,67415.22
+EMP1117,25,Female,Master's,Engineering,Senior,Boston,7,4,3.1,19,29.0,7.0,44,155701.48
+EMP1118,54,Non-binary,High School,Data Science,Senior,New York,6,7,2.7,10,119.0,4.0,9,122740.88
+EMP1119,23,Female,Bachelor's,Sales,Lead,Seattle,5,1,4.0,12,70.0,5.0,22,119786.77
+EMP1120,34,Female,Bachelor's,Engineering,Mid-Level,Austin,4,0,2.9,8,11.0,3.0,4,87592.56
+EMP1121,51,Female,Bachelor's,Data Science,Mid-Level,Remote,7,1,4.5,3,66.0,4.0,13,102851.5
+EMP1122,55,Male,Bachelor's,Product,Manager,New York,0,1,4.0,19,90.0,6.0,34,151636.12
+EMP1123,51,Female,High School,Data Science,Junior,Austin,2,1,4.1,11,45.0,5.0,3,61673.25
+EMP1124,45,Female,Bachelor's,Data Science,Senior,Remote,2,2,3.3,8,82.0,4.0,37,96583.12
+EMP1125,54,Male,Master's,Operations,Manager,Chicago,12,10,2.9,13,42.0,1.0,28,130453.76
+EMP1126,31,Non-binary,Master's,Finance,Senior,Austin,3,3,3.5,10,100.0,3.0,26,127412.2
+EMP1127,39,Male,Master's,Engineering,Senior,New York,14,1,4.3,18,54.0,0.0,46,220432.98
+EMP1128,40,Female,High School,Marketing,Mid-Level,San Francisco,3,4,4.4,12,44.0,6.0,34,75247.75
+EMP1129,28,Female,PhD,Marketing,Mid-Level,San Francisco,10,2,1.9,7,59.0,5.0,15,134635.6
+EMP1130,40,Female,Master's,Sales,Manager,Remote,0,0,5.0,11,105.0,4.0,8,123951.54
+EMP1131,45,Male,Master's,Operations,Senior,San Francisco,10,2,3.4,10,70.0,7.0,48,161425.95
+EMP1132,36,Female,Master's,Finance,Senior,Chicago,8,3,3.7,3,112.0,3.0,35,143204.09
+EMP1133,44,Female,PhD,Engineering,Junior,Seattle,1,2,2.6,7,79.0,0.0,24,83125.8
+EMP1134,25,Male,Bachelor's,Engineering,Junior,New York,5,6,2.5,4,31.0,3.0,37,86541.36
+EMP1135,59,Female,Bachelor's,Operations,Director,Austin,6,1,2.2,8,7.0,5.0,4,124699.75
+EMP1136,25,Female,Master's,Engineering,Mid-Level,Boston,7,0,4.4,8,112.0,1.0,12,142581.92
+EMP1137,26,Female,Master's,Data Science,Senior,Remote,3,0,2.7,6,76.0,5.0,19,121645.19
+EMP1138,44,Male,Master's,Finance,Junior,Seattle,10,4,3.1,13,61.0,5.0,15,104980.75
+EMP1139,61,Male,Bachelor's,Finance,Senior,Seattle,8,4,3.0,12,74.0,7.0,30,129305.69
+EMP1140,58,Female,High School,HR,Manager,New York,11,1,2.5,3,19.0,0.0,45,123503.31
+EMP1141,32,Male,Bachelor's,Data Science,Senior,Remote,3,1,3.1,6,17.0,7.0,37,102809.84
+EMP1142,32,Male,PhD,Sales,Junior,New York,5,6,3.3,19,100.0,7.0,12,94694.99
+EMP1143,34,Non-binary,Bachelor's,Operations,Senior,Boston,15,7,4.1,11,5.0,0.0,19,117388.09
+EMP1144,35,Male,Bachelor's,Finance,Lead,San Francisco,3,0,2.5,4,83.0,4.0,34,140828.74
+EMP1145,29,Female,Bachelor's,Sales,Mid-Level,Remote,1,2,2.8,15,95.0,2.0,7,53752.71
+EMP1146,46,Male,Bachelor's,Data Science,Manager,Seattle,4,2,3.6,2,109.0,5.0,28,157113.74
+EMP1147,39,Male,Master's,Data Science,Senior,Boston,0,0,3.2,15,107.0,0.0,28,116487.48
+EMP1148,39,Male,Master's,Operations,Manager,San Francisco,16,1,3.2,17,28.0,7.0,29,218940.9
+EMP1149,31,Male,Master's,Data Science,Senior,Chicago,6,0,2.5,2,3.0,,37,138757.02
+EMP1150,28,Female,Bachelor's,Data Science,Junior,Seattle,6,1,3.7,7,70.0,5.0,20,95575.15
+EMP1151,35,Female,Master's,Operations,Mid-Level,Boston,11,2,4.2,16,42.0,,11,118792.6
+EMP1152,36,Male,Bachelor's,Data Science,Mid-Level,New York,4,1,4.1,5,83.0,0.0,39,117040.29
+EMP1153,37,Male,Master's,Operations,Manager,Remote,6,1,3.1,16,33.0,1.0,42,110188.66
+EMP1154,23,Male,Bachelor's,Operations,Lead,Remote,4,2,1.4,19,99.0,1.0,23,75750.05
+EMP1155,51,Male,Bachelor's,HR,Senior,San Francisco,0,0,3.4,2,70.0,5.0,46,79429.5
+EMP1156,51,Male,Master's,Operations,Mid-Level,Remote,8,4,3.3,15,32.0,1.0,20,81145.23
+EMP1157,39,Female,PhD,Engineering,Junior,Austin,13,1,2.5,4,14.0,5.0,20,118216.56
+EMP1158,52,Female,High School,Data Science,Lead,Chicago,8,1,2.6,2,115.0,7.0,11,113615.91
+EMP1159,34,Female,Master's,Data Science,Senior,San Francisco,12,10,2.5,10,95.0,4.0,2,206170.99
+EMP1160,41,Male,Bachelor's,Engineering,Mid-Level,Austin,2,1,3.4,5,85.0,0.0,13,83933.44
+EMP1161,56,Female,Bachelor's,Data Science,Senior,Boston,4,3,,18,119.0,5.0,13,126129.37
+EMP1162,44,Female,High School,Engineering,Junior,Chicago,1,1,3.3,4,39.0,,41,47877.52
+EMP1163,54,Female,Bachelor's,Sales,Mid-Level,Seattle,9,6,4.9,1,92.0,1.0,49,108377.46
+EMP1164,59,Male,Bachelor's,Operations,Senior,Seattle,6,5,3.1,18,88.0,3.0,15,100287.31
+EMP1165,56,Non-binary,High School,Engineering,Junior,Seattle,6,0,2.4,6,4.0,3.0,31,73615.42
+EMP1166,57,Female,Bachelor's,Data Science,Director,New York,11,3,2.2,14,77.0,6.0,23,231458.85
+EMP1167,41,Female,PhD,Data Science,Mid-Level,Remote,5,0,3.4,10,49.0,1.0,22,127869.8
+EMP1168,24,Male,Bachelor's,Finance,Junior,Chicago,6,7,4.6,18,98.0,6.0,16,81580.07
+EMP1169,29,Male,Master's,Engineering,Mid-Level,San Francisco,9,1,2.6,9,65.0,6.0,42,164098.38
+EMP1170,61,Male,Bachelor's,Sales,Lead,San Francisco,6,5,1.7,12,88.0,6.0,29,116940.08
+EMP1171,53,Male,Master's,HR,Mid-Level,Austin,0,1,4.4,10,53.0,4.0,20,66886.09
+EMP1172,50,Female,Bachelor's,Product,Senior,Remote,11,3,5.0,19,79.0,2.0,28,127595.5
+EMP1173,28,Male,Bachelor's,HR,Junior,Chicago,9,10,3.7,6,45.0,5.0,27,59803.97
+EMP1174,23,Male,Bachelor's,Sales,Junior,Boston,5,6,3.5,14,79.0,3.0,44,73056.57
+EMP1175,42,Male,High School,HR,Mid-Level,New York,9,0,3.2,8,10.0,5.0,29,74583.66
+EMP1176,27,Male,Bachelor's,Finance,Lead,Chicago,5,2,3.7,14,48.0,3.0,5,119364.44
+EMP1177,49,Male,Master's,Data Science,Manager,Remote,7,1,3.6,11,98.0,0.0,49,162533.74
+EMP1178,57,Female,Master's,Engineering,Junior,Boston,5,1,3.4,16,22.0,0.0,42,95216.86
+EMP1179,53,Female,Master's,Operations,Senior,San Francisco,14,1,2.5,6,54.0,1.0,38,139343.38
+EMP1180,30,Male,Master's,Finance,Manager,Austin,6,1,3.4,15,4.0,0.0,38,151481.68
+EMP1181,32,Male,Bachelor's,Product,Mid-Level,San Francisco,4,2,,15,63.0,7.0,44,109343.88
+EMP1182,44,Male,Bachelor's,Sales,Manager,Chicago,14,0,2.6,14,34.0,0.0,2,136532.91
+EMP1183,32,Male,Bachelor's,HR,Junior,Boston,14,2,3.4,12,,2.0,45,67616.88
+EMP1184,23,Female,Bachelor's,Product,Manager,Boston,5,0,2.9,2,110.0,6.0,20,144779.08
+EMP1185,24,Female,Bachelor's,Engineering,Lead,San Francisco,6,1,3.2,8,118.0,4.0,43,158477.64
+EMP1186,32,Female,Bachelor's,Product,Director,Remote,6,4,3.5,19,68.0,1.0,47,167914.69
+EMP1187,56,Female,Bachelor's,Operations,Senior,Austin,7,0,3.6,14,53.0,2.0,13,94002.97
+EMP1188,36,Male,Bachelor's,Engineering,Mid-Level,Chicago,3,1,2.9,5,2.0,7.0,26,85652.16
+EMP1189,32,Female,Master's,Sales,Manager,Austin,10,1,3.5,9,5.0,1.0,35,168649.87
+EMP1190,52,Female,Master's,Operations,Mid-Level,Seattle,16,1,3.7,13,86.0,4.0,46,117357.97
+EMP1191,49,Female,Bachelor's,Engineering,Mid-Level,Austin,10,3,3.9,9,109.0,1.0,8,119683.11
+EMP1192,49,Male,PhD,HR,Lead,Austin,2,1,3.4,14,55.0,5.0,28,103472.58
+EMP1193,53,Female,PhD,Sales,Lead,Austin,10,0,3.6,5,1.0,5.0,41,169819.34
+EMP1194,46,Female,Bachelor's,HR,Manager,New York,8,6,2.9,2,81.0,5.0,15,137863.79
+EMP1195,41,Female,Bachelor's,Engineering,Mid-Level,Boston,10,11,5.0,7,93.0,,8,138444.91
+EMP1196,49,Male,Bachelor's,Data Science,Lead,Austin,3,0,3.2,16,37.0,4.0,11,116063.36
+EMP1197,46,Female,PhD,Product,Lead,New York,8,2,4.0,11,55.0,2.0,29,222178.88
+EMP1198,32,Female,Master's,Product,Junior,Boston,12,1,2.9,11,,2.0,5,110873.4
+EMP1199,40,Female,Bachelor's,Operations,Mid-Level,Remote,2,0,3.5,12,45.0,7.0,47,62942.44
+EMP1200,49,Female,Bachelor's,Engineering,Mid-Level,Remote,5,1,3.4,13,112.0,3.0,47,82831.89
+EMP1201,22,Female,Bachelor's,Operations,Mid-Level,Chicago,4,3,3.6,8,10.0,2.0,7,60180.57
+EMP1202,26,Male,Bachelor's,Engineering,Director,New York,8,0,2.6,16,64.0,6.0,18,236537.22
+EMP1203,31,Female,Bachelor's,Engineering,Senior,Austin,13,7,3.5,1,9.0,5.0,28,150859.88
+EMP1204,55,Male,Master's,Sales,Lead,New York,0,1,2.9,13,40.0,6.0,12,129606.94
+EMP1205,57,Female,Master's,Finance,Director,Remote,12,1,3.8,11,115.0,7.0,12,210964.02
+EMP1206,23,Male,Master's,Data Science,Mid-Level,San Francisco,5,4,2.6,4,43.0,6.0,36,139395.26
+EMP1207,39,Male,Master's,Operations,Lead,San Francisco,13,0,3.4,4,89.0,5.0,29,172768.58
+EMP1208,34,Female,Master's,Marketing,Mid-Level,Chicago,5,1,3.2,15,32.0,3.0,11,82846.13
+EMP1209,26,Female,Bachelor's,Sales,Manager,Chicago,6,1,4.5,3,90.0,0.0,6,118531.56
+EMP1210,41,Female,Master's,Product,Junior,Boston,0,1,4.0,19,55.0,2.0,21,72263.38
+EMP1211,23,Female,Bachelor's,Marketing,Director,Chicago,0,1,4.2,2,113.0,4.0,10,103420.11
+EMP1212,32,Female,Master's,Marketing,Mid-Level,New York,6,0,2.7,6,11.0,3.0,32,105962.78
+EMP1213,51,Male,Bachelor's,Engineering,Mid-Level,San Francisco,8,0,2.9,8,1.0,2.0,47,126626.79
+EMP1214,53,Male,Master's,Data Science,Lead,Austin,8,0,3.2,17,0.0,0.0,33,174585.28
+EMP1215,53,Male,Bachelor's,Operations,Mid-Level,New York,12,13,4.0,5,64.0,6.0,17,119121.83
+EMP1216,59,Male,Bachelor's,Engineering,Senior,Seattle,23,0,3.5,2,32.0,4.0,3,191190.75
+EMP1217,49,Female,Bachelor's,Engineering,Mid-Level,Austin,6,0,2.7,12,85.0,4.0,43,94976.75
+EMP1218,31,Female,High School,Operations,Lead,Seattle,2,3,2.7,5,75.0,7.0,18,88734.0
+EMP1219,43,Female,Master's,Operations,Mid-Level,Remote,10,2,4.0,10,102.0,6.0,10,97068.81
+EMP1220,38,Male,Master's,Sales,Junior,Remote,9,1,3.5,9,35.0,0.0,41,68458.29
+EMP1221,43,Male,Bachelor's,Product,Mid-Level,Remote,5,0,3.2,8,20.0,2.0,39,87148.81
+EMP1222,40,Female,Bachelor's,Engineering,Senior,San Francisco,12,3,3.2,1,83.0,6.0,43,165862.39
+EMP1223,38,Female,High School,Marketing,Junior,New York,3,0,3.8,6,35.0,1.0,8,56353.33
+EMP1224,45,Male,High School,Product,Mid-Level,San Francisco,7,3,2.5,11,25.0,7.0,34,98667.38
+EMP1225,57,Female,Bachelor's,Marketing,Mid-Level,Remote,7,8,3.2,3,46.0,2.0,37,70914.48
+EMP1226,53,Female,Master's,HR,Junior,Remote,3,2,3.3,15,94.0,6.0,41,56292.42
+EMP1227,57,Male,Bachelor's,Marketing,Senior,Remote,0,0,2.3,11,0.0,6.0,33,59337.41
+EMP1228,49,Female,Bachelor's,Sales,Manager,New York,9,2,3.1,5,37.0,3.0,49,164523.23
+EMP1229,35,Male,Bachelor's,Product,Junior,Remote,14,2,,16,13.0,3.0,10,93455.04
+EMP1230,57,Female,Bachelor's,Marketing,Senior,Chicago,12,2,2.6,7,89.0,2.0,40,95270.7
+EMP1231,27,Male,Bachelor's,Data Science,Senior,New York,9,1,3.3,6,,7.0,18,167482.67
+EMP1232,30,Male,Master's,Engineering,Mid-Level,Chicago,4,3,1.7,9,41.0,5.0,25,87582.59
+EMP1233,42,Female,Bachelor's,Engineering,Lead,New York,9,2,3.1,7,6.0,3.0,42,188108.48
+EMP1234,33,Male,High School,Engineering,Mid-Level,Austin,0,1,2.4,3,54.0,,41,61848.22
+EMP1235,51,Female,Bachelor's,Operations,Senior,San Francisco,8,5,3.0,11,55.0,5.0,36,125327.07
+EMP1236,52,Male,Bachelor's,Sales,Junior,Chicago,14,0,3.5,12,118.0,1.0,2,70176.44
+EMP1237,61,Male,Bachelor's,Data Science,Senior,Seattle,15,3,2.4,11,117.0,4.0,19,151151.43
+EMP1238,25,Male,PhD,Finance,Senior,Remote,7,0,3.4,2,75.0,3.0,10,132598.79
+EMP1239,52,Male,Master's,Product,Junior,Seattle,12,4,2.7,1,62.0,6.0,49,107204.46
+EMP1240,48,Female,Bachelor's,Engineering,Mid-Level,Chicago,10,0,2.3,2,23.0,5.0,3,100896.84
+EMP1241,46,Male,Bachelor's,Data Science,Director,Boston,12,1,3.9,14,82.0,2.0,19,265356.8
+EMP1242,26,Female,Bachelor's,Data Science,Mid-Level,Remote,8,4,2.5,13,72.0,5.0,26,93780.56
+EMP1243,27,Female,Bachelor's,Data Science,Senior,New York,3,0,2.9,5,98.0,6.0,47,143321.68
+EMP1244,26,Female,Master's,Data Science,Manager,Austin,0,1,2.8,2,3.0,4.0,25,126005.21
+EMP1245,48,Male,Master's,Operations,Lead,San Francisco,12,3,3.4,19,108.0,1.0,17,187505.11
+EMP1246,29,Female,Bachelor's,HR,Senior,New York,11,1,3.2,17,41.0,4.0,10,111931.86
+EMP1247,30,Male,Bachelor's,Engineering,Lead,Seattle,12,1,3.1,11,95.0,0.0,46,187906.58
+EMP1248,36,Male,Bachelor's,Engineering,Manager,Remote,0,1,,16,109.0,3.0,11,96028.13
+EMP1249,57,Male,Master's,Product,Senior,New York,5,0,3.0,18,69.0,2.0,11,165320.93
+EMP1250,28,Male,Master's,HR,Senior,Boston,7,3,3.4,8,27.0,1.0,12,103808.0
+EMP1251,53,Male,Bachelor's,Data Science,Mid-Level,Remote,0,1,3.3,2,91.0,4.0,40,72011.61
+EMP1252,29,Female,Bachelor's,Finance,Director,Remote,1,2,4.0,17,39.0,2.0,48,126079.62
+EMP1253,36,Male,Master's,Engineering,Senior,San Francisco,7,3,3.7,11,50.0,3.0,8,185518.48
+EMP1254,58,Male,Bachelor's,Engineering,Junior,Remote,9,2,4.0,14,28.0,6.0,24,86270.37
+EMP1255,40,Female,Bachelor's,Operations,Manager,San Francisco,3,4,4.1,16,41.0,2.0,14,140914.73
+EMP1256,60,Male,Bachelor's,Marketing,Senior,Austin,0,1,3.3,15,117.0,3.0,23,75318.26
+EMP1257,27,Male,Master's,Engineering,Junior,New York,9,3,3.8,15,68.0,3.0,36,131963.32
+EMP1258,40,Male,Bachelor's,Finance,Senior,New York,6,0,3.4,3,4.0,3.0,17,125176.38
+EMP1259,49,Female,Bachelor's,Engineering,Mid-Level,Boston,6,1,4.1,7,100.0,4.0,45,117780.31
+EMP1260,38,Male,Master's,HR,Manager,Chicago,5,2,2.0,12,40.0,6.0,5,103968.69
+EMP1261,40,Male,Bachelor's,Sales,Mid-Level,San Francisco,4,2,3.0,3,60.0,3.0,3,97166.96
+EMP1262,52,Male,Bachelor's,Data Science,Manager,San Francisco,14,1,3.5,19,54.0,2.0,9,238020.08
+EMP1263,32,Female,Bachelor's,Sales,Senior,Seattle,3,0,3.6,10,27.0,6.0,20,104219.3
+EMP1264,36,Female,High School,Marketing,Junior,New York,8,2,3.2,8,40.0,0.0,20,61254.41
+EMP1265,31,Female,Master's,Engineering,Director,Boston,8,1,2.0,16,110.0,2.0,19,211591.21
+EMP1266,44,Male,High School,Engineering,Senior,New York,0,0,3.1,16,8.0,4.0,21,92541.58
+EMP1267,24,Male,Bachelor's,Marketing,Mid-Level,San Francisco,6,1,3.8,12,28.0,3.0,16,95989.12
+EMP1268,24,Male,Bachelor's,Finance,Senior,Chicago,0,1,3.0,5,77.0,7.0,33,80826.62
+EMP1269,39,Male,Master's,HR,Manager,Austin,11,2,3.3,6,37.0,6.0,5,135403.76
+EMP1270,46,Male,Master's,Sales,Mid-Level,San Francisco,2,0,4.5,6,61.0,0.0,24,113410.96
+EMP1271,41,Male,Bachelor's,Operations,Junior,San Francisco,10,0,3.1,8,53.0,4.0,15,76480.82
+EMP1272,50,Female,High School,Data Science,Junior,Remote,5,2,3.1,17,,1.0,26,61589.68
+EMP1273,43,Female,Master's,Data Science,Mid-Level,Seattle,4,4,3.3,12,103.0,1.0,44,117517.75
+EMP1274,36,Male,Bachelor's,Engineering,Lead,New York,9,3,3.4,14,33.0,7.0,25,174122.9
+EMP1275,60,Female,Master's,Finance,Senior,Chicago,0,0,3.3,2,36.0,7.0,28,99786.11
+EMP1276,31,Male,Master's,Engineering,Mid-Level,Remote,7,1,3.5,19,48.0,1.0,33,108892.46
+EMP1277,42,Male,Master's,Engineering,Junior,San Francisco,11,5,2.4,6,41.0,0.0,46,120705.51
+EMP1278,50,Female,Bachelor's,Product,Mid-Level,New York,13,0,,18,13.0,6.0,18,138168.89
+EMP1279,53,Male,Bachelor's,Engineering,Manager,Boston,5,2,2.3,4,81.0,2.0,18,140805.02
+EMP1280,31,Male,Master's,Finance,Mid-Level,Seattle,6,1,3.2,5,32.0,0.0,38,119724.01
+EMP1281,34,Male,Bachelor's,HR,Director,Austin,0,0,3.6,6,,7.0,33,103304.63
+EMP1282,44,Female,Bachelor's,Operations,Senior,New York,4,0,3.1,15,97.0,6.0,27,98878.91
+EMP1283,44,Female,Master's,Finance,Junior,New York,0,1,2.5,6,91.0,0.0,49,77216.26
+EMP1284,52,Male,Master's,Engineering,Manager,Seattle,10,0,2.9,8,99.0,6.0,15,235757.42
+EMP1285,25,Female,Bachelor's,Sales,Senior,San Francisco,7,0,,9,108.0,0.0,44,135365.58
+EMP1286,24,Female,High School,Finance,Lead,Austin,5,1,4.2,6,,1.0,13,115915.79
+EMP1287,42,Female,Bachelor's,Engineering,Director,Austin,2,0,2.8,2,100.0,5.0,34,157381.55
+EMP1288,23,Female,Master's,Sales,Junior,San Francisco,5,1,2.8,16,86.0,6.0,4,90050.04
+EMP1289,25,Male,PhD,Engineering,Junior,Remote,3,0,3.1,1,105.0,6.0,35,82339.48
+EMP1290,22,Male,Bachelor's,Engineering,Lead,Remote,4,1,4.1,16,16.0,6.0,19,130082.13
+EMP1291,36,Male,High School,Marketing,Mid-Level,Boston,17,4,2.0,1,74.0,2.0,31,76024.69
+EMP1292,54,Female,Master's,Engineering,Junior,New York,3,2,2.8,1,31.0,5.0,25,88277.12
+EMP1293,27,Female,Bachelor's,Finance,Junior,New York,4,1,3.5,7,100.0,5.0,40,82496.06
+EMP1294,28,Female,Bachelor's,Operations,Junior,Austin,0,0,3.4,16,78.0,0.0,12,45452.7
+EMP1295,40,Female,PhD,Data Science,Lead,New York,8,2,2.9,17,67.0,2.0,12,254680.55
+EMP1296,22,Female,High School,Engineering,Junior,Remote,4,0,3.0,16,38.0,5.0,42,57425.27
+EMP1297,60,Female,Master's,Engineering,Senior,New York,6,0,3.4,16,93.0,3.0,25,185805.34
+EMP1298,40,Female,High School,Engineering,Senior,Austin,8,3,2.9,6,9.0,0.0,33,95720.68
+EMP1299,47,Female,Bachelor's,HR,Mid-Level,Chicago,2,3,,18,86.0,0.0,37,48324.12
+EMP1300,33,Male,Master's,Operations,Junior,Seattle,0,1,3.1,3,23.0,0.0,28,55987.76
+EMP1301,43,Male,Bachelor's,Engineering,Lead,New York,4,0,3.3,8,99.0,3.0,43,165090.09
+EMP1302,34,Male,PhD,Product,Junior,Chicago,0,1,1.7,4,115.0,7.0,9,70203.15
+EMP1303,49,Female,Bachelor's,Engineering,Lead,San Francisco,3,0,3.5,4,57.0,3.0,14,142726.09
+EMP1304,35,Male,Bachelor's,Finance,Manager,Remote,9,6,3.9,17,68.0,1.0,3,139933.42
+EMP1305,43,Female,Bachelor's,Operations,Mid-Level,New York,8,1,2.9,5,100.0,7.0,5,92814.96
+EMP1306,51,Male,Bachelor's,Data Science,Senior,Remote,0,1,3.0,14,106.0,4.0,26,85770.6
+EMP1307,41,Male,Bachelor's,Operations,Senior,Remote,13,2,2.7,15,,2.0,41,84354.06
+EMP1308,48,Female,High School,Data Science,Mid-Level,San Francisco,7,8,3.1,12,18.0,4.0,18,119205.84
+EMP1309,59,Male,Bachelor's,Sales,Manager,Boston,1,2,2.8,13,100.0,0.0,38,103498.16
+EMP1310,55,Male,Bachelor's,Data Science,Manager,New York,6,1,4.2,18,116.0,,21,213098.62
+EMP1311,60,Male,Master's,Engineering,Mid-Level,Remote,5,3,3.3,14,7.0,0.0,39,90658.77
+EMP1312,58,Male,Master's,Data Science,Senior,Austin,3,2,1.7,19,70.0,5.0,16,107108.66
+EMP1313,22,Female,Master's,Finance,Manager,San Francisco,4,3,3.6,7,39.0,1.0,40,196619.18
+EMP1314,36,Male,High School,Data Science,Director,Chicago,2,3,4.4,6,12.0,6.0,23,147515.37
+EMP1315,53,Female,Bachelor's,Marketing,Senior,New York,8,0,3.6,5,100.0,4.0,29,126607.91
+EMP1316,29,Male,Master's,HR,Senior,Remote,1,1,4.0,4,26.0,6.0,10,83182.45
+EMP1317,54,Female,Bachelor's,Finance,Mid-Level,New York,7,8,3.7,18,81.0,6.0,5,127596.97
+EMP1318,39,Male,High School,Operations,Director,Seattle,9,8,3.9,14,87.0,0.0,11,135154.45
+EMP1319,50,Female,Master's,Engineering,Junior,Chicago,9,0,3.9,16,104.0,4.0,29,97813.4
+EMP1320,53,Female,Master's,Engineering,Senior,Remote,8,0,3.9,14,1.0,7.0,45,148571.48
+EMP1321,54,Male,Bachelor's,Engineering,Mid-Level,San Francisco,6,7,3.4,5,15.0,7.0,27,125767.46
+EMP1322,26,Female,High School,Engineering,Mid-Level,Austin,2,2,,11,13.0,1.0,34,60000.34
+EMP1323,39,Female,Master's,Data Science,Mid-Level,Austin,2,2,2.4,12,16.0,4.0,14,93282.5
+EMP1324,31,Male,Bachelor's,Engineering,Director,Seattle,9,0,2.5,18,59.0,5.0,41,209196.03
+EMP1325,57,Male,Master's,Product,Junior,New York,1,2,1.4,4,69.0,2.0,42,78714.68
+EMP1326,54,Female,Master's,Sales,Senior,San Francisco,0,0,2.9,13,98.0,6.0,10,104747.64
+EMP1327,44,Female,Master's,Engineering,Junior,San Francisco,15,0,4.2,13,16.0,7.0,42,145747.96
+EMP1328,61,Male,Bachelor's,Data Science,Junior,Boston,6,0,2.2,4,44.0,1.0,11,78480.7
+EMP1329,26,Male,Bachelor's,Operations,Mid-Level,San Francisco,8,7,3.7,7,37.0,4.0,11,104865.1
+EMP1330,55,Female,Master's,Finance,Senior,Austin,12,3,3.6,2,103.0,0.0,35,158420.94
+EMP1331,45,Female,Master's,Finance,Mid-Level,San Francisco,8,4,3.4,18,63.0,3.0,19,156387.96
+EMP1332,38,Female,Master's,Operations,Mid-Level,Remote,6,1,4.0,6,5.0,3.0,24,84262.68
+EMP1333,52,Male,Bachelor's,Engineering,Junior,Remote,6,7,3.2,16,59.0,1.0,1,69303.21
+EMP1334,28,Female,Bachelor's,Product,Mid-Level,Austin,10,4,4.3,3,111.0,7.0,12,116088.47
+EMP1335,38,Male,Master's,Product,Director,San Francisco,5,4,3.1,15,101.0,3.0,47,239653.79
+EMP1336,49,Male,Master's,Operations,Director,San Francisco,8,9,3.4,10,48.0,7.0,14,219397.5
+EMP1337,59,Female,PhD,Engineering,Mid-Level,New York,11,1,3.1,9,20.0,2.0,3,191723.9
+EMP1338,43,Non-binary,Master's,Operations,Senior,San Francisco,9,2,2.6,11,98.0,1.0,45,147088.15
+EMP1339,36,Male,Bachelor's,Engineering,Manager,Seattle,13,7,2.3,14,22.0,0.0,32,188044.2
+EMP1340,58,Male,Master's,Engineering,Junior,Austin,6,4,3.6,12,75.0,0.0,16,91149.08
+EMP1341,36,Female,Master's,Sales,Lead,Remote,11,2,4.1,7,56.0,1.0,38,132287.18
+EMP1342,46,Female,Bachelor's,Marketing,Director,Chicago,0,0,3.4,11,63.0,3.0,10,95600.45
+EMP1343,42,Female,Master's,Data Science,Junior,Seattle,14,3,3.6,17,28.0,3.0,17,123018.85
+EMP1344,59,Female,Bachelor's,Operations,Junior,Austin,13,2,2.1,9,26.0,0.0,49,54819.02
+EMP1345,23,Male,Bachelor's,Operations,Director,Austin,5,0,3.5,13,5.0,2.0,40,123050.6
+EMP1346,48,Non-binary,Master's,Marketing,Senior,San Francisco,10,6,1.7,16,20.0,5.0,4,135301.5
+EMP1347,53,Female,Bachelor's,Sales,Junior,Chicago,12,1,2.4,3,70.0,3.0,15,68196.09
+EMP1348,42,Female,Bachelor's,Marketing,Mid-Level,Chicago,2,1,4.1,5,106.0,2.0,33,67365.92
+EMP1349,25,Female,Bachelor's,Product,Mid-Level,Seattle,7,3,3.2,17,40.0,6.0,39,113805.78
+EMP1350,40,Female,Bachelor's,Engineering,Senior,Remote,1,2,3.3,1,79.0,3.0,10,88933.94
+EMP1351,23,Male,Bachelor's,Data Science,Lead,San Francisco,5,0,3.6,9,4.0,5.0,7,168138.3
+EMP1352,47,Male,Bachelor's,HR,Director,New York,12,1,3.8,17,14.0,1.0,33,195067.95
+EMP1353,55,Female,PhD,Marketing,Mid-Level,Austin,6,0,3.0,13,20.0,4.0,17,92784.66
+EMP1354,35,Male,Bachelor's,Operations,Senior,Austin,6,0,3.4,15,57.0,0.0,12,92605.62
+EMP1355,36,Male,Bachelor's,Finance,Senior,New York,7,0,3.2,8,3.0,1.0,17,131233.58
+EMP1356,41,Female,High School,Data Science,Mid-Level,Boston,3,0,2.1,8,68.0,3.0,47,77338.31
+EMP1357,55,Female,Master's,Data Science,Junior,Remote,7,1,3.0,2,6.0,5.0,16,81532.75
+EMP1358,57,Male,Bachelor's,Marketing,Director,Remote,2,2,3.5,10,34.0,0.0,14,97640.76
+EMP1359,40,Female,Master's,Sales,Manager,San Francisco,12,7,2.9,5,35.0,4.0,3,205945.32
+EMP1360,30,Female,Master's,HR,Senior,Remote,12,2,2.9,16,14.0,4.0,44,105710.77
+EMP1361,28,Female,Master's,Data Science,Senior,Seattle,10,3,3.7,19,91.0,5.0,30,190265.35
+EMP1362,51,Female,Bachelor's,Engineering,Mid-Level,Chicago,2,1,3.3,1,1.0,5.0,46,80937.46
+EMP1363,34,Male,Master's,HR,Senior,Austin,6,4,3.4,13,119.0,3.0,41,97219.52
+EMP1364,48,Male,Bachelor's,HR,Senior,Remote,10,2,2.1,4,56.0,0.0,35,76093.66
+EMP1365,56,Male,PhD,Operations,Senior,Austin,11,1,3.5,7,4.0,6.0,26,148935.99
+EMP1366,34,Male,Master's,Engineering,Director,Chicago,0,0,2.4,1,70.0,6.0,12,154370.35
+EMP1367,36,Female,Bachelor's,Operations,Senior,Austin,11,1,3.2,2,85.0,7.0,31,106056.88
+EMP1368,30,Female,Bachelor's,Data Science,Mid-Level,Austin,1,2,2.5,16,112.0,3.0,17,76509.36
+EMP1369,44,Female,Bachelor's,Engineering,Lead,San Francisco,7,1,3.9,14,94.0,4.0,37,177916.01
+EMP1370,57,Female,Master's,Engineering,Junior,Remote,14,6,4.5,5,31.0,1.0,8,113959.62
+EMP1371,61,Female,Bachelor's,Product,Mid-Level,Seattle,13,0,3.1,14,,1.0,19,118627.16
+EMP1372,24,Male,Bachelor's,Engineering,Mid-Level,Seattle,6,0,3.1,17,40.0,2.0,26,113540.57
+EMP1373,55,Male,Bachelor's,Data Science,Mid-Level,New York,2,2,3.9,12,41.0,4.0,4,108486.95
+EMP1374,40,Female,Master's,Finance,Lead,Seattle,3,4,3.6,12,74.0,6.0,15,165619.39
+EMP1375,49,Male,Master's,Engineering,Senior,New York,5,1,,3,64.0,6.0,47,162339.24
+EMP1376,44,Male,Master's,Data Science,Lead,New York,7,3,3.5,2,110.0,4.0,14,208995.82
+EMP1377,61,Female,Master's,Marketing,Senior,Austin,9,0,4.6,15,39.0,3.0,30,134915.53
+EMP1378,28,Male,Bachelor's,Finance,Mid-Level,Chicago,10,2,2.7,11,82.0,2.0,48,102412.03
+EMP1379,33,Female,High School,Sales,Lead,Austin,3,4,2.8,10,107.0,7.0,42,91678.45
+EMP1380,35,Male,Master's,HR,Mid-Level,New York,4,5,3.8,18,37.0,5.0,24,98895.61
+EMP1381,36,Male,Bachelor's,Engineering,Mid-Level,Chicago,15,0,4.7,2,41.0,2.0,46,130758.92
+EMP1382,24,Male,Bachelor's,Marketing,Senior,New York,2,1,3.3,7,119.0,0.0,43,96538.2
+EMP1383,36,Female,High School,Product,Mid-Level,Remote,11,3,2.0,7,36.0,3.0,34,80179.37
+EMP1384,45,Male,Bachelor's,Sales,Junior,Austin,7,0,3.5,7,55.0,5.0,19,72001.51
+EMP1385,29,Female,High School,Operations,Senior,Seattle,9,3,2.8,14,70.0,5.0,3,93023.25
+EMP1386,26,Female,Master's,Sales,Senior,San Francisco,3,2,3.5,2,102.0,6.0,4,135929.99
+EMP1387,25,Female,Bachelor's,Data Science,Mid-Level,New York,7,1,2.2,2,54.0,1.0,11,117109.16
+EMP1388,35,Male,Bachelor's,Engineering,Director,Remote,4,5,2.2,15,88.0,0.0,13,136500.38
+EMP1389,37,Male,High School,Product,Senior,San Francisco,0,1,3.0,11,53.0,2.0,18,98999.13
+EMP1390,41,Female,Master's,Marketing,Manager,Chicago,10,11,4.4,10,21.0,1.0,19,156853.01
+EMP1391,45,Female,Bachelor's,Engineering,Junior,Seattle,0,1,2.2,3,26.0,4.0,44,59618.54
+EMP1392,27,Non-binary,Master's,Engineering,Senior,New York,5,3,3.0,17,104.0,3.0,33,160997.67
+EMP1393,52,Male,Master's,Engineering,Manager,Boston,9,0,2.2,9,46.0,7.0,38,190040.71
+EMP1394,27,Female,Bachelor's,Finance,Senior,Austin,9,7,3.4,15,37.0,2.0,3,122181.23
+EMP1395,56,Male,PhD,Sales,Lead,San Francisco,14,4,3.4,14,111.0,4.0,49,243778.61
+EMP1396,36,Male,PhD,Data Science,Mid-Level,New York,16,0,2.2,19,38.0,5.0,35,193376.85
+EMP1397,50,Male,Master's,Marketing,Junior,New York,15,1,4.1,17,14.0,6.0,1,118352.59
+EMP1398,24,Male,Master's,Engineering,Senior,Remote,6,0,1.9,17,118.0,2.0,35,109020.71
+EMP1399,32,Male,Bachelor's,HR,Mid-Level,Seattle,13,12,4.3,16,65.0,1.0,36,104985.09
+EMP1400,24,Male,Bachelor's,Operations,Manager,San Francisco,6,5,4.2,8,60.0,0.0,38,150119.43
+EMP1401,49,Female,High School,Engineering,Mid-Level,New York,11,7,3.4,7,59.0,1.0,39,109530.51
+EMP1402,31,Male,High School,Engineering,Director,Seattle,5,4,3.8,12,7.0,3.0,25,172929.85
+EMP1403,54,Female,PhD,Engineering,Director,Austin,10,1,3.1,1,43.0,6.0,40,290552.87
+EMP1404,37,Male,Bachelor's,Operations,Mid-Level,Chicago,5,0,2.1,12,42.0,3.0,13,56833.4
+EMP1405,31,Male,Master's,Operations,Mid-Level,Chicago,7,0,3.4,6,5.0,2.0,4,84017.38
+EMP1406,54,Male,Master's,Finance,Manager,San Francisco,10,0,2.1,16,83.0,1.0,6,230115.32
+EMP1407,57,Male,Master's,Data Science,Director,Seattle,18,2,3.2,18,26.0,0.0,11,281581.27
+EMP1408,24,Female,PhD,Data Science,Mid-Level,Remote,6,7,2.3,19,44.0,5.0,1,118460.69
+EMP1409,26,Male,Bachelor's,HR,Mid-Level,New York,7,8,3.9,3,22.0,3.0,8,89736.42
+EMP1410,33,Male,High School,Data Science,Senior,Austin,3,1,3.5,3,111.0,0.0,34,92346.35
+EMP1411,34,Male,Bachelor's,Engineering,Senior,Chicago,12,3,3.7,5,103.0,4.0,40,143457.8
+EMP1412,45,Female,Bachelor's,Engineering,Mid-Level,Chicago,6,2,3.4,3,80.0,2.0,9,87874.78
+EMP1413,53,Female,High School,Sales,Lead,San Francisco,9,2,4.5,19,12.0,0.0,36,145529.89
+EMP1414,37,Male,Bachelor's,Engineering,Junior,Remote,11,3,3.9,5,67.0,2.0,49,78411.43
+EMP1415,53,Male,Master's,Finance,Junior,Austin,14,1,4.4,14,83.0,4.0,39,107620.29
+EMP1416,58,Male,Bachelor's,Product,Mid-Level,Austin,12,8,2.6,16,105.0,0.0,42,104678.39
+EMP1417,57,Female,Bachelor's,Engineering,Mid-Level,San Francisco,1,2,2.8,1,63.0,6.0,37,97807.85
+EMP1418,42,Male,Master's,Engineering,Mid-Level,San Francisco,0,1,1.5,17,24.0,0.0,42,91365.59
+EMP1419,33,Female,Bachelor's,Marketing,Senior,New York,11,0,2.9,11,,5.0,44,136568.47
+EMP1420,42,Male,High School,Product,Mid-Level,Seattle,8,0,3.2,9,51.0,4.0,21,105076.68
+EMP1421,42,Female,Master's,Sales,Junior,San Francisco,9,1,3.5,4,47.0,7.0,20,114158.26
+EMP1422,27,Female,Master's,Finance,Mid-Level,Seattle,9,4,2.8,2,60.0,6.0,38,132081.43
+EMP1423,30,Female,Master's,Engineering,Director,Chicago,4,5,3.7,9,16.0,6.0,1,202217.73
+EMP1424,22,Male,High School,Engineering,Mid-Level,Chicago,4,1,3.7,5,39.0,1.0,35,79781.7
+EMP1425,33,Female,Master's,Product,Mid-Level,Chicago,4,4,2.9,4,74.0,7.0,28,97640.96
+EMP1426,35,Female,Master's,Product,Senior,Chicago,15,1,2.5,5,88.0,0.0,7,141484.05
+EMP1427,27,Male,Bachelor's,Engineering,Director,New York,9,1,3.2,18,68.0,5.0,43,225201.29
+EMP1428,22,Female,Master's,Product,Mid-Level,San Francisco,0,1,3.3,13,84.0,0.0,44,106832.14
+EMP1429,43,Male,Master's,HR,Senior,Seattle,5,4,2.8,5,25.0,5.0,9,110929.15
+EMP1430,55,Female,Bachelor's,Data Science,Lead,Seattle,17,0,3.0,19,79.0,6.0,1,199359.68
+EMP1431,32,Female,Bachelor's,Marketing,Senior,San Francisco,14,1,2.2,3,55.0,3.0,36,132777.96
+EMP1432,24,Male,PhD,Finance,Junior,Chicago,6,2,3.7,18,39.0,6.0,34,89934.4
+EMP1433,27,Female,Master's,Finance,Senior,San Francisco,9,0,3.7,6,84.0,1.0,34,176300.9
+EMP1434,27,Male,Bachelor's,Operations,Junior,San Francisco,9,7,3.2,6,111.0,0.0,17,78317.48
+EMP1435,41,Male,Master's,Engineering,Senior,New York,10,2,3.7,5,95.0,7.0,32,221847.77
+EMP1436,42,Male,Bachelor's,Engineering,Lead,Remote,7,0,3.3,1,67.0,4.0,2,125893.9
+EMP1437,23,Female,Bachelor's,Sales,Mid-Level,San Francisco,5,0,4.3,8,101.0,2.0,36,111390.19
+EMP1438,47,Male,Bachelor's,Operations,Manager,San Francisco,10,9,2.3,1,116.0,4.0,25,142476.66
+EMP1439,52,Male,PhD,Engineering,Junior,San Francisco,3,4,3.3,6,7.0,1.0,43,114509.0
+EMP1440,47,Female,PhD,Operations,Manager,New York,11,3,3.8,14,72.0,3.0,26,223713.4
+EMP1441,53,Male,Bachelor's,Product,Senior,Seattle,8,0,4.2,11,44.0,3.0,45,157334.85
+EMP1442,31,Male,Bachelor's,Engineering,Mid-Level,New York,6,6,3.8,2,16.0,3.0,26,113263.97
+EMP1443,44,Male,Bachelor's,Operations,Junior,New York,17,1,2.5,4,40.0,,21,78823.34
+EMP1444,27,Male,PhD,Marketing,Director,Seattle,8,3,2.0,13,76.0,4.0,18,193632.91
+EMP1445,44,Male,PhD,Data Science,Junior,San Francisco,0,1,3.1,7,8.0,7.0,29,112407.86
+EMP1446,49,Male,Master's,Engineering,Junior,Seattle,6,0,3.5,6,69.0,2.0,24,97746.0
+EMP1447,51,Non-binary,Master's,Operations,Mid-Level,Austin,12,1,3.9,3,90.0,6.0,47,100246.07
+EMP1448,35,Female,Master's,Data Science,Senior,San Francisco,3,0,2.4,9,105.0,6.0,28,156526.52
+EMP1449,58,Male,Bachelor's,Product,Senior,Seattle,12,2,3.6,14,100.0,,12,157884.02
+EMP1450,53,Male,High School,Operations,Junior,New York,3,0,1.3,11,102.0,6.0,11,52289.43
+EMP1451,55,Male,Bachelor's,Finance,Mid-Level,Austin,14,7,2.7,5,106.0,5.0,27,115691.46
+EMP1452,43,Female,Master's,HR,Mid-Level,Chicago,5,1,3.8,14,,0.0,23,74559.62
+EMP1453,52,Male,Master's,Data Science,Mid-Level,San Francisco,6,3,2.4,19,72.0,,33,152608.18
+EMP1454,28,Male,Bachelor's,HR,Mid-Level,Seattle,5,5,2.4,8,105.0,2.0,16,73576.59
+EMP1455,42,Female,PhD,Engineering,Lead,Remote,10,11,2.8,7,10.0,,28,173208.36
+EMP1456,37,Male,Bachelor's,Product,Mid-Level,Remote,17,2,3.3,7,34.0,7.0,28,118106.96
+EMP1457,41,Male,Bachelor's,Operations,Mid-Level,Seattle,8,1,2.4,3,28.0,7.0,45,87055.08
+EMP1458,40,Female,Master's,Operations,Mid-Level,Chicago,7,0,3.2,3,7.0,0.0,38,79023.58
+EMP1459,53,Female,Master's,Engineering,Director,San Francisco,5,0,2.9,18,16.0,4.0,6,252424.99
+EMP1460,36,Male,Master's,Operations,Director,San Francisco,0,1,4.0,13,70.0,4.0,42,156604.45
+EMP1461,26,Female,Bachelor's,Marketing,Lead,Chicago,5,0,2.9,1,11.0,1.0,29,85047.08
+EMP1462,32,Male,Bachelor's,Operations,Mid-Level,Chicago,1,1,3.2,5,111.0,7.0,34,63763.0
+EMP1463,36,Female,Master's,Engineering,Junior,Remote,0,0,3.3,4,78.0,4.0,3,69439.63
+EMP1464,50,Male,Bachelor's,Operations,Mid-Level,Chicago,7,2,2.9,16,116.0,3.0,6,74640.69
+EMP1465,25,Female,Bachelor's,Product,Mid-Level,Chicago,5,1,3.7,15,92.0,7.0,48,90039.49
+EMP1466,57,Female,Master's,Engineering,Senior,Chicago,14,0,3.9,18,108.0,7.0,38,186597.28
+EMP1467,44,Female,Bachelor's,Product,Lead,Remote,3,1,2.9,17,49.0,3.0,13,94166.68
+EMP1468,36,Female,Master's,Marketing,Manager,Seattle,11,2,3.4,14,113.0,7.0,36,182138.26
+EMP1469,24,Male,Master's,Data Science,Manager,Seattle,6,3,2.6,14,23.0,7.0,15,191588.05
+EMP1470,53,Male,Bachelor's,Data Science,Mid-Level,San Francisco,14,1,3.6,19,36.0,1.0,6,145456.07
+EMP1471,31,Male,High School,Finance,Senior,Boston,7,4,3.4,6,77.0,2.0,33,105464.14
+EMP1472,61,Female,Master's,Operations,Mid-Level,New York,14,0,2.9,13,10.0,7.0,41,125741.28
+EMP1473,59,Female,Master's,Data Science,Junior,Remote,10,0,3.4,18,98.0,1.0,12,104719.64
+EMP1474,43,Male,Master's,Marketing,Lead,Austin,13,0,3.6,15,80.0,0.0,43,159911.38
+EMP1475,35,Female,Master's,Sales,Junior,Chicago,17,2,4.1,7,58.0,1.0,13,96441.14
+EMP1476,38,Female,Master's,Operations,Mid-Level,Austin,7,3,3.5,19,54.0,1.0,33,87676.41
+EMP1477,42,Non-binary,PhD,Data Science,Mid-Level,Seattle,8,0,3.8,17,26.0,5.0,28,178941.48
+EMP1478,36,Female,Bachelor's,Operations,Senior,New York,6,3,4.5,9,107.0,3.0,36,125102.52
+EMP1479,36,Male,Bachelor's,Data Science,Lead,Remote,15,1,2.5,11,66.0,0.0,5,143737.68
+EMP1480,22,Male,Bachelor's,Marketing,Mid-Level,Chicago,4,5,4.0,5,118.0,,25,78315.67
+EMP1481,45,Male,Bachelor's,Data Science,Lead,San Francisco,11,3,2.6,2,59.0,0.0,17,192419.27
+EMP1482,33,Male,Bachelor's,Engineering,Mid-Level,New York,0,1,2.7,15,1.0,1.0,37,84062.69
+EMP1483,31,Female,Bachelor's,Finance,Mid-Level,Chicago,3,2,3.2,12,67.0,7.0,19,80819.09
+EMP1484,52,Female,PhD,Engineering,Lead,Austin,13,14,2.7,10,17.0,5.0,35,212399.71
+EMP1485,32,Female,Bachelor's,Sales,Senior,Chicago,2,3,2.6,10,19.0,5.0,43,78337.62
+EMP1486,37,Female,Bachelor's,Sales,Director,Seattle,4,2,3.2,11,84.0,0.0,34,144351.67
+EMP1487,30,Male,Bachelor's,Marketing,Mid-Level,Chicago,4,1,3.0,10,62.0,0.0,46,64962.94
+EMP1488,35,Male,High School,Operations,Senior,Remote,7,1,2.7,7,77.0,4.0,6,74462.37
+EMP1489,40,Male,High School,Marketing,Senior,Austin,9,1,2.5,14,71.0,,19,92201.03
+EMP1490,52,Male,Bachelor's,Marketing,Manager,Boston,0,1,4.2,13,1.0,0.0,1,96879.62
+EMP1491,30,Male,High School,Engineering,Junior,New York,0,0,2.4,5,89.0,5.0,7,58330.67
+EMP1492,57,Male,Master's,Marketing,Lead,Chicago,0,1,3.1,19,82.0,2.0,34,92464.79
+EMP1493,60,Male,Master's,Engineering,Senior,San Francisco,1,2,4.0,10,41.0,0.0,19,146542.32
+EMP1494,47,Male,Master's,Engineering,Mid-Level,Austin,8,5,3.8,8,27.0,3.0,33,117914.96
+EMP1495,29,Female,Master's,HR,Senior,Remote,8,1,3.4,18,28.0,4.0,26,94496.33
+EMP1496,45,Male,Bachelor's,Operations,Mid-Level,New York,13,3,2.8,1,68.0,3.0,41,106890.78
+EMP1497,29,Male,Master's,HR,Senior,New York,10,1,3.2,5,106.0,6.0,49,146840.46
+EMP1498,40,Male,Master's,Marketing,Manager,Remote,5,2,2.4,11,27.0,3.0,42,111238.72
+EMP1499,51,Female,Bachelor's,Marketing,Senior,San Francisco,9,2,3.0,11,59.0,2.0,27,125631.36
+EMP1500,43,Male,Master's,Data Science,Senior,Seattle,13,1,3.0,16,104.0,7.0,38,199155.85
+EMP1501,30,Male,Bachelor's,Finance,Senior,Austin,6,6,3.1,10,111.0,4.0,26,106187.01
+EMP1502,25,Female,Master's,Finance,Junior,Remote,6,0,,15,89.0,6.0,35,76389.93
+EMP1503,58,Female,PhD,Engineering,Mid-Level,New York,3,2,2.0,7,4.0,1.0,20,115220.92
+EMP1504,29,Female,High School,Sales,Senior,New York,3,0,4.1,15,14.0,5.0,24,95252.2
+EMP1505,22,Male,Master's,Marketing,Mid-Level,Austin,4,5,3.9,16,109.0,5.0,47,87563.65
+EMP1506,49,Male,Master's,Marketing,Junior,Remote,7,0,3.8,6,,0.0,21,69301.88
+EMP1507,27,Male,PhD,HR,Senior,Chicago,9,3,3.5,11,31.0,5.0,26,124007.42
+EMP1508,57,Female,Bachelor's,Finance,Mid-Level,San Francisco,4,0,3.3,17,51.0,2.0,20,103309.01
+EMP1509,32,Male,Master's,HR,Mid-Level,Seattle,11,1,,15,89.0,5.0,6,95942.84
+EMP1510,26,Male,High School,Operations,Senior,Remote,8,6,2.8,16,36.0,2.0,3,67207.15
+EMP1511,45,Female,Bachelor's,Data Science,Junior,Remote,7,0,4.2,2,14.0,1.0,10,79789.0
+EMP1512,39,Female,High School,Operations,Manager,Remote,5,3,4.4,4,40.0,7.0,12,86848.13
+EMP1513,41,Male,PhD,Product,Manager,New York,11,0,3.1,19,3.0,2.0,33,253476.41
+EMP1514,49,Female,Master's,Engineering,Lead,New York,10,1,3.2,6,116.0,1.0,22,226463.79
+EMP1515,34,Female,Master's,Engineering,Junior,Seattle,9,2,3.7,18,52.0,1.0,16,120121.37
+EMP1516,26,Male,PhD,Engineering,Lead,Remote,8,2,3.3,11,99.0,1.0,17,171696.43
+EMP1517,51,Male,High School,HR,Lead,San Francisco,8,2,3.3,9,83.0,2.0,10,109466.59
+EMP1518,22,Female,Bachelor's,Data Science,Lead,San Francisco,0,1,3.2,3,26.0,6.0,12,147409.03
+EMP1519,43,Female,High School,Engineering,Junior,Boston,8,0,2.5,2,20.0,1.0,19,75003.53
+EMP1520,39,Male,Bachelor's,Product,Senior,New York,6,1,2.9,18,59.0,7.0,40,134748.03
+EMP1521,26,Male,Bachelor's,Engineering,Manager,Chicago,8,0,3.1,15,85.0,6.0,23,163395.31
+EMP1522,52,Female,Bachelor's,Product,Senior,Austin,11,4,1.4,18,63.0,2.0,40,115459.82
+EMP1523,27,Female,Bachelor's,Sales,Senior,Austin,9,5,,19,70.0,7.0,10,119933.26
+EMP1524,48,Female,Bachelor's,Engineering,Senior,Boston,10,0,4.8,15,46.0,4.0,10,165939.58
+EMP1525,46,Male,Bachelor's,Finance,Senior,San Francisco,2,0,2.9,17,53.0,7.0,10,123290.41
+EMP1526,50,Male,Bachelor's,Sales,Junior,Seattle,4,0,3.2,18,30.0,1.0,39,66023.72
+EMP1527,49,Female,PhD,Sales,Senior,Austin,6,7,2.6,18,16.0,2.0,30,120741.08
+EMP1528,37,Male,Master's,Sales,Junior,Austin,9,4,2.4,11,,2.0,4,79073.17
+EMP1529,33,Non-binary,PhD,Data Science,Mid-Level,Seattle,5,1,3.0,18,6.0,6.0,1,140359.22
+EMP1530,41,Female,Bachelor's,Finance,Mid-Level,San Francisco,5,1,,3,82.0,2.0,43,106169.96
+EMP1531,39,Male,Bachelor's,Sales,Senior,New York,2,1,3.0,13,27.0,0.0,19,94005.38
+EMP1532,55,Female,Master's,HR,Junior,New York,8,2,2.9,14,9.0,6.0,5,87529.36
+EMP1533,44,Male,Bachelor's,Operations,Senior,San Francisco,8,3,3.5,4,26.0,6.0,30,122751.66
+EMP1534,48,Female,Bachelor's,Sales,Lead,Austin,10,1,3.3,18,12.0,0.0,26,124975.36
+EMP1535,38,Male,Bachelor's,Marketing,Junior,Remote,4,5,3.4,5,65.0,1.0,40,51430.21
+EMP1536,42,Male,Bachelor's,Engineering,Junior,Seattle,9,2,4.0,14,85.0,5.0,34,98378.15
+EMP1537,61,Female,Bachelor's,Engineering,Junior,Boston,2,0,3.9,12,83.0,4.0,2,75169.76
+EMP1538,52,Female,Bachelor's,Operations,Manager,San Francisco,6,2,,7,59.0,5.0,24,156706.05
+EMP1539,24,Male,Master's,Engineering,Senior,Chicago,6,1,2.4,12,42.0,1.0,14,131923.99
+EMP1540,38,Female,High School,Finance,Senior,Chicago,6,7,3.8,8,68.0,,41,89068.66
+EMP1541,47,Male,Bachelor's,Operations,Junior,San Francisco,0,1,4.4,3,62.0,3.0,42,60323.01
+EMP1542,44,Male,Master's,Engineering,Senior,New York,0,1,2.1,1,69.0,7.0,13,115909.25
+EMP1543,27,Male,Bachelor's,Finance,Manager,Austin,9,3,3.2,3,98.0,4.0,29,149450.87
+EMP1544,49,Male,Bachelor's,Sales,Manager,Remote,10,2,2.8,11,64.0,6.0,1,123568.99
+EMP1545,29,Male,Master's,Product,Senior,New York,9,1,3.2,18,98.0,4.0,46,184811.37
+EMP1546,29,Male,Bachelor's,Finance,Junior,New York,11,12,4.0,7,66.0,4.0,34,102929.47
+EMP1547,40,Male,High School,Data Science,Junior,Boston,6,1,2.2,9,53.0,0.0,4,63216.83
+EMP1548,59,Male,Bachelor's,Finance,Junior,San Francisco,11,0,3.4,4,35.0,0.0,28,107066.48
+EMP1549,50,Male,Bachelor's,Engineering,Mid-Level,Remote,9,5,2.8,10,70.0,3.0,19,103444.04
+EMP1550,44,Female,Bachelor's,HR,Junior,Seattle,4,0,4.0,18,92.0,4.0,1,60340.62
+EMP1551,53,Male,Master's,Product,Mid-Level,Remote,10,0,3.5,16,14.0,7.0,36,123526.53
+EMP1552,31,Female,Bachelor's,HR,Mid-Level,Chicago,9,2,3.1,12,74.0,2.0,43,69395.73
+EMP1553,48,Female,Bachelor's,Data Science,Director,Seattle,16,0,2.7,19,17.0,5.0,13,263531.98
+EMP1554,22,Female,Bachelor's,Data Science,Senior,Chicago,4,5,5.0,3,,3.0,42,128443.84
+EMP1555,60,Female,Bachelor's,Engineering,Manager,Seattle,7,1,3.4,8,3.0,4.0,5,186215.7
+EMP1556,50,Female,Master's,Engineering,Lead,Chicago,5,2,2.2,19,87.0,2.0,33,124125.37
+EMP1557,24,Male,Bachelor's,HR,Junior,San Francisco,6,0,2.6,9,10.0,4.0,14,65562.27
+EMP1558,58,Male,Bachelor's,Marketing,Lead,Austin,10,1,3.5,19,5.0,6.0,16,123468.08
+EMP1559,52,Female,High School,Data Science,Mid-Level,Austin,7,2,2.7,17,50.0,1.0,32,81822.62
+EMP1560,32,Female,Bachelor's,Data Science,Senior,Boston,0,1,2.8,13,57.0,2.0,27,95960.15
+EMP1561,43,Female,Bachelor's,Sales,Mid-Level,Boston,4,4,3.9,2,,6.0,35,87914.19
+EMP1562,39,Male,Master's,Engineering,Director,Seattle,3,0,3.8,4,17.0,5.0,3,224615.93
+EMP1563,56,Female,High School,Data Science,Mid-Level,New York,7,3,2.8,11,,1.0,4,97160.96
+EMP1564,27,Female,Bachelor's,Sales,Mid-Level,Boston,9,1,4.0,2,66.0,6.0,7,105577.85
+EMP1565,24,Male,Bachelor's,Data Science,Manager,Austin,6,2,2.7,4,16.0,0.0,13,137886.02
+EMP1566,26,Male,Master's,Marketing,Junior,Remote,8,2,4.4,4,96.0,3.0,41,71631.92
+EMP1567,30,Female,Bachelor's,Operations,Senior,Remote,12,0,,1,33.0,4.0,3,98859.88
+EMP1568,49,Female,Master's,Engineering,Lead,New York,1,2,3.4,11,29.0,3.0,17,152779.38
+EMP1569,40,Male,Master's,HR,Manager,Remote,13,0,2.9,2,18.0,5.0,47,129846.93
+EMP1570,49,Female,Master's,Marketing,Director,New York,16,2,2.8,19,,4.0,10,228648.65
+EMP1571,48,Male,Bachelor's,HR,Director,Chicago,16,3,,8,39.0,1.0,47,128313.88
+EMP1572,34,Male,Bachelor's,Engineering,Junior,Austin,1,0,3.0,4,43.0,2.0,1,60407.56
+EMP1573,59,Male,Master's,Operations,Manager,New York,7,8,3.2,16,94.0,2.0,28,176429.41
+EMP1574,42,Male,PhD,Data Science,Senior,Boston,12,1,1.9,15,58.0,4.0,10,186265.87
+EMP1575,48,Male,Master's,Engineering,Senior,New York,2,3,3.8,5,90.0,1.0,7,155910.93
+EMP1576,27,Male,Bachelor's,Engineering,Junior,New York,0,0,3.1,5,110.0,4.0,39,71710.77
+EMP1577,59,Female,Bachelor's,Engineering,Senior,Austin,9,8,4.1,15,24.0,4.0,3,140602.7
+EMP1578,32,Female,Bachelor's,HR,Director,Seattle,4,0,2.7,17,118.0,7.0,7,129794.82
+EMP1579,38,Male,Master's,HR,Manager,Remote,0,1,4.1,3,70.0,6.0,9,93248.78
+EMP1580,60,Male,Bachelor's,Finance,Mid-Level,Seattle,14,8,2.9,18,52.0,4.0,40,120589.53
+EMP1581,28,Male,Bachelor's,Engineering,Junior,Seattle,8,0,3.2,11,,2.0,35,88749.92
+EMP1582,51,Female,Master's,Marketing,Mid-Level,Chicago,5,0,3.4,6,70.0,7.0,26,79954.39
+EMP1583,42,Male,Bachelor's,HR,Manager,New York,3,4,3.2,12,83.0,5.0,5,110531.21
+EMP1584,22,Male,Master's,Finance,Lead,New York,4,2,3.4,17,52.0,4.0,13,172875.78
+EMP1585,46,Female,Bachelor's,Product,Senior,Austin,10,2,1.9,14,107.0,2.0,45,123752.75
+EMP1586,53,Female,Bachelor's,Engineering,Junior,Seattle,9,0,3.1,6,48.0,0.0,30,89614.94
+EMP1587,29,Male,Bachelor's,Operations,Mid-Level,Chicago,0,1,3.1,10,42.0,1.0,40,51068.66
+EMP1588,26,Male,Master's,Marketing,Senior,Boston,8,0,1.8,16,99.0,0.0,39,103146.06
+EMP1589,51,Male,Bachelor's,Marketing,Manager,Austin,11,8,3.6,18,18.0,4.0,10,132830.14
+EMP1590,29,Female,Bachelor's,Operations,Senior,New York,6,3,2.6,6,65.0,2.0,42,105711.54
+EMP1591,40,Male,PhD,Operations,Mid-Level,San Francisco,13,3,3.9,19,33.0,1.0,23,152972.02
+EMP1592,51,Male,Bachelor's,Product,Senior,Remote,3,0,3.3,3,,,11,90552.49
+EMP1593,36,Female,Bachelor's,Engineering,Junior,Boston,14,6,2.8,12,80.0,1.0,12,92828.42
+EMP1594,57,Male,Bachelor's,Engineering,Director,Remote,8,2,3.9,16,87.0,1.0,13,189614.44
+EMP1595,48,Male,Bachelor's,Operations,Mid-Level,New York,5,5,4.4,3,,7.0,40,91533.83
+EMP1596,34,Male,Master's,HR,Senior,Remote,6,0,3.2,16,53.0,4.0,49,87273.81
+EMP1597,35,Male,Bachelor's,Sales,Mid-Level,San Francisco,12,4,4.2,4,0.0,6.0,46,130971.64
+EMP1598,58,Male,Bachelor's,Engineering,Senior,New York,9,2,3.1,13,105.0,0.0,49,159887.27
+EMP1599,51,Male,Bachelor's,Engineering,Senior,Remote,11,0,3.9,4,91.0,0.0,16,130066.01
+EMP1600,60,Male,Master's,Data Science,Lead,San Francisco,13,1,2.9,4,54.0,7.0,9,260133.02
+EMP1601,34,Male,Bachelor's,Engineering,Mid-Level,Seattle,5,0,4.5,7,14.0,3.0,10,110255.78
+EMP1602,37,Female,Bachelor's,Sales,Mid-Level,New York,8,1,4.0,12,84.0,4.0,29,116130.33
+EMP1603,28,Male,Bachelor's,Engineering,Junior,Austin,6,1,3.5,2,14.0,1.0,9,71527.43
+EMP1604,48,Male,Bachelor's,Sales,Senior,Remote,13,1,1.4,16,22.0,6.0,33,93575.6
+EMP1605,56,Female,Bachelor's,Engineering,Junior,San Francisco,6,2,3.5,7,116.0,5.0,24,108275.94
+EMP1606,36,Female,Bachelor's,Finance,Senior,Seattle,8,2,2.3,19,65.0,0.0,35,121064.22
+EMP1607,49,Female,Master's,Engineering,Manager,San Francisco,19,0,3.4,11,45.0,0.0,11,298390.98
+EMP1608,56,Male,Bachelor's,Data Science,Manager,Seattle,14,4,4.1,1,99.0,2.0,39,239622.52
+EMP1609,28,Male,PhD,Engineering,Mid-Level,San Francisco,2,3,,9,113.0,1.0,13,136994.24
+EMP1610,41,Female,PhD,Finance,Senior,San Francisco,12,1,3.8,5,8.0,4.0,23,235790.94
+EMP1611,53,Female,Bachelor's,Data Science,Junior,San Francisco,11,0,2.9,17,65.0,0.0,25,119169.23
+EMP1612,59,Male,Bachelor's,Operations,Senior,New York,2,2,,1,65.0,7.0,16,87815.23
+EMP1613,61,Female,Bachelor's,Finance,Manager,Remote,7,3,2.7,17,,6.0,48,120675.42
+EMP1614,53,Male,Master's,Sales,Mid-Level,Chicago,3,3,3.0,12,16.0,7.0,21,75353.29
+EMP1615,47,Non-binary,Bachelor's,Sales,Mid-Level,San Francisco,0,1,3.2,13,104.0,7.0,10,79472.01
+EMP1616,60,Female,High School,Operations,Manager,Chicago,7,0,4.1,11,,7.0,41,97049.03
+EMP1617,41,Female,Bachelor's,Product,Manager,San Francisco,5,5,3.7,13,97.0,4.0,40,184374.28
+EMP1618,39,Female,Master's,Operations,Mid-Level,Boston,2,1,4.8,13,33.0,1.0,19,79691.39
+EMP1619,36,Female,Master's,Finance,Senior,Remote,7,0,2.5,6,68.0,7.0,35,113414.15
+EMP1620,43,Male,Bachelor's,Operations,Junior,Chicago,0,0,4.0,6,63.0,1.0,28,43741.42
+EMP1621,43,Male,Master's,Marketing,Junior,Remote,8,1,3.8,10,43.0,0.0,41,68674.7
+EMP1622,42,Male,Bachelor's,Engineering,Manager,Austin,8,2,3.1,19,28.0,3.0,2,160287.07
+EMP1623,23,Male,Bachelor's,Finance,Manager,New York,5,3,2.5,3,61.0,4.0,30,159807.97
+EMP1624,61,Female,Master's,Product,Lead,Seattle,0,1,2.8,7,91.0,7.0,40,123420.39
+EMP1625,39,Male,Bachelor's,Engineering,Junior,Austin,18,0,2.7,5,15.0,7.0,40,88856.71
+EMP1626,44,Male,Bachelor's,Operations,Manager,Seattle,16,12,4.4,8,77.0,4.0,5,158268.44
+EMP1627,34,Female,High School,Engineering,Mid-Level,Remote,4,3,3.8,5,51.0,2.0,38,72070.56
+EMP1628,30,Female,Master's,Finance,Mid-Level,Chicago,12,1,3.8,12,1.0,6.0,42,116228.44
+EMP1629,28,Male,Master's,Engineering,Senior,Remote,10,6,3.3,4,119.0,1.0,15,152706.29
+EMP1630,22,Male,Master's,Marketing,Junior,Boston,4,3,3.0,19,103.0,1.0,36,66237.42
+EMP1631,23,Male,Master's,Operations,Lead,Austin,4,1,3.4,18,60.0,0.0,3,114290.42
+EMP1632,25,Female,Bachelor's,Sales,Senior,Seattle,5,6,3.3,3,3.0,0.0,24,101508.7
+EMP1633,35,Male,Bachelor's,Operations,Junior,San Francisco,17,3,3.1,7,51.0,0.0,41,85437.92
+EMP1634,53,Female,Bachelor's,Data Science,Junior,Remote,14,3,3.5,8,40.0,2.0,48,92164.52
+EMP1635,57,Male,High School,Product,Junior,Seattle,6,6,2.5,15,51.0,6.0,48,72535.98
+EMP1636,23,Male,Bachelor's,Engineering,Junior,New York,5,1,3.4,17,30.0,7.0,47,95270.2
+EMP1637,61,Female,PhD,Marketing,Senior,San Francisco,12,3,3.1,19,25.0,3.0,41,193227.51
+EMP1638,35,Male,High School,Engineering,Manager,Seattle,12,4,2.7,4,26.0,0.0,49,158639.6
+EMP1639,41,Male,Bachelor's,Product,Junior,New York,3,1,3.6,16,50.0,0.0,12,83739.69
+EMP1640,46,Male,Bachelor's,Product,Junior,New York,9,0,4.5,13,97.0,5.0,8,110262.47
+EMP1641,29,Male,Bachelor's,Finance,Senior,Chicago,5,4,4.1,12,94.0,6.0,14,117317.67
+EMP1642,49,Male,PhD,Data Science,Lead,San Francisco,8,0,3.0,4,47.0,0.0,18,237486.63
+EMP1643,42,Male,Bachelor's,Finance,Mid-Level,Chicago,7,3,3.7,12,10.0,2.0,44,87752.65
+EMP1644,44,Male,Bachelor's,HR,Mid-Level,San Francisco,13,7,3.8,17,7.0,4.0,46,109977.48
+EMP1645,53,Male,Master's,Engineering,Senior,New York,6,1,3.3,9,11.0,3.0,20,161723.4
+EMP1646,29,Female,Bachelor's,Operations,Mid-Level,Seattle,8,0,3.2,12,98.0,4.0,23,85861.08
+EMP1647,52,Female,Bachelor's,Engineering,Junior,Austin,0,0,3.4,15,44.0,7.0,5,61750.85
+EMP1648,58,Female,Bachelor's,Data Science,Lead,San Francisco,9,2,5.0,2,33.0,5.0,1,229944.65
+EMP1649,37,Female,Bachelor's,Data Science,Senior,San Francisco,4,5,3.4,9,76.0,1.0,45,153699.02
+EMP1650,61,Male,PhD,Operations,Senior,Austin,0,1,2.3,14,90.0,1.0,46,86418.92
+EMP1651,48,Male,Master's,Engineering,Lead,New York,13,0,2.5,4,71.0,0.0,2,226645.02
+EMP1652,61,Male,Bachelor's,Sales,Senior,New York,7,2,3.1,4,46.0,5.0,16,122931.37
+EMP1653,39,Male,Master's,Sales,Mid-Level,New York,0,1,2.3,6,119.0,4.0,5,79071.8
+EMP1654,56,Male,Bachelor's,Sales,Mid-Level,Boston,4,1,3.1,5,20.0,2.0,22,72679.41
+EMP1655,36,Male,High School,Engineering,Junior,Boston,8,3,,17,40.0,3.0,1,86106.17
+EMP1656,48,Female,Bachelor's,Product,Junior,Boston,8,1,2.8,13,74.0,6.0,12,84191.06
+EMP1657,38,Female,Bachelor's,Finance,Senior,Seattle,5,4,2.4,17,21.0,4.0,19,106823.02
+EMP1658,61,Male,Bachelor's,Sales,Manager,Seattle,0,1,3.1,19,20.0,5.0,22,105896.17
+EMP1659,23,Female,Master's,Marketing,Director,Chicago,5,0,3.1,1,27.0,7.0,42,152028.32
+EMP1660,52,Female,PhD,Marketing,Senior,Seattle,13,6,2.5,17,66.0,5.0,44,155952.08
+EMP1661,58,Female,Bachelor's,HR,Junior,New York,15,2,2.3,3,70.0,6.0,48,81306.81
+EMP1662,55,Male,Bachelor's,Finance,Junior,Seattle,4,1,4.1,14,13.0,4.0,17,82002.89
+EMP1663,55,Male,High School,Data Science,Lead,Boston,17,8,3.6,12,78.0,7.0,13,177063.16
+EMP1664,24,Male,High School,Finance,Senior,Austin,0,1,2.9,15,72.0,3.0,39,77479.42
+EMP1665,38,Male,Bachelor's,Product,Senior,San Francisco,3,0,2.4,6,51.0,4.0,28,116689.33
+EMP1666,35,Female,Bachelor's,Data Science,Lead,San Francisco,12,2,2.8,2,42.0,4.0,3,206024.85
+EMP1667,35,Male,Master's,Engineering,Lead,Seattle,11,6,2.3,4,70.0,3.0,5,204672.11
+EMP1668,59,Male,Bachelor's,Product,Manager,Seattle,7,3,2.8,13,75.0,2.0,36,165755.69
+EMP1669,56,Female,High School,Engineering,Junior,Remote,2,0,4.6,13,18.0,6.0,15,60819.18
+EMP1670,22,Female,Bachelor's,Data Science,Lead,San Francisco,2,3,3.4,17,26.0,5.0,17,150200.63
+EMP1671,50,Male,Bachelor's,Marketing,Manager,Boston,4,2,2.8,6,17.0,3.0,44,113637.76
+EMP1672,25,Female,High School,Data Science,Mid-Level,Austin,2,3,3.7,11,12.0,0.0,46,67752.93
+EMP1673,54,Male,Master's,Data Science,Senior,Remote,8,0,2.5,19,106.0,0.0,29,143024.61
+EMP1674,38,Male,Bachelor's,Data Science,Mid-Level,Austin,7,3,2.9,16,0.0,0.0,4,103166.71
+EMP1675,49,Male,Master's,Data Science,Director,Austin,2,0,1.9,8,101.0,0.0,32,172152.67
+EMP1676,47,Female,Bachelor's,Sales,Junior,Austin,6,3,4.1,1,84.0,7.0,49,73222.48
+EMP1677,29,Female,Bachelor's,Engineering,Senior,Boston,0,1,3.1,10,33.0,6.0,43,95855.37
+EMP1678,55,Male,Bachelor's,Marketing,Junior,Remote,9,0,2.6,2,12.0,1.0,38,51056.75
+EMP1679,39,Male,Master's,Engineering,Lead,New York,11,1,3.7,19,108.0,2.0,4,246983.82
+EMP1680,52,Male,Bachelor's,Operations,Junior,New York,3,2,2.5,14,114.0,1.0,13,57757.2
+EMP1681,48,Male,Master's,Sales,Mid-Level,Remote,4,3,2.5,3,104.0,4.0,20,74064.58
+EMP1682,37,Male,Bachelor's,Product,Senior,Austin,9,1,2.9,9,50.0,4.0,47,125584.01
+EMP1683,31,Male,Master's,HR,Manager,Seattle,8,3,2.4,8,86.0,3.0,18,139428.23
+EMP1684,61,Female,Bachelor's,Data Science,Mid-Level,Austin,11,6,2.7,11,0.0,0.0,49,111696.11
+EMP1685,33,Female,Master's,Engineering,Junior,New York,4,3,3.1,15,86.0,7.0,42,104349.69
+EMP1686,43,Male,Bachelor's,Data Science,Lead,Boston,4,3,3.1,6,27.0,7.0,37,145582.86
+EMP1687,37,Male,PhD,Product,Senior,Boston,6,1,2.3,2,31.0,3.0,12,162367.44
+EMP1688,33,Male,Bachelor's,Finance,Manager,San Francisco,2,3,3.0,1,71.0,4.0,25,140435.01
+EMP1689,32,Male,High School,HR,Junior,San Francisco,6,0,3.6,3,54.0,0.0,30,56219.21
+EMP1690,41,Female,High School,Operations,Senior,Remote,2,0,3.7,18,25.0,6.0,15,61668.71
+EMP1691,22,Non-binary,Master's,Engineering,Mid-Level,New York,4,1,2.9,14,13.0,5.0,36,135763.32
+EMP1692,48,Male,Bachelor's,Finance,Junior,Remote,3,3,3.1,17,87.0,2.0,8,56520.4
+EMP1693,24,Male,Master's,Marketing,Senior,San Francisco,6,5,3.0,2,111.0,4.0,28,133863.79
+EMP1694,33,Female,Bachelor's,Engineering,Senior,Austin,15,0,,19,92.0,5.0,22,139672.4
+EMP1695,51,Male,Bachelor's,Sales,Lead,Remote,10,5,2.8,9,67.0,3.0,49,109524.27
+EMP1696,30,Female,High School,Engineering,Mid-Level,Seattle,8,5,3.8,8,62.0,5.0,38,115482.72
+EMP1697,58,Male,PhD,Engineering,Mid-Level,Chicago,1,2,3.8,10,81.0,3.0,16,113473.34
+EMP1698,22,Female,Master's,Engineering,Mid-Level,Seattle,4,4,3.5,9,13.0,4.0,5,122307.32
+EMP1699,25,Female,PhD,Product,Director,San Francisco,7,0,1.3,8,26.0,,46,257481.8
+EMP1700,36,Female,Bachelor's,Finance,Mid-Level,San Francisco,7,0,2.7,7,40.0,7.0,34,108142.38
+EMP1701,48,Female,Master's,Product,Mid-Level,Remote,6,5,3.5,6,110.0,6.0,49,110157.95
+EMP1702,29,Male,Master's,Marketing,Mid-Level,Boston,3,2,4.4,2,2.0,6.0,38,97626.32
+EMP1703,44,Female,Bachelor's,Sales,Senior,Seattle,16,0,3.2,9,93.0,7.0,11,135952.98
+EMP1704,36,Female,Master's,Finance,Mid-Level,San Francisco,11,3,3.3,9,58.0,2.0,2,149075.41
+EMP1705,48,Male,PhD,Marketing,Manager,New York,4,5,3.1,19,99.0,6.0,25,189305.49
+EMP1706,52,Male,Master's,Engineering,Mid-Level,New York,13,3,2.3,9,22.0,5.0,25,153794.68
+EMP1707,60,Male,Master's,HR,Manager,Austin,14,1,3.4,2,17.0,6.0,1,155718.82
+EMP1708,29,Male,Bachelor's,Engineering,Junior,Boston,7,1,2.1,19,,5.0,31,76352.12
+EMP1709,51,Male,Bachelor's,HR,Senior,Austin,6,4,3.1,16,110.0,4.0,5,83817.91
+EMP1710,39,Female,PhD,Operations,Manager,Remote,3,0,3.3,14,103.0,6.0,40,130484.54
+EMP1711,25,Male,High School,Engineering,Junior,New York,7,0,3.2,1,73.0,4.0,4,82650.31
+EMP1712,43,Female,Master's,Engineering,Director,Chicago,5,1,2.3,13,119.0,6.0,5,183836.91
+EMP1713,24,Male,Master's,Data Science,Senior,San Francisco,5,2,,2,75.0,7.0,5,164454.89
+EMP1714,36,Male,Master's,Marketing,Director,Chicago,7,1,3.7,14,116.0,3.0,16,163954.0
+EMP1715,56,Male,PhD,Engineering,Senior,New York,3,1,3.3,1,40.0,0.0,18,181628.27
+EMP1716,59,Male,Bachelor's,Product,Mid-Level,Remote,15,0,2.7,15,,0.0,43,97863.57
+EMP1717,54,Male,Bachelor's,Engineering,Junior,San Francisco,12,0,2.5,18,31.0,0.0,17,111243.16
+EMP1718,35,Male,High School,Operations,Mid-Level,Remote,8,0,3.8,9,80.0,,35,68479.8
+EMP1719,22,Male,Bachelor's,Product,Junior,Chicago,3,2,3.2,8,40.0,0.0,18,64521.64
+EMP1720,47,Female,Bachelor's,Engineering,Junior,Remote,4,2,2.4,7,44.0,7.0,4,68152.07
+EMP1721,29,Female,Bachelor's,Engineering,Junior,Austin,3,2,3.1,9,77.0,4.0,31,63819.77
+EMP1722,37,Male,Master's,Engineering,Mid-Level,Remote,1,1,2.6,9,100.0,1.0,31,86601.63
+EMP1723,59,Female,PhD,Sales,Lead,New York,9,0,3.4,11,8.0,1.0,9,186428.95
+EMP1724,31,Female,Bachelor's,Engineering,Junior,Boston,4,1,4.1,4,89.0,6.0,31,79562.24
+EMP1725,58,Male,Bachelor's,Operations,Junior,Remote,4,0,2.4,7,47.0,1.0,5,40863.69
+EMP1726,47,Non-binary,PhD,Engineering,Senior,New York,3,0,3.3,7,114.0,0.0,36,168053.68
+EMP1727,49,Female,High School,Finance,Junior,New York,13,1,3.3,4,,1.0,16,87843.18
+EMP1728,33,Male,High School,Product,Junior,Chicago,4,5,1.7,12,86.0,5.0,42,51936.85
+EMP1729,41,Male,Bachelor's,Data Science,Junior,Remote,14,1,3.8,17,94.0,0.0,41,83349.3
+EMP1730,35,Male,Bachelor's,HR,Manager,Austin,6,7,4.7,3,102.0,5.0,16,119186.3
+EMP1731,56,Male,Bachelor's,Sales,Manager,Austin,1,1,3.3,9,43.0,4.0,20,99185.96
+EMP1732,50,Female,PhD,HR,Mid-Level,New York,10,1,4.2,5,57.0,5.0,30,144910.41
+EMP1733,33,Male,Bachelor's,Finance,Senior,New York,12,4,2.3,16,65.0,4.0,26,142427.19
+EMP1734,39,Female,Bachelor's,Marketing,Senior,Boston,3,0,2.7,8,113.0,,49,83331.79
+EMP1735,23,Female,Bachelor's,Engineering,Senior,New York,5,0,3.2,16,17.0,3.0,31,132376.11
+EMP1736,23,Female,Bachelor's,Data Science,Senior,Seattle,5,6,2.6,19,79.0,6.0,15,126599.14
+EMP1737,38,Female,Master's,Marketing,Senior,Remote,8,2,3.2,16,28.0,5.0,41,108073.08
+EMP1738,31,Male,Master's,Engineering,Mid-Level,San Francisco,5,0,3.9,18,74.0,2.0,38,145603.91
+EMP1739,39,Male,Master's,Sales,Junior,Seattle,12,0,2.6,15,1.0,4.0,38,89713.01
+EMP1740,43,Female,Bachelor's,Marketing,Senior,New York,6,7,3.9,18,77.0,7.0,43,119284.28
+EMP1741,40,Male,PhD,Data Science,Manager,Seattle,4,5,1.9,14,67.0,0.0,20,189978.64
+EMP1742,22,Male,Master's,Operations,Senior,New York,0,1,2.8,16,102.0,2.0,35,101914.65
+EMP1743,45,Female,Master's,Operations,Manager,Boston,0,0,3.1,5,97.0,4.0,23,105797.62
+EMP1744,57,Female,High School,Engineering,Director,San Francisco,9,5,2.6,8,116.0,0.0,44,210736.79
+EMP1745,46,Male,High School,Marketing,Junior,Chicago,7,1,2.8,16,109.0,4.0,47,53851.65
+EMP1746,57,Female,Bachelor's,Finance,Senior,Austin,12,1,,1,38.0,4.0,39,128124.42
+EMP1747,52,Female,Master's,Engineering,Senior,New York,13,3,4.1,11,,7.0,25,237803.53
+EMP1748,52,Male,Bachelor's,Sales,Director,Boston,6,1,3.7,11,103.0,0.0,22,166630.24
+EMP1749,23,Male,Bachelor's,Operations,Director,San Francisco,5,2,3.9,2,40.0,4.0,47,170984.44
+EMP1750,40,Female,Master's,Engineering,Senior,Seattle,5,6,2.8,19,70.0,7.0,8,148112.64
+EMP1751,33,Male,Master's,Finance,Mid-Level,New York,7,4,2.3,5,114.0,4.0,9,128332.65
+EMP1752,31,Male,PhD,Engineering,Lead,Seattle,7,1,2.6,3,80.0,4.0,15,194690.38
+EMP1753,52,Male,Bachelor's,Engineering,Junior,New York,15,1,2.7,8,86.0,6.0,48,104502.87
+EMP1754,43,Female,Master's,Engineering,Lead,Chicago,1,1,2.8,4,108.0,3.0,20,126506.46
+EMP1755,44,Male,Bachelor's,Product,Manager,San Francisco,8,1,3.6,13,74.0,1.0,35,213458.71
+EMP1756,44,Male,Bachelor's,Data Science,Mid-Level,Boston,4,2,3.4,14,21.0,4.0,37,97567.4
+EMP1757,36,Male,Bachelor's,Product,Senior,San Francisco,6,1,3.1,1,81.0,6.0,3,152672.79
+EMP1758,47,Non-binary,Bachelor's,Finance,Mid-Level,Remote,6,0,3.1,5,48.0,7.0,34,88152.72
+EMP1759,24,Male,Bachelor's,Engineering,Mid-Level,Remote,6,0,4.0,7,27.0,0.0,34,86466.44
+EMP1760,44,Female,Master's,Finance,Mid-Level,San Francisco,14,1,2.3,6,15.0,5.0,36,148924.81
+EMP1761,41,Female,Bachelor's,Marketing,Lead,Seattle,17,2,3.8,15,105.0,4.0,35,154375.74
+EMP1762,61,Male,Master's,Data Science,Manager,New York,11,2,1.7,15,67.0,6.0,9,241997.28
+EMP1763,60,Non-binary,Bachelor's,Engineering,Director,Chicago,3,1,2.8,8,61.0,3.0,30,152207.15
+EMP1764,29,Female,Bachelor's,Finance,Junior,Seattle,7,4,4.3,2,35.0,6.0,26,85960.84
+EMP1765,39,Female,Bachelor's,Engineering,Manager,Seattle,9,4,3.4,14,21.0,3.0,12,192184.01
+EMP1766,27,Male,Bachelor's,Sales,Lead,Seattle,5,1,2.9,16,10.0,5.0,24,121056.66
+EMP1767,48,Female,Bachelor's,Operations,Mid-Level,San Francisco,6,0,3.8,10,84.0,4.0,41,101214.71
+EMP1768,57,Female,Bachelor's,Finance,Junior,Chicago,7,2,3.6,15,,2.0,19,69192.38
+EMP1769,36,Non-binary,Bachelor's,Marketing,Mid-Level,New York,11,1,3.6,4,104.0,5.0,44,114033.01
+EMP1770,58,Male,Bachelor's,Marketing,Manager,Seattle,10,0,3.1,12,,1.0,16,157207.04
+EMP1771,26,Female,Bachelor's,Marketing,Senior,Austin,4,5,3.9,10,41.0,0.0,26,84318.35
+EMP1772,60,Male,PhD,Data Science,Lead,Seattle,10,1,,2,54.0,6.0,23,232889.13
+EMP1773,30,Male,Bachelor's,Data Science,Mid-Level,San Francisco,12,2,2.7,4,72.0,0.0,33,149729.77
+EMP1774,28,Male,Master's,Product,Lead,San Francisco,0,1,4.5,6,34.0,0.0,42,149509.94
+EMP1775,41,Female,Master's,Data Science,Junior,San Francisco,5,0,2.9,14,56.0,7.0,30,120292.51
+EMP1776,31,Male,PhD,Sales,Mid-Level,New York,5,0,1.8,3,33.0,7.0,23,110195.33
+EMP1777,47,Female,Master's,Operations,Senior,San Francisco,8,2,3.9,15,72.0,0.0,10,133119.86
+EMP1778,25,Non-binary,Bachelor's,Marketing,Junior,Boston,0,0,4.2,1,76.0,3.0,36,52962.39
+EMP1779,59,Male,Master's,Sales,Manager,Remote,14,0,3.0,19,69.0,6.0,31,147255.15
+EMP1780,45,Female,Master's,Data Science,Mid-Level,Austin,8,9,1.7,1,3.0,7.0,43,107028.02
+EMP1781,35,Male,Bachelor's,Engineering,Senior,Chicago,9,1,3.2,13,45.0,1.0,22,127630.55
+EMP1782,22,Male,Bachelor's,Data Science,Mid-Level,New York,4,0,4.7,8,91.0,4.0,43,123010.0
+EMP1783,38,Female,High School,Marketing,Senior,Remote,5,1,3.3,18,10.0,4.0,43,74146.09
+EMP1784,45,Female,Master's,HR,Junior,New York,11,2,3.7,3,97.0,2.0,38,93353.51
+EMP1785,48,Female,Master's,Operations,Junior,Remote,8,1,3.8,18,60.0,4.0,47,68846.54
+EMP1786,28,Female,Bachelor's,Data Science,Manager,Austin,0,0,3.9,9,34.0,7.0,2,127839.37
+EMP1787,30,Male,Bachelor's,HR,Mid-Level,San Francisco,7,1,4.5,6,68.0,1.0,23,100136.82
+EMP1788,56,Male,Bachelor's,HR,Lead,Remote,6,0,4.0,2,56.0,4.0,35,91051.7
+EMP1789,33,Male,Bachelor's,Engineering,Director,New York,11,2,3.1,4,102.0,3.0,37,234656.21
+EMP1790,42,Male,PhD,Finance,Mid-Level,Austin,21,2,2.4,18,10.0,5.0,32,157784.25
+EMP1791,24,Male,Bachelor's,Engineering,Mid-Level,Austin,6,0,3.5,7,11.0,,43,98094.45
+EMP1792,36,Male,High School,Operations,Senior,San Francisco,18,1,3.1,11,42.0,0.0,12,107818.08
+EMP1793,42,Male,Bachelor's,Finance,Director,Chicago,4,1,3.7,5,18.0,0.0,35,146121.33
+EMP1794,31,Male,Master's,Operations,Manager,Seattle,4,2,2.6,8,76.0,5.0,41,134715.11
+EMP1795,54,Male,High School,Engineering,Senior,Boston,6,1,3.0,11,67.0,0.0,3,102483.01
+EMP1796,27,Female,Master's,Engineering,Lead,New York,9,1,3.2,15,77.0,0.0,34,222246.16
+EMP1797,23,Female,Bachelor's,Operations,Junior,Remote,4,5,2.5,3,107.0,3.0,38,49041.34
+EMP1798,50,Female,Bachelor's,Engineering,Director,New York,0,0,3.2,7,58.0,3.0,24,169946.48
+EMP1799,61,Male,Bachelor's,Engineering,Director,San Francisco,8,9,3.8,8,1.0,3.0,38,245312.29
+EMP1800,54,Female,Bachelor's,Engineering,Junior,San Francisco,2,0,4.5,11,7.0,7.0,17,98945.7
+EMP1801,25,Female,Bachelor's,Product,Mid-Level,New York,7,1,2.7,10,21.0,4.0,40,109775.93
+EMP1802,25,Male,PhD,Operations,Junior,New York,7,2,,9,114.0,5.0,1,104450.13
+EMP1803,50,Male,Master's,Sales,Mid-Level,Remote,4,0,1.8,15,76.0,0.0,8,66709.06
+EMP1804,58,Female,PhD,Sales,Lead,San Francisco,10,0,3.2,5,20.0,2.0,15,218356.36
+EMP1805,41,Female,Bachelor's,Sales,Mid-Level,New York,5,0,3.2,15,84.0,5.0,45,88711.9
+EMP1806,44,Female,PhD,Data Science,Junior,New York,7,8,3.8,4,91.0,2.0,25,130191.71
+EMP1807,39,Female,Bachelor's,Operations,Mid-Level,Seattle,7,1,2.8,5,96.0,0.0,8,84992.03
+EMP1808,46,Female,Bachelor's,Engineering,Director,Remote,6,2,3.4,15,28.0,1.0,32,158233.42
+EMP1809,22,Non-binary,High School,Engineering,Senior,San Francisco,4,3,4.0,17,,5.0,13,125036.99
+EMP1810,36,Female,High School,Engineering,Mid-Level,New York,2,3,2.4,8,85.0,7.0,46,86947.52
+EMP1811,55,Male,Master's,Operations,Junior,San Francisco,10,3,1.8,19,89.0,4.0,15,90638.45
+EMP1812,41,Female,Bachelor's,Operations,Director,New York,9,1,4.0,9,74.0,2.0,6,177185.69
+EMP1813,58,Male,Bachelor's,Sales,Manager,New York,0,0,2.5,10,74.0,,33,105414.78
+EMP1814,48,Female,Master's,Engineering,Mid-Level,Chicago,4,0,3.5,5,108.0,5.0,7,114567.28
+EMP1815,43,Female,Bachelor's,Engineering,Junior,San Francisco,2,0,4.6,10,97.0,3.0,33,93576.34
+EMP1816,26,Female,Bachelor's,Product,Junior,Austin,6,0,3.8,1,82.0,1.0,47,75138.47
+EMP1817,55,Female,Bachelor's,Sales,Junior,San Francisco,8,0,2.5,4,111.0,3.0,29,85738.64
+EMP1818,60,Male,Master's,Operations,Senior,Remote,3,4,2.2,5,36.0,1.0,38,75183.42
+EMP1819,24,Male,Master's,HR,Manager,Remote,6,7,2.7,7,77.0,1.0,37,102447.7
+EMP1820,38,Male,Bachelor's,Marketing,Senior,Austin,13,0,3.3,5,28.0,4.0,44,105171.77
+EMP1821,45,Female,Bachelor's,Engineering,Manager,San Francisco,14,0,3.0,8,82.0,5.0,32,224120.59
+EMP1822,45,Female,Bachelor's,Engineering,Mid-Level,Chicago,0,0,4.2,17,36.0,3.0,3,81998.65
+EMP1823,24,Female,Master's,HR,Lead,Chicago,6,0,3.7,1,20.0,7.0,20,103623.36
+EMP1824,28,Male,Bachelor's,Data Science,Lead,Boston,8,0,2.7,18,87.0,3.0,14,150113.49
+EMP1825,46,Male,Bachelor's,HR,Junior,Chicago,8,8,3.8,12,89.0,2.0,28,62143.09
+EMP1826,24,Female,High School,Finance,Mid-Level,Remote,6,0,4.3,3,104.0,5.0,38,74766.67
+EMP1827,36,Male,Bachelor's,Engineering,Senior,Remote,1,0,3.0,14,119.0,0.0,4,87939.31
+EMP1828,50,Female,Bachelor's,Product,Junior,San Francisco,9,0,3.5,16,11.0,0.0,15,97259.15
+EMP1829,50,Female,Master's,Data Science,Mid-Level,Austin,16,11,2.6,18,47.0,2.0,17,141385.39
+EMP1830,31,Female,Bachelor's,Sales,Senior,New York,8,7,3.1,10,82.0,1.0,37,121958.25
+EMP1831,53,Male,Bachelor's,Product,Director,San Francisco,2,3,2.6,15,46.0,7.0,24,164861.45
+EMP1832,44,Female,Master's,HR,Senior,Chicago,0,1,4.1,10,112.0,2.0,38,79394.39
+EMP1833,60,Male,Master's,HR,Lead,San Francisco,6,0,2.8,1,93.0,2.0,42,139104.64
+EMP1834,30,Non-binary,Bachelor's,Operations,Mid-Level,Remote,4,0,3.5,19,14.0,3.0,41,63281.29
+EMP1835,58,Male,Bachelor's,Data Science,Lead,New York,11,1,3.6,2,66.0,2.0,36,207627.58
+EMP1836,61,Male,Bachelor's,Operations,Senior,Chicago,14,4,5.0,13,112.0,6.0,41,118771.46
+EMP1837,35,Female,PhD,Engineering,Manager,Seattle,10,0,3.0,16,12.0,7.0,8,260146.12
+EMP1838,25,Male,Bachelor's,Sales,Mid-Level,Seattle,7,1,2.7,8,58.0,1.0,3,90055.74
+EMP1839,41,Female,PhD,Product,Senior,Chicago,7,2,3.1,3,72.0,0.0,30,152542.06
+EMP1840,49,Female,Master's,Engineering,Senior,Remote,8,0,2.6,19,12.0,4.0,22,132536.93
+EMP1841,35,Female,Bachelor's,Marketing,Mid-Level,Austin,2,2,2.9,14,79.0,7.0,33,68323.26
+EMP1842,55,Non-binary,High School,Marketing,Junior,Chicago,11,1,3.7,11,114.0,7.0,25,60640.14
+EMP1843,34,Male,Bachelor's,Marketing,Junior,New York,2,0,2.7,12,77.0,5.0,30,59234.57
+EMP1844,52,Female,Bachelor's,HR,Junior,Chicago,13,1,3.6,11,71.0,2.0,37,60785.98
+EMP1845,54,Male,Bachelor's,Product,Manager,Remote,6,7,3.6,11,117.0,5.0,3,147950.17
+EMP1846,60,Male,Master's,Engineering,Mid-Level,Seattle,12,1,3.4,18,18.0,2.0,4,159338.01
+EMP1847,49,Female,PhD,Engineering,Mid-Level,Remote,0,1,3.7,10,56.0,6.0,29,99048.15
+EMP1848,46,Male,Bachelor's,Engineering,Lead,Austin,12,0,3.0,16,119.0,5.0,32,152664.72
+EMP1849,53,Female,Master's,Data Science,Mid-Level,New York,14,2,1.8,8,31.0,3.0,23,145704.43
+EMP1850,30,Male,High School,HR,Senior,New York,1,2,3.2,6,98.0,3.0,19,76588.53
+EMP1851,49,Female,Bachelor's,Sales,Junior,San Francisco,7,1,,19,86.0,5.0,15,90145.68
+EMP1852,52,Non-binary,Bachelor's,Data Science,Director,Seattle,9,0,2.9,13,20.0,2.0,16,208619.64
+EMP1853,38,Male,Master's,Data Science,Manager,Boston,9,9,3.7,15,81.0,6.0,23,243674.02
+EMP1854,44,Female,PhD,Data Science,Manager,San Francisco,6,4,3.7,13,111.0,6.0,40,275466.0
+EMP1855,34,Female,Master's,Data Science,Mid-Level,Austin,5,2,3.4,1,13.0,2.0,46,110675.57
+EMP1856,31,Male,High School,Sales,Lead,Chicago,9,1,3.3,2,79.0,1.0,37,102612.7
+EMP1857,37,Male,Bachelor's,Operations,Junior,Chicago,9,0,4.1,13,23.0,0.0,1,62396.66
+EMP1858,27,Female,Bachelor's,Marketing,Junior,San Francisco,4,3,2.4,2,48.0,7.0,19,71689.66
+EMP1859,32,Male,Bachelor's,Data Science,Junior,New York,3,2,3.0,11,115.0,7.0,37,83629.15
+EMP1860,24,Male,Master's,Operations,Senior,San Francisco,6,2,3.9,13,31.0,0.0,35,129382.77
+EMP1861,49,Female,Master's,Data Science,Senior,New York,8,0,3.6,10,74.0,6.0,30,192193.28
+EMP1862,36,Female,Master's,Operations,Senior,San Francisco,0,1,3.0,15,108.0,4.0,17,98626.92
+EMP1863,34,Female,Bachelor's,Engineering,Junior,New York,14,5,3.5,1,10.0,0.0,39,111371.09
+EMP1864,38,Female,Bachelor's,Finance,Mid-Level,Seattle,5,6,2.8,14,59.0,4.0,49,92954.26
+EMP1865,28,Female,Bachelor's,Product,Lead,San Francisco,8,0,3.3,10,67.0,3.0,26,175315.92
+EMP1866,49,Male,Bachelor's,Product,Mid-Level,Remote,9,2,3.7,18,60.0,7.0,13,99982.11
+EMP1867,59,Male,Bachelor's,Engineering,Lead,San Francisco,0,1,4.1,11,89.0,4.0,22,147352.15
+EMP1868,34,Male,Master's,Engineering,Mid-Level,San Francisco,6,6,3.7,7,109.0,4.0,46,154931.03
+EMP1869,38,Female,Master's,Engineering,Lead,San Francisco,14,4,4.2,15,4.0,0.0,23,262085.92
+EMP1870,36,Male,High School,Operations,Senior,New York,13,10,2.2,3,35.0,6.0,44,97421.02
+EMP1871,57,Male,Bachelor's,Data Science,Mid-Level,Remote,6,7,1.7,2,96.0,2.0,43,80019.48
+EMP1872,49,Male,Bachelor's,Engineering,Mid-Level,New York,11,0,1.7,8,63.0,6.0,33,115426.44
+EMP1873,36,Male,Bachelor's,Finance,Senior,Remote,12,3,4.0,8,77.0,3.0,27,117597.1
+EMP1874,32,Male,Master's,Data Science,Manager,Remote,11,2,3.6,11,31.0,1.0,35,189713.91
+EMP1875,52,Female,High School,Operations,Mid-Level,Austin,2,0,2.7,16,70.0,4.0,12,48854.03
+EMP1876,25,Male,Bachelor's,Finance,Mid-Level,Austin,7,0,2.9,2,73.0,4.0,9,94418.75
+EMP1877,56,Male,Bachelor's,HR,Manager,Seattle,5,0,,5,65.0,5.0,34,127076.74
+EMP1878,55,Male,Master's,Finance,Senior,Chicago,8,4,2.7,7,9.0,4.0,14,118307.78
+EMP1879,48,Female,Bachelor's,Sales,Mid-Level,Seattle,6,1,2.6,13,98.0,6.0,37,94096.52
+EMP1880,31,Female,Bachelor's,Finance,Senior,New York,9,5,2.7,2,20.0,2.0,3,132310.12
+EMP1881,51,Male,Bachelor's,Operations,Mid-Level,New York,3,2,2.7,3,39.0,1.0,44,75214.85
+EMP1882,41,Female,Master's,Data Science,Senior,Chicago,6,3,3.2,9,41.0,6.0,44,142888.39
+EMP1883,50,Male,PhD,HR,Mid-Level,Austin,8,1,4.4,10,71.0,,21,116154.13
+EMP1884,50,Female,Bachelor's,Operations,Director,Remote,14,1,2.5,13,45.0,6.0,7,128459.93
+EMP1885,44,Male,Master's,Engineering,Senior,New York,13,1,3.1,13,81.0,0.0,33,193555.76
+EMP1886,42,Female,PhD,Marketing,Senior,Remote,13,0,3.5,5,72.0,3.0,35,128094.86
+EMP1887,31,Female,PhD,Engineering,Senior,San Francisco,12,5,3.6,7,117.0,2.0,11,241385.96
+EMP1888,33,Female,Master's,Engineering,Manager,Chicago,15,2,2.8,17,40.0,1.0,45,210253.98
+EMP1889,51,Male,Master's,Operations,Lead,San Francisco,6,0,3.6,15,93.0,3.0,32,159042.96
+EMP1890,54,Male,Bachelor's,Product,Senior,Chicago,7,5,3.5,5,3.0,0.0,22,115555.64
+EMP1891,39,Female,Master's,Engineering,Lead,New York,7,0,2.9,7,98.0,3.0,42,197043.55
+EMP1892,35,Male,Bachelor's,Marketing,Senior,Austin,7,1,2.3,2,13.0,5.0,19,94674.51
+EMP1893,43,Female,Master's,Data Science,Senior,Boston,0,1,2.4,18,13.0,4.0,36,112770.84
+EMP1894,42,Female,Bachelor's,Engineering,Junior,Chicago,9,0,3.7,10,52.0,4.0,37,80451.31
+EMP1895,22,Female,Master's,Finance,Senior,Austin,4,3,4.2,1,111.0,2.0,11,135828.22
+EMP1896,36,Male,Master's,Operations,Mid-Level,Remote,6,3,3.2,14,100.0,3.0,41,75916.07
+EMP1897,57,Female,Bachelor's,HR,Manager,Seattle,0,1,4.2,19,83.0,6.0,13,94929.8
+EMP1898,43,Female,Master's,Engineering,Mid-Level,Austin,8,0,3.2,16,28.0,4.0,28,115497.34
+EMP1899,53,Female,Bachelor's,Sales,Director,San Francisco,1,0,,19,22.0,2.0,49,137975.44
+EMP1900,54,Male,Master's,Data Science,Senior,Remote,10,0,3.1,6,119.0,2.0,15,153476.51
+EMP1901,60,Male,Bachelor's,Finance,Senior,Austin,8,9,4.2,12,110.0,5.0,13,124855.24
+EMP1902,44,Male,Bachelor's,Engineering,Senior,San Francisco,9,0,2.8,3,84.0,2.0,43,167085.29
+EMP1903,23,Male,PhD,Operations,Junior,San Francisco,2,1,3.1,7,30.0,0.0,33,80942.97
+EMP1904,23,Female,Bachelor's,Engineering,Mid-Level,Boston,5,6,4.0,3,95.0,6.0,8,119425.48
+EMP1905,59,Female,Master's,Operations,Junior,New York,8,4,4.0,17,104.0,4.0,32,95698.23
+EMP1906,50,Male,Bachelor's,Engineering,Senior,Remote,3,4,3.4,15,70.0,4.0,37,103051.87
+EMP1907,24,Female,Bachelor's,Product,Mid-Level,New York,6,7,3.6,19,76.0,1.0,48,121616.26
+EMP1908,60,Male,Bachelor's,Sales,Lead,Boston,8,1,3.9,19,60.0,0.0,4,126699.21
+EMP1909,28,Male,Bachelor's,Sales,Mid-Level,Chicago,10,1,3.4,11,22.0,4.0,18,85657.82
+EMP1910,57,Male,Bachelor's,Engineering,Junior,Austin,5,0,4.1,2,7.0,,23,78812.53
+EMP1911,50,Male,High School,Sales,Mid-Level,Remote,1,0,3.7,7,75.0,4.0,29,50246.39
+EMP1912,58,Female,Bachelor's,Data Science,Manager,Chicago,9,2,3.1,19,99.0,1.0,2,158006.4
+EMP1913,57,Male,High School,Product,Lead,Austin,13,0,3.5,7,15.0,,13,135842.34
+EMP1914,44,Female,PhD,Sales,Mid-Level,New York,19,3,2.9,10,25.0,3.0,16,150916.95
+EMP1915,37,Male,PhD,Marketing,Senior,New York,19,0,2.5,12,28.0,3.0,8,170242.15
+EMP1916,52,Female,Bachelor's,Operations,Junior,San Francisco,0,0,2.4,18,92.0,0.0,19,51204.19
+EMP1917,55,Male,Master's,Data Science,Director,Seattle,7,3,3.1,6,5.0,2.0,32,256806.57
+EMP1918,22,Male,Bachelor's,HR,Senior,New York,1,0,3.4,8,36.0,1.0,3,85886.56
+EMP1919,39,Male,Master's,Marketing,Mid-Level,New York,6,3,4.5,5,32.0,7.0,49,122270.08
+EMP1920,61,Male,Master's,Marketing,Senior,Chicago,20,16,3.5,3,94.0,1.0,32,135598.33
+EMP1921,36,Male,PhD,Operations,Junior,Seattle,3,4,3.3,2,45.0,7.0,41,78157.45
+EMP1922,38,Female,Bachelor's,Engineering,Director,Seattle,7,1,3.1,6,60.0,7.0,21,197853.11
+EMP1923,31,Female,Master's,HR,Junior,New York,5,6,2.9,7,40.0,4.0,25,68725.46
+EMP1924,41,Female,Bachelor's,Sales,Senior,New York,2,0,3.3,8,17.0,5.0,17,105830.78
+EMP1925,27,Female,PhD,Data Science,Mid-Level,Remote,9,3,3.0,4,101.0,4.0,25,136272.66
+EMP1926,29,Male,High School,Engineering,Lead,San Francisco,0,0,,12,110.0,5.0,33,118935.72
+EMP1927,55,Male,Master's,HR,Lead,Remote,7,0,3.8,12,94.0,1.0,31,112037.88
+EMP1928,53,Non-binary,Master's,Finance,Senior,Remote,8,9,2.6,17,15.0,,36,112360.82
+EMP1929,25,Female,Master's,HR,Senior,Boston,7,1,3.0,19,103.0,3.0,23,109757.33
+EMP1930,60,Female,Bachelor's,Engineering,Manager,New York,6,5,2.7,9,50.0,0.0,47,171410.03
+EMP1931,41,Female,PhD,HR,Junior,Remote,16,1,3.3,12,36.0,6.0,44,82461.47
+EMP1932,45,Male,Bachelor's,Finance,Mid-Level,Boston,0,1,3.8,17,13.0,5.0,25,80778.41
+EMP1933,45,Male,Master's,Finance,Mid-Level,Austin,10,10,3.4,10,102.0,3.0,49,134439.85
+EMP1934,47,Male,Bachelor's,HR,Director,San Francisco,10,1,3.0,19,67.0,0.0,44,182215.0
+EMP1935,46,Male,Bachelor's,Operations,Mid-Level,San Francisco,9,2,3.9,11,29.0,2.0,48,111573.63
+EMP1936,57,Male,Bachelor's,Data Science,Lead,New York,3,2,3.8,13,59.0,1.0,30,144151.85
+EMP1937,28,Male,Bachelor's,Sales,Senior,Austin,10,8,3.2,4,52.0,2.0,13,103343.18
+EMP1938,31,Female,Bachelor's,Data Science,Mid-Level,Austin,13,0,4.3,15,96.0,5.0,43,124609.6
+EMP1939,33,Female,Bachelor's,Finance,Mid-Level,San Francisco,3,2,3.5,12,35.0,1.0,47,97471.45
+EMP1940,22,Female,Bachelor's,Engineering,Mid-Level,Chicago,2,1,3.5,10,29.0,7.0,29,82988.42
+EMP1941,46,Female,Master's,Engineering,Mid-Level,Chicago,1,0,2.4,7,63.0,4.0,16,86714.86
+EMP1942,37,Male,Master's,Sales,Mid-Level,Seattle,9,0,2.0,2,13.0,,38,108273.01
+EMP1943,26,Male,High School,Data Science,Junior,Remote,8,2,3.2,7,22.0,0.0,27,67596.19
+EMP1944,40,Female,Bachelor's,Operations,Manager,New York,6,6,3.9,8,47.0,4.0,26,152241.3
+EMP1945,25,Male,Bachelor's,Data Science,Director,Chicago,7,1,3.4,19,27.0,1.0,11,171093.43
+EMP1946,27,Male,High School,Finance,Mid-Level,New York,5,2,3.9,6,6.0,6.0,47,101755.02
+EMP1947,47,Male,Master's,Marketing,Mid-Level,Seattle,8,3,2.9,8,41.0,0.0,37,102329.62
+EMP1948,60,Male,Master's,Engineering,Junior,Boston,7,1,3.3,4,9.0,0.0,3,97508.19
+EMP1949,60,Male,Bachelor's,Sales,Senior,Remote,17,7,3.2,9,67.0,4.0,26,116121.06
+EMP1950,30,Male,Bachelor's,Marketing,Manager,San Francisco,0,1,1.9,5,43.0,0.0,34,93119.65
+EMP1951,35,Male,High School,Engineering,Junior,Remote,6,0,4.5,6,101.0,1.0,33,69797.05
+EMP1952,30,Female,Master's,Engineering,Junior,New York,11,0,4.0,19,12.0,7.0,15,140585.26
+EMP1953,36,Male,PhD,HR,Lead,Seattle,6,6,3.8,12,84.0,6.0,2,160856.61
+EMP1954,58,Male,Bachelor's,Operations,Senior,New York,1,2,4.1,5,32.0,,28,101005.56
+EMP1955,41,Male,Bachelor's,Product,Junior,Remote,8,1,2.9,5,103.0,5.0,20,74138.96
+EMP1956,29,Male,Master's,Product,Senior,Austin,0,0,3.8,18,91.0,1.0,38,100946.86
+EMP1957,53,Female,PhD,HR,Mid-Level,Seattle,11,1,2.9,6,86.0,4.0,44,112779.91
+EMP1958,42,Female,Bachelor's,Marketing,Mid-Level,Remote,5,3,3.3,9,31.0,2.0,16,64030.51
+EMP1959,40,Female,High School,HR,Lead,New York,5,2,2.0,11,47.0,1.0,46,78542.31
+EMP1960,50,Male,High School,Data Science,Lead,New York,13,9,3.1,14,4.0,5.0,4,180250.47
+EMP1961,52,Female,Bachelor's,Engineering,Mid-Level,Remote,2,3,2.1,2,60.0,1.0,8,66069.03
+EMP1962,27,Female,Bachelor's,Marketing,Director,San Francisco,0,1,2.3,14,89.0,0.0,44,131940.58
+EMP1963,25,Male,High School,Data Science,Mid-Level,New York,3,2,3.2,19,102.0,0.0,46,95658.26
+EMP1964,50,Female,Bachelor's,Marketing,Lead,Chicago,18,1,2.7,10,89.0,1.0,20,114132.94
+EMP1965,24,Male,High School,HR,Senior,Austin,2,3,3.4,5,2.0,4.0,26,60819.85
+EMP1966,22,Female,Master's,HR,Manager,New York,4,1,4.4,4,23.0,2.0,32,148808.29
+EMP1967,36,Female,Bachelor's,Engineering,Manager,San Francisco,12,1,2.8,7,116.0,0.0,13,215583.94
+EMP1968,42,Male,High School,Sales,Junior,New York,3,0,3.0,13,97.0,5.0,5,60599.94
+EMP1969,52,Female,Bachelor's,Sales,Manager,Chicago,3,2,3.7,10,33.0,6.0,44,100715.85
+EMP1970,28,Male,Bachelor's,Engineering,Manager,Remote,8,2,2.7,10,83.0,0.0,42,143417.93
+EMP1971,38,Male,PhD,Engineering,Lead,Remote,9,2,2.7,4,118.0,,13,177927.35
+EMP1972,40,Non-binary,Bachelor's,Data Science,Mid-Level,Seattle,14,0,2.9,16,93.0,7.0,41,145799.21
+EMP1973,60,Female,Bachelor's,Sales,Lead,New York,4,2,3.8,15,41.0,7.0,11,137880.9
+EMP1974,24,Male,Master's,Finance,Manager,Remote,6,0,2.0,11,19.0,6.0,37,129918.53
+EMP1975,51,Male,Bachelor's,Sales,Mid-Level,Austin,22,3,2.6,19,40.0,2.0,32,91936.81
+EMP1976,56,Male,PhD,Product,Director,New York,0,1,4.3,3,81.0,6.0,45,243127.69
+EMP1977,50,Male,Bachelor's,Sales,Junior,Remote,0,1,1.0,15,101.0,0.0,42,39814.36
+EMP1978,35,Female,Bachelor's,Marketing,Junior,Boston,1,2,3.1,16,19.0,6.0,18,53804.92
+EMP1979,56,Female,High School,Data Science,Senior,Boston,13,3,4.3,14,5.0,4.0,29,141179.97
+EMP1980,49,Female,Bachelor's,Data Science,Senior,Seattle,5,3,4.5,5,56.0,5.0,15,140447.66
+EMP1981,51,Male,Master's,Engineering,Senior,San Francisco,5,2,3.8,17,41.0,0.0,20,168117.87
+EMP1982,47,Female,Master's,Data Science,Junior,San Francisco,3,0,4.0,18,24.0,,44,104405.5
+EMP1983,28,Male,Bachelor's,Marketing,Director,Seattle,10,3,2.5,19,40.0,1.0,36,163336.03
+EMP1984,60,Female,Bachelor's,Finance,Junior,San Francisco,1,1,2.6,1,40.0,7.0,5,74344.49
+EMP1985,52,Female,Master's,Engineering,Junior,Chicago,5,1,4.4,9,2.0,4.0,40,86209.88
+EMP1986,26,Female,PhD,Engineering,Junior,Boston,3,1,3.0,14,107.0,4.0,37,92493.7
+EMP1987,56,Male,High School,Operations,Senior,Boston,0,1,1.9,11,42.0,1.0,33,54399.74
+EMP1988,35,Male,Bachelor's,Finance,Manager,Chicago,5,0,3.5,2,45.0,6.0,18,139802.6
+EMP1989,57,Male,Bachelor's,Marketing,Senior,Boston,7,1,3.1,5,56.0,5.0,19,104446.52
+EMP1990,48,Female,Master's,Operations,Manager,Remote,4,5,3.3,15,82.0,3.0,32,119175.41
+EMP1991,45,Male,High School,Operations,Junior,Seattle,6,4,1.5,12,73.0,2.0,42,48274.87
+EMP1992,61,Male,Bachelor's,Engineering,Senior,San Francisco,6,0,1.3,14,50.0,7.0,22,126086.44
+EMP1993,50,Male,Master's,HR,Senior,San Francisco,7,7,3.4,11,4.0,4.0,41,122327.94
+EMP1994,43,Female,High School,Engineering,Senior,San Francisco,2,0,3.0,9,85.0,7.0,1,114560.81
+EMP1995,29,Male,Bachelor's,Operations,Junior,New York,2,3,2.9,8,72.0,3.0,25,58779.54
+EMP1996,36,Female,Bachelor's,Operations,Senior,San Francisco,8,2,,12,96.0,5.0,20,126101.0
+EMP1997,26,Female,Bachelor's,Product,Senior,San Francisco,0,1,2.7,3,14.0,2.0,35,109654.58
+EMP1998,25,Female,Bachelor's,Engineering,Lead,Chicago,6,3,3.0,15,87.0,4.0,45,132426.4
+EMP1999,32,Male,Bachelor's,Engineering,Senior,Remote,14,0,2.9,8,93.0,0.0,6,116852.48
+EMP2000,39,Male,Bachelor's,Sales,Junior,New York,7,0,3.8,7,99.0,4.0,6,88653.4
