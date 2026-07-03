@@ -20,10 +20,17 @@ MODELS = ROOT / "models"
 
 def load_artifacts():
     """Load preprocessor and best model from disk."""
-    preprocessor   = joblib.load(MODELS / "preprocessor.joblib")
-    model          = joblib.load(MODELS / "best_model.joblib")
-    feature_names  = joblib.load(MODELS / "feature_names.joblib")
-    return preprocessor, model, feature_names
+    try:
+        preprocessor   = joblib.load(MODELS / "preprocessor.joblib")
+        model          = joblib.load(MODELS / "best_model.joblib")
+        feature_names  = joblib.load(MODELS / "feature_names.joblib")
+        return preprocessor, model, feature_names
+    except (AttributeError, ImportError, ModuleNotFoundError) as e:
+        raise RuntimeError(f"Model compatibility error (sklearn version mismatch): {e}")
+    except FileNotFoundError as e:
+        raise FileNotFoundError(f"Model files not found: {e}")
+    except Exception as e:
+        raise RuntimeError(f"Error loading models: {e}")
 
 
 def predict_salary(employee: dict, preprocessor=None, model=None) -> dict:

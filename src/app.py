@@ -130,6 +130,13 @@ def load_ml_artifacts():
         feature_names = joblib.load(ROOT / "models" / "feature_names.joblib")
         return preprocessor, model, feature_names
     except FileNotFoundError:
+        st.error("❌ Model files not found. Please ensure models are trained.")
+        return None, None, None
+    except (AttributeError, ImportError, ModuleNotFoundError) as e:
+        st.error(f"❌ Model compatibility error (sklearn version mismatch): {e}")
+        return None, None, None
+    except Exception as e:
+        st.error(f"❌ Error loading models: {e}")
         return None, None, None
 
 
